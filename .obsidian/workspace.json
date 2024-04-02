@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "9bf3d8558b95d2a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "690ce4fa051169e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c129ea0d32b4d266",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "701 - Advanced Software Engineering/Modules/Module 1/Jiang2016WhyFork.pdf"
+              }
+            }
+          },
+          {
+            "id": "4609bea24d63af54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30fe1ecb9ae7065a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "701 - Advanced Software Engineering/Modules/Module 2/Myers2016ProgrammersAreUsers.pdf"
+              }
+            }
+          },
+          {
+            "id": "4a48a2aaadff17ec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "701 - Advanced Software Engineering/Modules/Module 3/Huang2022ReuseSO.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "712ec60de7bd2b21",
+    "type": "split",
+    "children": [
+      {
+        "id": "79c053a607f5d1e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c9c611345bccb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a80d8a96cf11b16e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d91fde7aad5e126",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.50271224975586
+  },
+  "right": {
+    "id": "f911b7f98015773d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8b2fe2ae7c2e23a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60199dc0f75b2d2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Info.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8276bb30ae0a653",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Info.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54314e6f3a73e75e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a710274ed7a5eb75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Info.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4609bea24d63af54",
+  "lastOpenFiles": [
+    "700A - Research Project/project_vjos612-3/Project Phase 1 Vinayak Joshi.pdf",
+    "750 - Software Tools & Techniques/Module 1/Lecture Slides/cs732-module-01.pdf",
+    "750 - Software Tools & Techniques/Module 2/Lecture Slides/cs732-module-02-01-react-router.pdf",
+    "750 - Software Tools & Techniques/Module 3/Lecture Slides/cs732-module-03-01-express.pdf",
+    "750 - Software Tools & Techniques/Module 4/Lecture Slides/cs732-module-04-01-intro-to-mongodb.pdf",
+    "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05-01-Jest.pdf",
+    "750 - Software Tools & Techniques/Module 1/Lecture Slides/cs732-module-01-01-intro.pdf",
+    "750 - Software Tools & Techniques/Module 1/Lecture Slides/cs732-module-01-02-jsx.pdf",
+    "701 - Advanced Software Engineering/Modules/Module 3/Huang2022ReuseSO.pdf",
+    "701 - Advanced Software Engineering/Modules/Module 2/Myers2016ProgrammersAreUsers.pdf",
+    "701 - Advanced Software Engineering/Modules/Module 1/Jiang2016WhyFork.pdf",
+    "images/Pasted image 20240302231133.png",
+    "723 - Embedded Systems Design/Embedded System.md",
+    "723 - Embedded Systems Design/Finite State Machine.md",
+    "Info.md",
+    "700A - Research Project/Research Notes.md",
+    "700A - Research Project/project_vjos612-3/README.md",
+    "723 - Embedded Systems Design/Cyber-Physical Systems.md",
+    "723 - Embedded Systems Design/On the Difference Between Hardware and Software.md",
+    "723 - Embedded Systems Design/Register Transfer Level.md",
+    "723 - Embedded Systems Design/FPGA.md",
+    "723 - Embedded Systems Design/SoC.md",
+    "723 - Embedded Systems Design/images/Pasted image 20240228232040.png",
+    "723 - Embedded Systems Design/images/Pasted image 20240228180501.png",
+    "723 - Embedded Systems Design/images/Pasted image 20240228181028.png",
+    "Pasted image 20240228180916.png",
+    "images/Pasted image 20240226222256.png",
+    "Welcome.md"
+  ]
+}
