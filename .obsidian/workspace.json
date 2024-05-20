@@ -4,48 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "690ce4fa051169e2",
+        "id": "0e008d8dff64add2",
         "type": "tabs",
         "children": [
           {
-            "id": "c129ea0d32b4d266",
+            "id": "ed3e9278548ad1a0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "701 - Advanced Software Engineering/Modules/Module 1/Jiang2016WhyFork.pdf"
+                "file": "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/A review of immersive virtual reality serious games to enhance learning and training.pdf"
               }
             }
           },
           {
-            "id": "4609bea24d63af54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30fe1ecb9ae7065a",
+            "id": "3e63a83afb7b445b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "701 - Advanced Software Engineering/Modules/Module 2/Myers2016ProgrammersAreUsers.pdf"
+                "file": "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05.pdf"
               }
             }
           },
           {
-            "id": "4a48a2aaadff17ec",
+            "id": "f7e901fdfedbb45f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "701 - Advanced Software Engineering/Modules/Module 3/Huang2022ReuseSO.pdf"
+                "file": "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/The Transition from Simulation to Game-Based Learning .pdf"
               }
             }
           }
@@ -100,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.50271224975586
+    "width": 322.5
   },
   "right": {
     "id": "f911b7f98015773d",
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info.md",
+                "file": "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info.md",
+                "file": "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info.md"
+                "file": "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05.pdf"
               }
             }
           }
@@ -164,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,29 +164,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4609bea24d63af54",
+  "active": "3e63a83afb7b445b",
   "lastOpenFiles": [
-    "700A - Research Project/project_vjos612-3/Project Phase 1 Vinayak Joshi.pdf",
-    "750 - Software Tools & Techniques/Module 1/Lecture Slides/cs732-module-01.pdf",
-    "750 - Software Tools & Techniques/Module 2/Lecture Slides/cs732-module-02-01-react-router.pdf",
-    "750 - Software Tools & Techniques/Module 3/Lecture Slides/cs732-module-03-01-express.pdf",
-    "750 - Software Tools & Techniques/Module 4/Lecture Slides/cs732-module-04-01-intro-to-mongodb.pdf",
-    "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05-01-Jest.pdf",
-    "750 - Software Tools & Techniques/Module 1/Lecture Slides/cs732-module-01-01-intro.pdf",
-    "750 - Software Tools & Techniques/Module 1/Lecture Slides/cs732-module-01-02-jsx.pdf",
-    "701 - Advanced Software Engineering/Modules/Module 3/Huang2022ReuseSO.pdf",
-    "701 - Advanced Software Engineering/Modules/Module 2/Myers2016ProgrammersAreUsers.pdf",
-    "701 - Advanced Software Engineering/Modules/Module 1/Jiang2016WhyFork.pdf",
     "images/Pasted image 20240302231133.png",
+    "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05.pdf",
+    "770 - Capstone Project/Course Book(s)/coursebook-v2.0.pdf",
     "723 - Embedded Systems Design/Embedded System.md",
-    "723 - Embedded Systems Design/Finite State Machine.md",
-    "Info.md",
-    "700A - Research Project/Research Notes.md",
-    "700A - Research Project/project_vjos612-3/README.md",
     "723 - Embedded Systems Design/Cyber-Physical Systems.md",
-    "723 - Embedded Systems Design/On the Difference Between Hardware and Software.md",
     "723 - Embedded Systems Design/Register Transfer Level.md",
+    "723 - Embedded Systems Design/On the Difference Between Hardware and Software.md",
     "723 - Embedded Systems Design/FPGA.md",
+    "723 - Embedded Systems Design/Finite State Machine.md",
+    "750 - Software Tools & Techniques/Module 2/Lecture Slides/cs732-module-02.pdf",
+    "750 - Software Tools & Techniques/Module 3/Lecture Slides/cs732-module-03.pdf",
+    "750 - Software Tools & Techniques/Module 4/Lecture Slides/cs732-module-04.pdf",
+    "750 - Software Tools & Techniques/Module 1/Lecture Slides/cs732-module-01.pdf",
+    "701 - Advanced Software Engineering/Theme 2/Slides/701_Theme_2_More_Educational_Theory.pdf",
+    "701 - Advanced Software Engineering/Theme 2/Slides/701_Theme_2_Educational_Literature_and_Design.pdf",
+    "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/The effects of game-based learning in the acquisition of _soft skills_ on undergraduate software engineering courses_ A systematic literature review .pdf",
+    "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/The Transition from Simulation to Game-Based Learning .pdf",
+    "Untitled.md",
+    "Screenshot from 2024-04-24 20-05-46.png",
+    "A4_Reflections.md",
+    "700A - Research Project/Notes/Table of Contents.md",
+    "700A - Research Project/Notes/Linear Regression.md",
+    "700A - Research Project/Notes/images/Pasted image 20240402184337.png",
+    "700A - Research Project/Notes/The Neuron.md",
+    "Info.md",
+    "700A - Research Project/project_vjos612-3/README.md",
     "723 - Embedded Systems Design/SoC.md",
     "723 - Embedded Systems Design/images/Pasted image 20240228232040.png",
     "723 - Embedded Systems Design/images/Pasted image 20240228180501.png",
