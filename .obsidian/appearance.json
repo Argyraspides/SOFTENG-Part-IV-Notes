@@ -3,5 +3,9 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "styles"
-  ]
+  ],
+  "interfaceFontFamily": "Bookman Old Style,Spartan",
+  "baseFontSize": 17,
+  "textFontFamily": "Bookman Old Style",
+  "baseFontSizeAction": true
 }
