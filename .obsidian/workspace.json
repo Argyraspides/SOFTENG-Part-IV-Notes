@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700A - Research Project/Notes/Table of Contents.md",
+                "file": "700A - Research Project/Notes/LOG.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,66 +62,6 @@
               "type": "markdown",
               "state": {
                 "file": "700A - Research Project/Notes/Polynomial Curve Fitting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8175fdfa7cee85ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "700A - Research Project/Notes/Regularization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c254f50acaa1de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "700A - Research Project/Notes/Gradient Descent & Minimization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5420b0801b3a84c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "700A - Research Project/Notes/Convex Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bfc5aa204487568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "700A - Research Project/Notes/Neural Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0628014c53eddb43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "700A - Research Project/Notes/Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700A - Research Project/Notes/Table of Contents.md",
+                "file": "700A - Research Project/Notes/LOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "700A - Research Project/Notes/Table of Contents.md",
+                "file": "700A - Research Project/Notes/LOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "700A - Research Project/Notes/Table of Contents.md"
+                "file": "700A - Research Project/Notes/LOG.md"
               }
             }
           }
@@ -255,13 +195,14 @@
   },
   "active": "bc135ba50328a4d9",
   "lastOpenFiles": [
-    "700A - Research Project/Notes/images/Pasted image 20240610032104.png",
-    "700A - Research Project/Notes/Table of Contents.md",
-    "700A - Research Project/Notes/Neural Networks.md",
-    "700A - Research Project/Notes/Convex Functions.md",
-    "700A - Research Project/Notes/Gradient Descent & Minimization.md",
-    "700A - Research Project/Notes/Regularization.md",
     "700A - Research Project/Notes/Polynomial Curve Fitting.md",
+    "700A - Research Project/Notes/Regularization.md",
+    "700A - Research Project/Notes/Gradient Descent & Minimization.md",
+    "700A - Research Project/Notes/Convex Functions.md",
+    "700A - Research Project/Notes/Neural Networks.md",
+    "700A - Research Project/Notes/LOG.md",
+    "700A - Research Project/Notes/Table of Contents.md",
+    "700A - Research Project/Notes/images/Pasted image 20240610032104.png",
     "700A - Research Project/Notes/Decision Boundaries & The Problem of Generalization.md",
     "700A - Research Project/Notes/Types of Machine Learning.md",
     "700A - Research Project/Notes/Deep Learning.md",
@@ -271,7 +212,6 @@
     "700A - Research Project/Notes/Regression.md",
     "700A - Research Project/Notes/Pattern Recognition.md",
     "700A - Research Project/Notes/Model Evaluation.md",
-    "700A - Research Project/Notes/LOG.md",
     "700A - Research Project/Notes/Backpropagation.md",
     "700A - Research Project/Notes/images/Pasted image 20240610025839.png",
     "700A - Research Project/Notes/images/Pasted image 20240610025550.png",
