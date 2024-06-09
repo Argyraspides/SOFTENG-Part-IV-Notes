@@ -21,9 +21,19 @@
             "id": "3e63a83afb7b445b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd32652b2e9d8937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05.pdf"
+                "file": "700A - Research Project/Notes/Linear Regression.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -104,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,8 +172,15 @@
   },
   "active": "3e63a83afb7b445b",
   "lastOpenFiles": [
-    "images/Pasted image 20240302231133.png",
+    "700A - Research Project/Notes/Regression.md",
+    "Pasted image 20240609063656.png",
+    "images/Pasted image 20240609063554.png",
+    "700A - Research Project/Notes/Linear Regression.md",
+    "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/A review of immersive virtual reality serious games to enhance learning and training.pdf",
+    "700A - Research Project/Notes/The Neuron.md",
+    "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/The Transition from Simulation to Game-Based Learning .pdf",
     "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05.pdf",
+    "images/Pasted image 20240302231133.png",
     "770 - Capstone Project/Course Book(s)/coursebook-v2.0.pdf",
     "723 - Embedded Systems Design/Embedded System.md",
     "723 - Embedded Systems Design/Cyber-Physical Systems.md",
@@ -181,15 +194,11 @@
     "750 - Software Tools & Techniques/Module 1/Lecture Slides/cs732-module-01.pdf",
     "701 - Advanced Software Engineering/Theme 2/Slides/701_Theme_2_More_Educational_Theory.pdf",
     "701 - Advanced Software Engineering/Theme 2/Slides/701_Theme_2_Educational_Literature_and_Design.pdf",
-    "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/The effects of game-based learning in the acquisition of _soft skills_ on undergraduate software engineering courses_ A systematic literature review .pdf",
-    "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/The Transition from Simulation to Game-Based Learning .pdf",
     "Untitled.md",
     "Screenshot from 2024-04-24 20-05-46.png",
     "A4_Reflections.md",
     "700A - Research Project/Notes/Table of Contents.md",
-    "700A - Research Project/Notes/Linear Regression.md",
     "700A - Research Project/Notes/images/Pasted image 20240402184337.png",
-    "700A - Research Project/Notes/The Neuron.md",
     "Info.md",
     "700A - Research Project/project_vjos612-3/README.md",
     "723 - Embedded Systems Design/SoC.md",

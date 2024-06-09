@@ -1,3 +1,8 @@
+---
+aliases:
+  - linear regression
+---
+
 Suppose I want to predict how many ice creams people will buy given the temperature of the day.
 
 $t = Temperature$
