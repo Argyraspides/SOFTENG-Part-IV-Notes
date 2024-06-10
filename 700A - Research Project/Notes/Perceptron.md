@@ -1,0 +1,5 @@
+---
+aliases:
+  - perceptrons
+  - perceptron
+---
