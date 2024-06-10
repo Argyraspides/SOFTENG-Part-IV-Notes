@@ -83,8 +83,6 @@ Because the lack of gradients can be a problem with step function, a linear acti
 
 You could represent the above line with $\large y = mx + c$ or something, where $\large x$, of course, would be your input. This is great as we now have a gradient and can represent some sort of blending instead of simply having $\large 1$ or $\large 0$. While this is nice, there's still a small problem -- the gradient itself is constant. What if our conclusion rocks back and forth a lot depending on the value of $\large x$? Maybe if the value of $\large x$ was very small then the output should be $\large A$, if its a moderate value then $\large B$, but if its really big then it should be $\large A$ again? This linear activation function can't really represent such a scenario (this could be something like, if an adult weighs 2kg then they're probably not doing so well, if they are 75kg then they are probably doing okay, and if they are 9999kg then they're probably not doing so well.)
 
-From my course:
-
 ![[Pasted image 20240610195329.png ]]
 
 #### Sigmoid Activation Function
@@ -107,6 +105,28 @@ Where $\large a$ is the "slope parameter" of the sigmoid function. Some examples
 You can see the higher the value of $\large a$, the steeper the sigmoid function gets. As $\large a \rightarrow \inf$, it basically just becomes a step function. The only difference is that the moment you cross a certain threshold with a step function you immediately jump from $\large 0$ to $\large 1$ or vice versa, whereas with a sigmoid function there is no such threshold -- you'll obtain values in between, still.
 
 A neat property of the sigmoid function is the fact that you can *differentiate it*. You cannot do this with the step function. The sigmoid function basically gives you the best of both worlds. Being able to differentiate a function is very valuable in neural network training (we will discuss this later.)
+
+Of course, the sigmoid function isn't perfect. Notice how as the $\large x$ value increases or decreases, the gradient rapidly drops. This means that as we keep on increasing our $\large x$ value, our output values don't "respond" as much as they did when $\large x$ was smaller. This leads to something known as the [[vanishing gradient]] problem, which leads to a neural network training incredibly slowly or outright not wanting to learn further. Notice how the sigmoid function also only outputs positive values. This is another limitation.
+#### Hyperbolic Tangent Activation Function
+To address the problem of the gradient effectively becoming 0 in a sigmoid function, we can use something known as a hyperbolic tangent activation function. It's also known as the 'tanh' function. See below a comparison between the tanh function and sigmoid function:
+
+![[Pasted image 20240610201500.png]]
+
+Notice how this also gives us values that aren't just positive. The tanh function is basically just the sigmoid function with its $\large y$output extended (a range of $\large -1$ to $\large 1$, addressing the "unipolar" problem of the sigmoid function) Below is an image showing the tanh function and its derivative (the derivative for a sigmoid looks basically the same)
+
+![[Pasted image 20240610202132.png|500]]
+
+The tanh function can be mathematically expressed as:
+
+$$ \LARGE tanh(x) = \frac{e^x - e^{-x}}{e^x + e^{-x}}$$ And its derivative as:
+$$ \LARGE \frac{d}{dx}tanh(x) = 1-tanh^2(x) $$
+
+![[Pasted image 20240610202620.png]]
+
+![[Pasted image 20240610202719.png]]
+
+There are also other activation functions, known as "softsign," "rectified linear unit," "leaky rectified linear unit," "maxout," "softplus," "swish," and much, much more.
+
 
 Fundamentally this is how neural networks work. Now answering the question of how $\large x$ could possibly represent an image, or audio, or whatever piece of information, consider the image below:
 

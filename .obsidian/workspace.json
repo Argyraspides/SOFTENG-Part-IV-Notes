@@ -28,6 +28,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5ebcfe0219f3c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "700A - Research Project/Notes/vanishing gradient.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -156,20 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96c9c611345bccb3",
+  "active": "3289745c52e8dd59",
   "lastOpenFiles": [
+    "Pasted image 20240610202719.png",
+    "Pasted image 20240610202620.png",
+    "Pasted image 20240610202132.png",
+    "700A - Research Project/Notes/images/Pasted image 20240610201500.png",
+    "700A - Research Project/Notes/Neural Networks.md",
+    "700A - Research Project/Notes/vanishing gradient.md",
+    "700A - Research Project/Notes/images/Pasted image 20240610201631.png",
     "700A - Research Project/Notes/Backpropagation.md",
     "700A - Research Project/Notes/images/Pasted image 20240610152231.png",
-    "700A - Research Project/Notes/Neural Networks.md",
     "700A - Research Project/Notes/images/Pasted image 20240610200210.png",
     "700A - Research Project/Notes/images/Pasted image 20240610200201.png",
     "700A - Research Project/Notes/images/Pasted image 20240610200139.png",
     "700A - Research Project/Notes/images/Pasted image 20240610195502.png",
     "700A - Research Project/Notes/images/Pasted image 20240610195329.png",
-    "700A - Research Project/Notes/images/Pasted image 20240610194734.png",
-    "700A - Research Project/Notes/images/Pasted image 20240610194226.png",
-    "700A - Research Project/Notes/images/Pasted image 20240610193623.png",
-    "700A - Research Project/Notes/images/Pasted image 20240610193032.png",
     "700A - Research Project/Notes/The Neuron.md",
     "700A - Research Project/Notes/Table of Contents.md",
     "700A - Research Project/Notes/neurons.md",
@@ -198,7 +212,6 @@
     "723 - Embedded Systems Design/Embedded System.md",
     "723 - Embedded Systems Design/Cyber-Physical Systems.md",
     "723 - Embedded Systems Design/Register Transfer Level.md",
-    "723 - Embedded Systems Design/On the Difference Between Hardware and Software.md",
     "750 - Software Tools & Techniques/Module 2/Lecture Slides/cs732-module-02.pdf",
     "750 - Software Tools & Techniques/Module 3/Lecture Slides/cs732-module-03.pdf",
     "750 - Software Tools & Techniques/Module 4/Lecture Slides/cs732-module-04.pdf",
