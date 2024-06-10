@@ -44,4 +44,4 @@ When it comes to supervised learning, we must ensure the following: Determining 
 Avoiding inappropriate representations: The whole point of unsupervised learning is to capture underlying patterns and structures in the data. As such, our algorithm should capture meaningful and relevant patterns. This involves having a well-made cost function and choosing the appropriate cluster count.**
 
 
-### Next: [[Neural Networks]]
+### Next: [[The Neuron]]

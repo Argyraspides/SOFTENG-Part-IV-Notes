@@ -1,8 +1,8 @@
-A generic term used to refer to the classification of objects into different categories or classes. Such objects will be different depending on the application, e.g. for speech recognition the objects might be audio waveforms that make certain words. Systems that use pattern recognition must classify objects based on certain attributes which would be extracted from data.
+A generic term used to refer to the classification of objects into different categories or classes. Such objects will be different depending on the application, e.g. for speech recognition the objects might be audio wave-forms that make certain words. Systems that use pattern recognition must classify objects based on certain attributes which would be extracted from data.
 
 We want to distinguish different objects. How would we go about doing this? Take the example below:
 
-![[Pasted image 20240610012945.png | 500]]
+![[Pasted image 20240610012945.png#center|500]]
 
 We will call these two the black and white pebble. If us humans are given a different picture of these two variants, we will pretty easily be able to tell which is a “black pebble” and which is a “white pebble”. How do we train machines to do this? Statistics is quite a good way to solve this.
 
