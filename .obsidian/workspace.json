@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "937edb477559ace6",
+        "id": "689a8ee6711757c1",
         "type": "tabs",
         "children": [
           {
-            "id": "34b069ac2d6c9cc5",
+            "id": "0c539d151419191e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700A - Research Project/Notes/Table of Contents.md",
+                "file": "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4b521175afa86165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "700A - Research Project/Notes/Training a Neural Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3289745c52e8dd59",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700A - Research Project/Notes/Training a Neural Network.md",
+                "file": "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "700A - Research Project/Notes/Training a Neural Network.md",
+                "file": "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "700A - Research Project/Notes/Training a Neural Network.md"
+                "file": "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md"
               }
             }
           }
@@ -154,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b521175afa86165",
+  "active": "0c539d151419191e",
   "lastOpenFiles": [
+    "Pasted image 20240617155902.png",
+    "700A - Research Project/Notes/images/Pasted image 20240610202132.png",
+    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155745.png",
+    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155657.png",
+    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155556.png",
+    "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
+    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155535.png",
+    "700A - Research Project/Model Performances/Roboflow 3.0/images",
+    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155550.png",
+    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155542.png",
+    "700A - Research Project/Notes/Hyperparameters.md",
+    "700A - Research Project/Model Performances/Roboflow 3.0",
+    "700A - Research Project/Model Performances",
     "700A - Research Project/Notes/Neural Networks.md",
-    "700A - Research Project/Notes/Training a Neural Network.md",
-    "700A - Research Project/Notes/Table of Contents.md",
     "700A - Research Project/Notes/The Neuron.md",
     "700A - Research Project/Notes/Types of Machine Learning.md",
-    "700A - Research Project/Notes/Pattern Recognition.md",
-    "700A - Research Project/Notes/Deep Learning.md",
-    "700A - Research Project/Notes/Machine Learning.md",
+    "700A - Research Project/Notes/images/Pasted image 20240610202719.png",
+    "700A - Research Project/Notes/images/Pasted image 20240610202620.png",
+    "700A - Research Project/Notes/Polynomial Curve Fitting.md",
     "700A - Research Project/Notes/Perceptron.md",
-    "700A - Research Project/Notes/images/Pasted image 20240610152231.png",
-    "700A - Research Project/Notes/vanishing gradient.md",
-    "Pasted image 20240610202719.png",
-    "Pasted image 20240610202620.png",
-    "Pasted image 20240610202132.png",
-    "700A - Research Project/Notes/images/Pasted image 20240610201500.png",
-    "700A - Research Project/Notes/images/Pasted image 20240610201631.png",
-    "700A - Research Project/Notes/Backpropagation.md",
-    "700A - Research Project/Notes/images/Pasted image 20240610200210.png",
-    "700A - Research Project/Notes/images/Pasted image 20240610200201.png",
-    "700A - Research Project/Notes/images/Pasted image 20240610200139.png",
-    "700A - Research Project/Notes/images/Pasted image 20240610195502.png",
-    "700A - Research Project/Notes/neurons.md",
+    "700A - Research Project/Notes/Pattern Recognition.md",
     "700A - Research Project/Notes/Model Evaluation.md",
+    "700A - Research Project/Notes/Machine Learning.md",
     "700A - Research Project/Notes/LOG.md",
     "700A - Research Project/Notes/Gradient Descent & Minimization.md",
+    "700A - Research Project/Notes/Deep Learning.md",
+    "700A - Research Project/Notes/Table of Contents.md",
     "700A - Research Project/Notes/Decision Boundaries & The Problem of Generalization.md",
     "700A - Research Project/Notes/Convex Functions.md",
+    "700A - Research Project/Notes/Backpropagation.md",
+    "700A - Research Project/Notes/Training a Neural Network.md",
+    "700A - Research Project/Notes/images/Pasted image 20240610152231.png",
+    "700A - Research Project/Notes/vanishing gradient.md",
+    "700A - Research Project/Notes/neurons.md",
     "Neural Network.md",
-    "700A - Research Project/Notes/Polynomial Curve Fitting.md",
     "700A - Research Project/Notes/Regularization.md",
     "700A - Research Project/Notes/Support Vector Machines.md",
     "700A - Research Project/Notes/Regression.md",
     "700A - Research Project/Notes/Linear Regression.md",
-    "neuron.md",
     "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/The Transition from Simulation to Game-Based Learning .pdf",
     "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/A review of immersive virtual reality serious games to enhance learning and training.pdf",
     "700A - Research Project/Documents/Research Papers/700A Literature Review.pdf",
     "700A - Research Project/project_vjos612-3/Project Phase 1 Vinayak Joshi.pdf",
     "750 - Software Tools & Techniques/Module 5/Lecture Slides/cs732-module-05.pdf",
     "770 - Capstone Project/Course Book(s)/coursebook-v2.0.pdf",
-    "723 - Embedded Systems Design/Embedded System.md",
-    "723 - Embedded Systems Design/Cyber-Physical Systems.md",
-    "750 - Software Tools & Techniques/Module 2/Lecture Slides/cs732-module-02.pdf",
-    "750 - Software Tools & Techniques/Module 3/Lecture Slides/cs732-module-03.pdf",
-    "750 - Software Tools & Techniques/Module 4/Lecture Slides/cs732-module-04.pdf",
-    "750 - Software Tools & Techniques/Module 1/Lecture Slides/cs732-module-01.pdf"
+    "750 - Software Tools & Techniques/Module 2/Lecture Slides/cs732-module-02.pdf"
   ]
 }
