@@ -11,8 +11,12 @@
             "id": "7813f4bb286ea260",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "700A - Research Project/Notes/LOG.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155902.png",
+                "file": "700A - Research Project/Notes/LOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155902.png",
+                "file": "700A - Research Project/Notes/LOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155902.png"
+                "file": "700A - Research Project/Notes/LOG.md"
               }
             }
           }
@@ -142,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96c9c611345bccb3",
+  "active": "7813f4bb286ea260",
   "lastOpenFiles": [
+    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155902.png",
     "700A - Research Project/Notes/LOG.md",
     "700A - Research Project/Documents/700A Literature Review.pdf",
     "700A - Research Project/project_vjos612-3/Project Phase 1 Vinayak Joshi.pdf",
     "700A - Research Project/Canvas Files/P4PHandbook-ECSE-2024.pdf",
     "700A - Research Project/Canvas Files/P4P_Lecture-28Feb2024.pdf",
     "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
-    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155902.png",
     "700A - Research Project/Notes/images/Pasted image 20240610202132.png",
     "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155745.png",
     "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155657.png",

@@ -45,24 +45,24 @@ This log is for tracking what I've done, what I plan on doing, and what needs to
 - Trained some models using transfer learning
 	- Trained with dataset from: https://app.roboflow.com/700a-aukam/electric-scooter-ojxbb/1 (find original authors pls)
 	- Pre-trained model used: "yolov8n.pt" by Ultralytics (overriding all classes and forcing it to just check for e-scooters)
-			- ***1: 20 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.5)***: 
+			- ***#1: 20 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.5)***: 
 				- Model performed absolute trash. 20 epochs seems too much for simply fine-tuning
-			- ***2: 10 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.5)***:
+			- ***#2: 10 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.5)***:
 				- Model performed much better. Was easily detecting e-scooters but only when relatively close-up. Sometimes confused a pole for an e-scooter
-			- ***3: 5 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.5)***:
+			- ***#3: 5 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.5)***:
 				- Model performed like crap. Thought the entire background was an e-scooter for the entire footage duration. 
 	- Pre-trained model used: "yolov8s.pt" by Ultralytics (overriding all classes and forcing it to just check for e-scooters)
-		- ***4: 7 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6)***
+		- ***#4: 7 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6)***
 			- Model performed much better than everything starting from "yolov8n.pt" pre-trained weights above. The only issue was that cars were sometimes being confused for e-scooters. It's possible 7 epochs was also too much and maybe "overrode" what the model thinks is a car. Perhaps it actually thought it was a car and was simply mislabelled in code?
 	- Pre-trained model used: "yolov8s.pt" by Ultralytics (Including ALL classes + e-scooters and seeing how it handles that)
-		- ***5: 6 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6)***
-			- Performs about the same as ***4***
+		- ***#5: 6 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6)***
+			- Performs about the same as ***#4***
 				- Turning the confidence up to 0.6 makes it perform a bit better. However for small blips, it thinks that cars are e-scooters.
 					- Noticed that if a car is in the frame, it sometimes thinks the *other side* of the image is an e-scooter?
 					- For some reason, despite the fact that because this is simply fine-tuning a pre-trained model, it SHOULD already know what a car is, still seems to be overridden completely. Maybe this is why its performing weirdly?
 	- Pre-trained model used: "yolov8m.pt" by Ultralytics (Including ALL classes + e-scooters and seeing how it handles that)
-		- ***6: 7 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6)***
-			- Confused cars less often than ***5***. Best performer overall. There are still random blips where it thinks parts of the background are e-scooters.
+		- ***#6: 7 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6)***
+			- Confused cars less often than ***#5***. Best performer overall. There are still random blips where it thinks parts of the background are e-scooters.
 
 
 
@@ -71,4 +71,26 @@ Next steps: The Roboflow model seems to be production-ready. It never confuses a
 Find out why Roboflow was able to train the model so well via transfer learning but you werent
 - Maybe the particular pre-trained model they were using was better?
 - Maybe you're performing transfer learning incorrectly?
-- Random balance of epochs, batches, and whatnot that you werent able to strike?
+- Random balance of epochs, batches, and whatnot that you weren't able to strike?
+
+### June 19th
+
+- Indeed, it appears I have been performing transfer learning incorrectly. You have to specify which NN layers to freeze, you idiot!
+
+	- Pre-trained model used: "yolov8s.pt" by Ultralytics (overriding all classes and forcing it to just check for e-scooters)
+		- ***#7: 2 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6, 20 frozen layers)***
+			- Model performs very similarly to the Roboflow one! Which is good news. Transfer learning has really good results
+				- There were still very tiny blips where it thought a car was an e-scooter (for a fraction of a second). Hopefully this is something that can just be ironed out
+				- Also very tiny blips where it thought a person was an e-scooter.
+		- ***#8: 3 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6, 20 frozen layers)***
+			- Doesn't appear to be much different.
+		- ***#9: 4 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6, 15 frozen layers)***
+			- Slightly worse. Freezing more layers seems to be better. Next up tinker with between 15 and 20?
+		- ***#10: 5 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6, 20 frozen layers)***
+			- Meh. About same as ***#5***
+	- Pre-trained model used: "yolov8m.pt" by Ultralytics (overriding all classes and forcing it to just check for e-scooters)
+		- ***#11: 3 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6, 20 frozen layers)***
+			- Wasn't able to detect ANYTHING
+	- Pre-trained model used: "yolov8s.pt" by Ultralytics (overriding all classes and forcing it to just check for e-scooters)
+		- ***#12: 2 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6, 17 frozen layers)***
+			- Thinks there are invisible e-scooters everywhere.
