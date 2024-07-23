@@ -1,0 +1,52 @@
+1. What were some of the major shifts in the topics of HCI research from the original focus on word processing and other office automation software? Discuss at least two shifts in the focus of research.
+	1. One shift was looking more into other interfaces such as messaging apps, search engines, websites, etc as the internet and mobile devices took off. Another shift was looking into user generated content? I'm not sure what this means.
+***
+2. What are the standard quantitative metrics that have been used in HCI research since the early 1980s? 
+	1. Assigning tasks and then checking error & success rates for those tasks, the speed at which the tasks are performed, how long it took to learn how to do the specific task, user satisfaction (the user themselves rates,) and retention over time (how well a user remembers how to use an interface after not using it for some time)
+***
+3. What are some newer metrics used in HCI research? 
+	1. ***"The field of HCI has begun to apply more research methods from the social sciences"***. Or more ***macro-HCI*** rather than ***micro-HCI***
+		1. Prior to this statement the textbook mentions that nowadays, given how we use technology (and how different and diverse technology is nowadays compared to way back when,) questions relating more to *why* people prefer or do a certain thing are becoming more and more prevalent. E.g. asking *why* people edit Wikipedia articles in their own free time, rather than asking "Is Wikipedia's interface easy to use?"
+
+	2. ***"You may not be able to use experimental laboratory research to learn why people don't use technology. If you want to examine how people use portable or mobile technology such as smart phones and wearable computing, there are limitations to studying that in a controlled laboratory setting. If you want to study how people communicate with trusted partners, choose to perform business transactions with someone they don't know on another continent (as often happens with Ebay), or choose to collaborate, you need to find new ways of research and new forms of measurement. These are not research questions that can be answered with quantitative measurements in a short-term laboratory setting."***
+
+	3. In the textbook specifically, HCI (nowadays) attempts to measure:
+		1. ***"... motivation, collaboration, social participation, trust, and empathy, perhaps having societal-level impacts ..."*** through:
+			1. ***"... Multimethod approaches, possibly involving case studies, observations, interviews, data logging, and other longitudinal techniques ..."***
+***
+4. What is triangulation? Why is it important? 
+	1. If lots of research by many different groups is carried out in a particular area, where each of these research groups use a variety of different research methodologies *and* all come to the same general conclusion/have the same general findings -- *This* is triangulation. 
+		1. It is important as if it occurs, then this is damning evidence to make scientific conclusions on the research topic in question. E.g. if multiple different studies done by many research groups using a variety of methodologies all come to the same findings of "Smoking causes a X% increase in the risk of developing lung cancer," then you, by all means, have great grounding to cite this as scientific fact. 
+		2. Another reason it is important is because it reduces any bias/flaws in one particular research method, making the conclusion easier to accept (as each research method will have its own strength/weaknesses, if despite this all methods come to the same conclusion/have the same findings, then you can be more confident in the outcome of the research.)
+			1. You can think of this as something similar to how some species of birds during migration will try and follow the birds nearest to them. Some birds are right on target to reach the correct destination, and some birds will be way off course (in terms of their "feeling" on where to go -- birds don't actually have a built-in GPS after all.) If each bird, in addition to its own feeling on where to go, adjusts its path based on the path of its nearest neighbors -- then on average, the entire flock will head in a direction which should be close enough to the actual destination.
+***
+5. Why doesn't one published research paper equate to scientific truth? 
+	1. There may be biases or flaws in their research methodologies including how they gather a group for testing, how this testing is carried out, what kind of tests they even are, etc. You would need many different papers tackling the question at many different angles to even *begin* to cite any sort of scientific fact (and this is without having them peer reviewed, which is also a necessary step.)
+	2. The whole point of the scientific method is that results are reproducible. One research paper is the opposite of that. The results of the study must also be done in the same manner in addition to being done in different manners to confirm that, indeed, the results are reproducible. I.e., you did X, Y, and Z and your findings were W -- but I also did exactly X, Y, and Z but my findings were V, then something's wrong! However, If my findings were also W, and so was everyone else's, *then* we can start drawing some conclusions.
+***
+6. Name four disciplines that have helped contribute to the field of human- computer interaction. 
+	1. Computer science, software engineering, psychology and ... art/design?
+***
+7. What are the seven types of research contributions described by Wobbrock and Kientz? Which two types are the most commonly performed types of HCI research? 
+	1. Empirical, artifact, methodological, dataset, survey, and opinion contributions
+	2. The most common ones are empirical and artifact, which makes sense. 
+***
+8. Are there any national or international data sets collected on a yearly basis for HCI researchers? 
+	1. No:
+		1. ***"... For instance, in the United States, the General Social Survey, or government organizations such as the National Center on Health Statistics, the US Census Bureau, or the Bureau of Labor Statistics, collect data using strict and well established methodological controls. Outside of the US, agencies such as Statistics Canada, and EuroStat, collect excellent quality data, allowing researchers to, in many cases, to focus less on data collection and more on data analysis. However, this practice of national and/or annual data sets, does not exist in the area of HCI. Most HCI researchers must collect their own data. So that alone makes HCI research complex."***
+***
+9. What types of research questions in HCI does big data help us understand? What types of research questions does big data not help us understand? What types of research questions could longitudinal data help us understand? 
+	1. Big data can help you identify general trends of certain things, e.g. "As the delete button became more red, people clicked on it faster" but not *why* those trends exist (for that, you must ask the people directly.) Did they click it faster because it was more visible? Because it was easier to associate with delete? We cant know. The book puts it simply: ***"Big data can help us determine correlations (where there are relationships,) but might not help us determine causality"*** As for longitudinal data, it can be useful to see trends in usage of particular technologies (e.g. internet adoption/usage trends over the years) or how certain technologies affect us (e.g. impacts of social media on psychology over the span of months/years)
+***
+10. When researchers are doing research in an industrial setting to influence new technologies being built for that company, what considerations do they have, that HCI researchers working in a university, may not have considered? 
+	1. How much their work impacts the actual world rather than other researchers. According to the textbook, ***"Most researchers in HCI often, unknowingly, target their HCI research towards other researchers"***, and oftentimes do not consider how the research has actually impacted the world outside of a research context. Sure, a paper you wrote might have been cited many times but that's just in the *research world.* 
+		1. ***"The idea of societal impact outside of other publications, is not something that most researchers receive training on, or research even consider, and unless an individual is working in an industrial research lab or as a practitioner (where the goal is often to influence design and development) it is just perceived that the goal is to be cited by other researchers. However, there are other audiences for HCI research, aside from other researchers. Doing research targeted at other audiences requires different approaches to research, and different ways of communicating the findings of that research"***
+***
+
+11. What are three suggestions for how to inform public policy makers about your HCI research, relevant to their legislative, executive, or judicial work? 
+12. Give one benefit and one drawback of controlled laboratory studies versus field studies. 
+13. Describe three professional challenges of interdisciplinary research. 
+14. Describe three research design challenges in interdisciplinary research. 
+15. Describe three inherent conflicts in human-computer interaction. 
+16. What do you think the field of HCI research will look like in 20 years?
+	1. Given that its already a shitshow of 1000 different things it will likely remain that way for a while. Answering hyperspecific questions in a domain thats infinitely long (especially as there are definitely going to be many many new interfaces and ways to use tech in the future with technology developing at the pace that it is) means it will likely stay a shitshow but instead of 1000 different things it will be 100,000 different things. It could also be the case that HCI comes in clutch and suddenly develops some super-omega-special-fantastic UI that will work for every single use case under the sun after coming up with some cracked theory on how we perceive information or some shit

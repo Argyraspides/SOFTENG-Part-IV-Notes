@@ -94,3 +94,18 @@ Find out why Roboflow was able to train the model so well via transfer learning 
 	- Pre-trained model used: "yolov8s.pt" by Ultralytics (overriding all classes and forcing it to just check for e-scooters)
 		- ***#12: 2 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6, 17 frozen layers)***
 			- Thinks there are invisible e-scooters everywhere.
+		- ***#13: 4 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6, 17 frozen layers)***
+
+
+Randomly running into the following issue during training:
+
+![[Pasted image 20240619174315.png]]
+
+Super annoying.
+
+- Pre-trained model used: "yolov8s.pt" by Ultralytics (overriding all classes and forcing it to just check for e-scooters)
+	- Combined the "electric.scooter.v1i.yolov8" and "scooter.v1i.yolov8" datasets together to make one massive dataset of 10k images
+		- ***#14: 8 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.5, 16 frozen layers)***
+			- Best performing model to date. Named "bestObservedModelRecreation7". Only failed in two instances for a fraction of a second where it thought a person and a car was an e-scooter, but thats it. Rest of the time detected an e-scooter rider in close-ish proximity (after entering the carpark -- past the red bar). Also performed much better detecting e-scooter rider from behind.
+		- ***#15: 8 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6, 16 frozen layers)***
+			- This particular one was fine tuned using ultralytics. AdamW optimizer. The best hyperparameters were then used for training in addition to those above. Performs similarly to ***#14***. Slightly worse IMO.

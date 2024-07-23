@@ -11,11 +11,9 @@
             "id": "7813f4bb286ea260",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "700A - Research Project/Notes/LOG.md",
-                "mode": "source",
-                "source": false
+                "file": "761 - Advanced Agile & Lean SD/Assignments/A1.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700A - Research Project/Notes/LOG.md",
+                "file": "761 - Advanced Agile & Lean SD/Assignments/A1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "700A - Research Project/Notes/LOG.md",
+                "file": "761 - Advanced Agile & Lean SD/Assignments/A1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "700A - Research Project/Notes/LOG.md"
+                "file": "761 - Advanced Agile & Lean SD/Assignments/A1.pdf"
               }
             }
           }
@@ -148,50 +146,50 @@
   },
   "active": "7813f4bb286ea260",
   "lastOpenFiles": [
-    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155902.png",
+    "761 - Advanced Agile & Lean SD/Week 1/Week 1 Reading.md",
+    "761 - Advanced Agile & Lean SD/Assignments/A1.pdf",
+    "761 - Advanced Agile & Lean SD/Assignments",
+    "761 - Advanced Agile & Lean SD/Week 1/Modules/project_pages.zip",
+    "761 - Advanced Agile & Lean SD/Week 1/Modules/Models-of-reflection.pdf",
+    "761 - Advanced Agile & Lean SD/Week 1/Modules",
+    "761 - Advanced Agile & Lean SD/Week 1",
+    "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
+    "761 - Advanced Agile & Lean SD",
+    "702 - Advanced HCI/Week 1/Material/L1 - Introduction to Advanced HCI.pdf",
+    "702 - Advanced HCI/Week 1/Material/Jonathan Lazar, Jinjuan Feng and Harry Hochheiser (Auth.) - Research Methods in Human Computer Interaction- Morgan Kaufmann  (2017).pdf",
     "700A - Research Project/Notes/LOG.md",
-    "700A - Research Project/Documents/700A Literature Review.pdf",
-    "700A - Research Project/project_vjos612-3/Project Phase 1 Vinayak Joshi.pdf",
-    "700A - Research Project/Canvas Files/P4PHandbook-ECSE-2024.pdf",
-    "700A - Research Project/Canvas Files/P4P_Lecture-28Feb2024.pdf",
+    "700A - Research Project/Notes/Machine Learning.md",
     "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
-    "700A - Research Project/Notes/images/Pasted image 20240610202132.png",
+    "700A - Research Project/Canvas Files/P4P_Lecture-28Feb2024.pdf",
+    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155902.png",
     "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155745.png",
     "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155657.png",
-    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155556.png",
-    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155535.png",
-    "700A - Research Project/Model Performances/Roboflow 3.0/images",
     "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155550.png",
     "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155542.png",
-    "700A - Research Project/Notes/Hyperparameters.md",
-    "700A - Research Project/Model Performances/Roboflow 3.0",
-    "700A - Research Project/Model Performances",
+    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155535.png",
+    "Pasted image 20240619174315.png",
     "700A - Research Project/Notes/Neural Networks.md",
+    "700A - Research Project/Notes/Model Evaluation.md",
+    "700A - Research Project/Notes/Decision Boundaries & The Problem of Generalization.md",
+    "700A - Research Project/Notes/Deep Learning.md",
+    "700A - Research Project/Notes/Convex Functions.md",
+    "700A - Research Project/Notes/Backpropagation.md",
+    "700A - Research Project/Notes/images/Pasted image 20240610202132.png",
+    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155556.png",
+    "700A - Research Project/Notes/Hyperparameters.md",
     "700A - Research Project/Notes/The Neuron.md",
     "700A - Research Project/Notes/Types of Machine Learning.md",
     "700A - Research Project/Notes/images/Pasted image 20240610202719.png",
-    "700A - Research Project/Notes/images/Pasted image 20240610202620.png",
     "700A - Research Project/Notes/Polynomial Curve Fitting.md",
     "700A - Research Project/Notes/Perceptron.md",
     "700A - Research Project/Notes/Pattern Recognition.md",
-    "700A - Research Project/Notes/Model Evaluation.md",
-    "700A - Research Project/Notes/Machine Learning.md",
     "700A - Research Project/Notes/Gradient Descent & Minimization.md",
-    "700A - Research Project/Notes/Deep Learning.md",
     "700A - Research Project/Notes/Table of Contents.md",
-    "700A - Research Project/Notes/Decision Boundaries & The Problem of Generalization.md",
-    "700A - Research Project/Notes/Convex Functions.md",
-    "700A - Research Project/Notes/Backpropagation.md",
     "700A - Research Project/Notes/Training a Neural Network.md",
     "700A - Research Project/Notes/vanishing gradient.md",
     "700A - Research Project/Notes/neurons.md",
     "Neural Network.md",
     "700A - Research Project/Notes/Regularization.md",
-    "700A - Research Project/Notes/Support Vector Machines.md",
-    "700A - Research Project/Notes/Regression.md",
-    "700A - Research Project/Notes/Linear Regression.md",
-    "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/The Transition from Simulation to Game-Based Learning .pdf",
-    "701 - Advanced Software Engineering/Theme 2/Research Papers/Gamification/A review of immersive virtual reality serious games to enhance learning and training.pdf",
-    "700A - Research Project/Documents/Research Papers/700A Literature Review.pdf"
+    "700A - Research Project/Notes/Support Vector Machines.md"
   ]
 }
