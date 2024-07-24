@@ -16,8 +16,21 @@
                 "file": "761 - Advanced Agile & Lean SD/Assignments/A1.pdf"
               }
             }
+          },
+          {
+            "id": "fbd79ab525b4e1b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "761 - Advanced Agile & Lean SD/Assignments/A1.pdf",
+                "file": "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "761 - Advanced Agile & Lean SD/Assignments/A1.pdf",
+                "file": "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "761 - Advanced Agile & Lean SD/Assignments/A1.pdf"
+                "file": "702 - Advanced HCI/Week 1/Chapter 1 Notes.md"
               }
             }
           }
@@ -144,8 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7813f4bb286ea260",
+  "active": "fbd79ab525b4e1b3",
   "lastOpenFiles": [
+    "702 - Advanced HCI/Week 1/Material/Jonathan Lazar, Jinjuan Feng and Harry Hochheiser (Auth.) - Research Methods in Human Computer Interaction- Morgan Kaufmann  (2017).pdf",
+    "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
     "761 - Advanced Agile & Lean SD/Week 1/Week 1 Reading.md",
     "761 - Advanced Agile & Lean SD/Assignments/A1.pdf",
     "761 - Advanced Agile & Lean SD/Assignments",
@@ -153,10 +168,8 @@
     "761 - Advanced Agile & Lean SD/Week 1/Modules/Models-of-reflection.pdf",
     "761 - Advanced Agile & Lean SD/Week 1/Modules",
     "761 - Advanced Agile & Lean SD/Week 1",
-    "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
     "761 - Advanced Agile & Lean SD",
     "702 - Advanced HCI/Week 1/Material/L1 - Introduction to Advanced HCI.pdf",
-    "702 - Advanced HCI/Week 1/Material/Jonathan Lazar, Jinjuan Feng and Harry Hochheiser (Auth.) - Research Methods in Human Computer Interaction- Morgan Kaufmann  (2017).pdf",
     "700A - Research Project/Notes/LOG.md",
     "700A - Research Project/Notes/Machine Learning.md",
     "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
