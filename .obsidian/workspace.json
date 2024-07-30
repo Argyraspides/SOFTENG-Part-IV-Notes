@@ -8,32 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71bd42f9a789795a",
+            "id": "d5da41c3a31057dc",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
                 "file": "image.png"
-              }
-            }
-          },
-          {
-            "id": "f2482c50e87fda10",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "702 - Advanced HCI/Week 2/Material/HumanMachineInteraction.pdf"
-              }
-            }
-          },
-          {
-            "id": "d5da41c3a31057dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "702 - Advanced HCI/Week 2/Material/Multimodal_human-computer_interaction_A_survey.pdf"
               }
             }
           }
@@ -164,50 +144,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "34cfc457ddc354a6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b527f9ffd7f95cc0",
-        "type": "window",
-        "children": [
-          {
-            "id": "675a800d07298d3b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4a0e655af6b4af62",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "702 - Advanced HCI/Week 2/Material/L2 - multimodal interfaces and interactions.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1920,
-        "y": 167,
-        "width": 1553,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "71bd42f9a789795a",
+  "active": "d5da41c3a31057dc",
   "lastOpenFiles": [
+    "403/16 Jul Growth Mindset and Grit.md",
+    "403/slides/ENGGEN 403 Lecture 2 Grit and Growth Mindset 160724.pdf",
+    "403/slides/ENGGEN 403 Lecture 01 20240715 ADPR.pdf",
+    "403/22 Jul Challenges and Systems Thinking.md",
+    "403/slides/ENGGEN 403 Lecture 03 20240718 RK.pdf",
+    "403/slides/ENGGEN 403 2024 Lecture 04 20240722 ADPR.pdf",
+    "403/slides/ENGGEN 403 Lecture 05 20240723 AD.pdf",
+    "403/slides/ENGGEN 403 2024 Lecture 06 20240725 PR FINAL.pdf",
+    "403/slides",
+    "403/23 Jul Stakeholders at Systems Level.md",
+    "761 - Advanced Agile & Lean SD/Assignments/A2.pdf",
+    "702 - Advanced HCI/Week 2/Material/Multimodal_human-computer_interaction_A_survey.pdf",
+    "image.png",
+    "702 - Advanced HCI/Week 2/Material/HumanMachineInteraction.pdf",
     "702 - Advanced HCI/iamges/Pasted image 20240729023537.png",
     "thoughts.md",
     "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
     "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
-    "702 - Advanced HCI/Week 2/Material/L2 - multimodal interfaces and interactions.pdf",
-    "702 - Advanced HCI/Week 2/Material/Multimodal_human-computer_interaction_A_survey.pdf",
-    "702 - Advanced HCI/Week 2/Material/HumanMachineInteraction.pdf",
     "702 - Advanced HCI/iamges/Pasted image 20240729032027.png",
     "702 - Advanced HCI/iamges/Pasted image 20240729031856.png",
     "702 - Advanced HCI/iamges/Pasted image 20240729031333.png",
@@ -215,18 +171,8 @@
     "702 - Advanced HCI/iamges/Pasted image 20240729025505.png",
     "702 - Advanced HCI/iamges/Pasted image 20240729011609.png",
     "702 - Advanced HCI/iamges/Pasted image 20240729014205.png",
-    "702 - Advanced HCI/iamges",
     "702 - Advanced HCI/iamges/Pasted image 20240729015318.png",
-    "Pasted image 20240729014437.png",
-    "image.png.crdownload",
-    "403/images",
-    "702 - Advanced HCI/Week 2/Material",
     "700A - Research Project/Notes/LOG.md",
-    "702 - Advanced HCI/Week 2",
-    "702 - Advanced HCI/Week 1/Material/Jonathan Lazar, Jinjuan Feng and Harry Hochheiser (Auth.) - Research Methods in Human Computer Interaction- Morgan Kaufmann  (2017).pdf",
-    "761 - Advanced Agile & Lean SD/Assignments/A1.pdf",
-    "403/23 Jul Stakeholders at Systems Level.md",
-    "403/22 Jul Challenges and Systems Thinking.md",
     "761 - Advanced Agile & Lean SD/Week 1/Week 1 Reading.md",
     "700A - Research Project/Notes/Machine Learning.md",
     "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
@@ -244,7 +190,6 @@
     "700A - Research Project/Notes/Pattern Recognition.md",
     "700A - Research Project/Notes/Gradient Descent & Minimization.md",
     "700A - Research Project/Notes/Table of Contents.md",
-    "700A - Research Project/Notes/Training a Neural Network.md",
-    "700A - Research Project/Notes/vanishing gradient.md"
+    "700A - Research Project/Notes/Training a Neural Network.md"
   ]
 }
