@@ -48,9 +48,58 @@ The pattern level is where we begin to notice commonalities and patterns within 
 The structure level is the structure that actually causes the pattern. For example, if you notice (event) that everyone is getting sick (pattern,) you might conclude that the reason is because there is a virus spreading (structure (not the virus, but the act of it spreading, is the structure))
 
 The mental model level is the attitude, beliefs, morals, expectations, and values that allow structures to continue functioning as they do. In the virus case, it may be because the mental model of the society allows for unsanitary practices.
+
+
+## Tools of Exploration
+Use these in conjunction with one another to really figure out a system to its fullest extent. From an ant colony to the world economy.
+
 ### System Models
+Basically any wishy washy loosey goosey diagram that tries to illustrate a system at work. There still has to be some structure but for the most part (as the lecturer described and presented it) it's doing nothing more but showing "flow" of a system. I guess anyone should be able to look at the system and walk away with a high level overview of how it works. Here is one for the carbon cycle:
+
+![[Pasted image 20240731234849.png | 500]]
 
 ### Causal Loops
+The diagram above (carbon cycle) you can see has a loop -- but it's a "vanilla" feedback loop, not really a *causal* one. A causal loop in particular has the following information:
+
+- Variables
+- Links between variables
+- Signs on the links 
+- Sign of the loop itself
+
+![[Pasted image 20240801001954.png | 800]]
+Here is a causal loop of money in a bank account that has interest. If you put money in the bank, then you earn some interest -- which means more money, and more money means more interest *earned* which means more money in the bank which means ...
+
+This is a positive feedback loop (hence the + signs,) and the "R" means "Reinforcement," indicating this is a reinforcement loop.
+
+![[Pasted image 20240801001733.png | 800]]
+In this new case above, stress causes the number of coping strategies to increase. An increase in the use of coping strategies means the stress goes down. If the stress goes down then so does the use of coping strategies, meaning stress goes back up again (and so on and so forth ...)
+
+This is a balancing feedback loop, hence the "B" in the middle.
+
 
 ### Leverage Points
-This just means points where you can change the system entirely. E.g., to lower the carbon footprint we could have people consume less meat. We could either come up with a perfect, plant-based fake meat that has all of the nutrients and perfectly matches the original flavor, cooking behaviors, etc, but this requires a lot of research, engineering, etc. OR we could have all of society change their mindset about meat eating. The latter is a lot harder, but is a point of leverage to combat the problem (the former is lettings things be as they are, and coming up with a solution not expecting the system to change)
+This just means points where you can change the system entirely. E.g., to lower the carbon footprint we could have people consume less meat. We could either come up with a perfect, plant-based fake meat that has all of the nutrients and perfectly matches the original flavor, cooking behaviors, etc, but this requires a lot of research, engineering, etc. OR we could have all of society change their mindset about meat eating. The latter is a lot harder, but is a point of leverage to combat the problem (the former is lettings things be as they are, and coming up with a solution not expecting the system itself to change)
+
+### "Application of Approach" as I observed it:
+
+- Define the problem ("Dissatisfaction with NZ Healthcare System" -- the event, per se) 
+	- Dive deep into the patterns of this problem (which according to some report ended up being **limited access** to healthcare and **waitlist** times)
+	- Then, identify the reasons/factors/problems/whatever contributing to these larger problems of limited access and waitlist times:
+		- **Waitlist**: She showed something along the lines of a bunch of smaller problems/reasons/factors contributing to the "waitlist problem,":  overloaded doctors -> covid pauses -> reliance on emergency systems -> worsening patient conditions -> ageing population ... lack of staff -> everyone going to aussie -> back to overloaded doctors
+		- **Access**: Same as above
+
+Also throughout all this ask yourself if there are any points of leverage.
+
+E.g. for waitlist problem:
+![[Pasted image 20240801004621.png | 500]]
+
+Notice how each thing (e.g. "Better pay overseas") is a mini-problem that we could potentially focus on to solve the problem
+
+Then all of that turns into this:
+
+![[Pasted image 20240801004729.png | 1000]]
+
+These are our problem spaces that we can start tackling one by one. In the case above, four were identified as actual smaller subproblems that could potentially be tackled. For each of these, come up with a problem statement:
+
+![[Pasted image 20240801005042.png | 800]]
+

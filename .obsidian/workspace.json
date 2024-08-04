@@ -8,16 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5da41c3a31057dc",
+            "id": "ac354a4675d1b610",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image.png"
+                "file": "Me/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d130848cec695eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rejections.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 338.5
   },
   "right": {
     "id": "f911b7f98015773d",
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image.png",
+                "file": "Rejections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "image.png",
+                "file": "Rejections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image.png"
+                "file": "Rejections.md"
               }
             }
           }
@@ -144,35 +159,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5da41c3a31057dc",
+  "active": "d130848cec695eb7",
   "lastOpenFiles": [
-    "403/16 Jul Growth Mindset and Grit.md",
-    "403/slides/ENGGEN 403 Lecture 2 Grit and Growth Mindset 160724.pdf",
-    "403/slides/ENGGEN 403 Lecture 01 20240715 ADPR.pdf",
+    "702 - Advanced HCI/Week 3/Material/Ways of Knowing in HCI.pdf",
+    "700A - Research Project/Notes/LOG.md",
+    "702 - Advanced HCI/Week 3/Material/L3 - Experiment Design and Quantitative Analysis.pdf",
+    "702 - Advanced HCI/Week 3/Material",
+    "702 - Advanced HCI/Week 3",
+    "Rejections.md",
+    "image.png",
+    "Me/Questions.md",
+    "761 - Advanced Agile & Lean SD/Project/Project V4_4.pdf",
+    "761 - Advanced Agile & Lean SD/Project",
+    "403/25 Jul Systems Level Innovation.md",
+    "403/images/Pasted image 20240731234849.png",
+    "Me",
+    "403/images/Pasted image 20240801001733.png",
+    "403/images/Pasted image 20240801005042.png",
+    "403/images/Pasted image 20240801004729.png",
+    "403/images/Pasted image 20240801004621.png",
+    "403/images/Pasted image 20240801004536.png",
+    "403/images/Pasted image 20240801001954.png",
+    "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
+    "403/23 Jul Stakeholders at Systems Level.md",
     "403/22 Jul Challenges and Systems Thinking.md",
-    "403/slides/ENGGEN 403 Lecture 03 20240718 RK.pdf",
-    "403/slides/ENGGEN 403 2024 Lecture 04 20240722 ADPR.pdf",
     "403/slides/ENGGEN 403 Lecture 05 20240723 AD.pdf",
     "403/slides/ENGGEN 403 2024 Lecture 06 20240725 PR FINAL.pdf",
-    "403/slides",
-    "403/23 Jul Stakeholders at Systems Level.md",
-    "761 - Advanced Agile & Lean SD/Assignments/A2.pdf",
-    "702 - Advanced HCI/Week 2/Material/Multimodal_human-computer_interaction_A_survey.pdf",
-    "image.png",
-    "702 - Advanced HCI/Week 2/Material/HumanMachineInteraction.pdf",
+    "403/slides/ENGGEN 403 2024 Lecture 04 20240722 ADPR.pdf",
+    "403/16 Jul Growth Mindset and Grit.md",
     "702 - Advanced HCI/iamges/Pasted image 20240729023537.png",
     "thoughts.md",
     "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
-    "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
     "702 - Advanced HCI/iamges/Pasted image 20240729032027.png",
-    "702 - Advanced HCI/iamges/Pasted image 20240729031856.png",
-    "702 - Advanced HCI/iamges/Pasted image 20240729031333.png",
-    "702 - Advanced HCI/iamges/Pasted image 20240729025546.png",
-    "702 - Advanced HCI/iamges/Pasted image 20240729025505.png",
-    "702 - Advanced HCI/iamges/Pasted image 20240729011609.png",
-    "702 - Advanced HCI/iamges/Pasted image 20240729014205.png",
-    "702 - Advanced HCI/iamges/Pasted image 20240729015318.png",
-    "700A - Research Project/Notes/LOG.md",
     "761 - Advanced Agile & Lean SD/Week 1/Week 1 Reading.md",
     "700A - Research Project/Notes/Machine Learning.md",
     "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
@@ -187,9 +205,6 @@
     "700A - Research Project/Notes/Types of Machine Learning.md",
     "700A - Research Project/Notes/Polynomial Curve Fitting.md",
     "700A - Research Project/Notes/Perceptron.md",
-    "700A - Research Project/Notes/Pattern Recognition.md",
-    "700A - Research Project/Notes/Gradient Descent & Minimization.md",
-    "700A - Research Project/Notes/Table of Contents.md",
-    "700A - Research Project/Notes/Training a Neural Network.md"
+    "700A - Research Project/Notes/Pattern Recognition.md"
   ]
 }

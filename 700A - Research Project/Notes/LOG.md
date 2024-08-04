@@ -109,3 +109,6 @@ Super annoying.
 			- Best performing model to date. Named "bestObservedModelRecreation7". Only failed in two instances for a fraction of a second where it thought a person and a car was an e-scooter, but thats it. Rest of the time detected an e-scooter rider in close-ish proximity (after entering the carpark -- past the red bar). Also performed much better detecting e-scooter rider from behind.
 		- ***#15: 8 epochs w/ batch size = 16 and image size = 640x640 (tested with security cam footage from Kaurikone @ the hotel w/ conf=0.6, 16 frozen layers)***
 			- This particular one was fine tuned using ultralytics. AdamW optimizer. The best hyperparameters were then used for training in addition to those above. Performs similarly to ***#14***. Slightly worse IMO.
+
+-  Pre-trained model used: "yolov8m.pt" by Ultralytics (overriding all classes and forcing it to just check for e-scooters)
+	- Combined the "electric.scooter.v1i.yolov8" and "scooter.v1i.yolov8" datasets together to make one massive dataset of 10k images
