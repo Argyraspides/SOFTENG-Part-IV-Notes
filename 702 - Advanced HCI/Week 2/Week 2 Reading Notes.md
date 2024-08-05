@@ -147,4 +147,26 @@ There are some challenges with fusing data, some of which should be obvious:
 	- Maybe an extreme example but imagine a vantriloquist, lol. Your model or whatever is gonna be like wtf I hear talking but this dude ain't moving his lips what do I do???
 
 
+## CASE and CARE Models
 
+Remember that in HCI, multimodal systems can be very difficult to get right as you have multiple different sources of input (e.g. text, speech, vision, etc.) and multiple sources of output to communicate with the user.
+
+At a low level, we only care about being able to interpret the "signals" of each individual mode, e.g. speech recognition, gesture recognition, etc.
+
+At a high level, now that we have *interpreted* the signals, it is now time to *"understand"* them. We have the signals, now what? Well, depending on the context and what they are, there may be many different ways to "understand" them. For example, if someone asked you to "Turn up the volume!" while pointing to a speaker -- but you didn't look at them while they asked, you might be confused. Turn up the volume of what? My laptop? Speaker? Phone? 
+
+If you DID look at them, then the meaning becomes clear. This required a synchronization of two signals: speech and visual (specifically gesture.) It could also be the case that the person simply asks you to "Turn up the speaker volume" while also pointing to the speaker. This time, you didn't need to see them point at the speaker to understand the request, hence the information is redundant. In this specific case -- synchronization is not needed. Sure, it's easy for us humans to interpret all this, but how the hell is a computer supposed to know whether to understand incoming signals all at once, one after another? Sometimes, like in the speaker example, some inputs are redundant. How is it supposed to know that as well????
+
+This is where something called the CASE and CARE model comes in that was mentioned once in some random ass textbook. It attempts to formalize the multimodal inputs into two categories, which are split up into four categories each. 
+
+The CASE model focuses on how exactly the system is meant to combine modalities of input
+- **Concurrent**: Multiple modalities are used simultaneously and processed together.
+- **Alternate**: Different modalities are used sequentially.
+- **Synergistic**: Multiple modalities enhance each other, providing better understanding when combined.
+- **Exclusive**: Only one modality is used at a time.
+
+The CARE model on the other hand is concerned with how exactly a user is going to interact with the system using these modalities.
+- **Complementarity**: Multiple modalities are needed together ("put that there" example for complementarity, where both voice and gesture are needed.)
+- **Assignment**: Only one modality can be used for a task (A car's steering wheel as an example of assignment, as it's the only way to steer the car.)
+- **Redundancy**: Multiple modalities can achieve the same result, but only one is needed (Using both voice and a button to issue a "play" command as an example of redundancy.)
+- **Equivalence**: Multiple modalities can achieve the same result, but only one is used at a time (The option to use either speech or keyboard for text input as an example of equivalence.)

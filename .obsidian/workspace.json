@@ -13,26 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Me/Questions.md",
+                "file": "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d130848cec695eb7",
+            "id": "ddcc0b6d7eeac463",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Rejections.md",
-                "mode": "source",
-                "source": false
+                "file": "702 - Advanced HCI/Week 2/Material/L2 - multimodal interfaces and interactions.pdf"
+              }
+            }
+          },
+          {
+            "id": "f9366c51db2cc7a3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "702 - Advanced HCI/Week 2/Material/HumanMachineInteraction.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rejections.md",
+                "file": "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rejections.md",
+                "file": "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rejections.md"
+                "file": "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md"
               }
             }
           }
@@ -159,16 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d130848cec695eb7",
+  "active": "ac354a4675d1b610",
   "lastOpenFiles": [
+    "702 - Advanced HCI/Week 2/Material/HumanMachineInteraction.pdf",
+    "702 - Advanced HCI/Week 2/Material/L2 - multimodal interfaces and interactions.pdf",
+    "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
+    "702 - Advanced HCI/Week 2/Material/Multimodal_human-computer_interaction_A_survey.pdf",
+    "image.png",
+    "Me/Questions.md",
+    "Rejections.md",
     "702 - Advanced HCI/Week 3/Material/Ways of Knowing in HCI.pdf",
     "700A - Research Project/Notes/LOG.md",
     "702 - Advanced HCI/Week 3/Material/L3 - Experiment Design and Quantitative Analysis.pdf",
     "702 - Advanced HCI/Week 3/Material",
     "702 - Advanced HCI/Week 3",
-    "Rejections.md",
-    "image.png",
-    "Me/Questions.md",
     "761 - Advanced Agile & Lean SD/Project/Project V4_4.pdf",
     "761 - Advanced Agile & Lean SD/Project",
     "403/25 Jul Systems Level Innovation.md",
@@ -180,12 +191,8 @@
     "403/images/Pasted image 20240801004621.png",
     "403/images/Pasted image 20240801004536.png",
     "403/images/Pasted image 20240801001954.png",
-    "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
     "403/23 Jul Stakeholders at Systems Level.md",
     "403/22 Jul Challenges and Systems Thinking.md",
-    "403/slides/ENGGEN 403 Lecture 05 20240723 AD.pdf",
-    "403/slides/ENGGEN 403 2024 Lecture 06 20240725 PR FINAL.pdf",
-    "403/slides/ENGGEN 403 2024 Lecture 04 20240722 ADPR.pdf",
     "403/16 Jul Growth Mindset and Grit.md",
     "702 - Advanced HCI/iamges/Pasted image 20240729023537.png",
     "thoughts.md",
