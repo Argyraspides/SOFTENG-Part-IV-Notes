@@ -11,11 +11,9 @@
             "id": "ac354a4675d1b610",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "761 - Advanced Agile & Lean SD/Assignments/A3.pdf"
               }
             }
           },
@@ -33,13 +31,16 @@
             "id": "f9366c51db2cc7a3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "702 - Advanced HCI/Week 2/Material/HumanMachineInteraction.pdf"
+                "file": "Rejections.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
+                "file": "Rejections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
+                "file": "Rejections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md"
+                "file": "Rejections.md"
               }
             }
           }
@@ -166,11 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac354a4675d1b610",
+  "active": "f9366c51db2cc7a3",
   "lastOpenFiles": [
     "702 - Advanced HCI/Week 2/Material/HumanMachineInteraction.pdf",
-    "702 - Advanced HCI/Week 2/Material/L2 - multimodal interfaces and interactions.pdf",
+    "761 - Advanced Agile & Lean SD/Assignments/A3.pdf",
+    "761 - Advanced Agile & Lean SD/Week 1/Modules/Models-of-reflection.pdf",
+    "761 - Advanced Agile & Lean SD/Week 1/Week 1 Reading.md",
     "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
+    "702 - Advanced HCI/Week 2/Material/L2 - multimodal interfaces and interactions.pdf",
     "702 - Advanced HCI/Week 2/Material/Multimodal_human-computer_interaction_A_survey.pdf",
     "image.png",
     "Me/Questions.md",
@@ -184,7 +188,6 @@
     "761 - Advanced Agile & Lean SD/Project",
     "403/25 Jul Systems Level Innovation.md",
     "403/images/Pasted image 20240731234849.png",
-    "Me",
     "403/images/Pasted image 20240801001733.png",
     "403/images/Pasted image 20240801005042.png",
     "403/images/Pasted image 20240801004729.png",
@@ -198,7 +201,6 @@
     "thoughts.md",
     "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
     "702 - Advanced HCI/iamges/Pasted image 20240729032027.png",
-    "761 - Advanced Agile & Lean SD/Week 1/Week 1 Reading.md",
     "700A - Research Project/Notes/Machine Learning.md",
     "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
     "700A - Research Project/Notes/Neural Networks.md",
