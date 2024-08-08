@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac354a4675d1b610",
+            "id": "8b62e4bbb495594e",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -16,31 +16,8 @@
                 "file": "761 - Advanced Agile & Lean SD/Assignments/A3.pdf"
               }
             }
-          },
-          {
-            "id": "ddcc0b6d7eeac463",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "702 - Advanced HCI/Week 2/Material/L2 - multimodal interfaces and interactions.pdf"
-              }
-            }
-          },
-          {
-            "id": "f9366c51db2cc7a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rejections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 439.5
   },
   "right": {
     "id": "f911b7f98015773d",
@@ -106,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rejections.md",
+                "file": "761 - Advanced Agile & Lean SD/Assignments/A3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rejections.md",
+                "file": "761 - Advanced Agile & Lean SD/Assignments/A3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rejections.md"
+                "file": "761 - Advanced Agile & Lean SD/Assignments/A3.pdf"
               }
             }
           }
@@ -167,26 +144,68 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9366c51db2cc7a3",
+  "floating": {
+    "id": "9f4c08cb6559b488",
+    "type": "floating",
+    "children": [
+      {
+        "id": "288efa59c69d9cf7",
+        "type": "window",
+        "children": [
+          {
+            "id": "7768d074cf026110",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9366c51db2cc7a3",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "702 - Advanced HCI/Week 3/Material/Ways of Knowing in HCI.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2930,
+        "y": 0,
+        "width": 910,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8b62e4bbb495594e",
   "lastOpenFiles": [
-    "702 - Advanced HCI/Week 2/Material/HumanMachineInteraction.pdf",
+    "Me/Questions.md",
+    "702 - Advanced HCI/Week 3/Material/Ways of Knowing in HCI.pdf",
+    "702 - Advanced HCI/Week 4/Material/L4-2 Fitts law.pdf",
+    "702 - Advanced HCI/Week 4/Material/L4-1 Interaction Design.pdf",
+    "702 - Advanced HCI/Week 4/Week 4 Notes.md",
+    "702 - Advanced HCI/Week 4/Material/L4-3 Construction Informatics and HCI.pdf",
+    "702 - Advanced HCI/Week 3/Week 3 Notes.md",
+    "702 - Advanced HCI/Week 4/Material",
+    "702 - Advanced HCI/Week 4",
+    "702 - Advanced HCI/Week 3/Material/L3 - Experiment Design and Quantitative Analysis.pdf",
+    "image.png",
+    "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
+    "403/30 Jul Societal Considerations.md",
+    "403/slides/ENGGEN 403 Lecture 08 20240730 RA.pdf",
+    "403/29 Jul Traditional CBA.md",
     "761 - Advanced Agile & Lean SD/Assignments/A3.pdf",
-    "761 - Advanced Agile & Lean SD/Week 1/Modules/Models-of-reflection.pdf",
+    "702 - Advanced HCI/Week 2/Material/L2 - multimodal interfaces and interactions.pdf",
+    "403/25 Jul Systems Level Innovation.md",
+    "403/23 Jul Stakeholders at Systems Level.md",
+    "403/22 Jul Challenges and Systems Thinking.md",
+    "403/16 Jul Growth Mindset and Grit.md",
+    "Rejections.md",
     "761 - Advanced Agile & Lean SD/Week 1/Week 1 Reading.md",
     "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
-    "702 - Advanced HCI/Week 2/Material/L2 - multimodal interfaces and interactions.pdf",
-    "702 - Advanced HCI/Week 2/Material/Multimodal_human-computer_interaction_A_survey.pdf",
-    "image.png",
-    "Me/Questions.md",
-    "Rejections.md",
-    "702 - Advanced HCI/Week 3/Material/Ways of Knowing in HCI.pdf",
     "700A - Research Project/Notes/LOG.md",
-    "702 - Advanced HCI/Week 3/Material/L3 - Experiment Design and Quantitative Analysis.pdf",
-    "702 - Advanced HCI/Week 3/Material",
-    "702 - Advanced HCI/Week 3",
-    "761 - Advanced Agile & Lean SD/Project/Project V4_4.pdf",
-    "761 - Advanced Agile & Lean SD/Project",
-    "403/25 Jul Systems Level Innovation.md",
     "403/images/Pasted image 20240731234849.png",
     "403/images/Pasted image 20240801001733.png",
     "403/images/Pasted image 20240801005042.png",
@@ -194,12 +213,8 @@
     "403/images/Pasted image 20240801004621.png",
     "403/images/Pasted image 20240801004536.png",
     "403/images/Pasted image 20240801001954.png",
-    "403/23 Jul Stakeholders at Systems Level.md",
-    "403/22 Jul Challenges and Systems Thinking.md",
-    "403/16 Jul Growth Mindset and Grit.md",
     "702 - Advanced HCI/iamges/Pasted image 20240729023537.png",
     "thoughts.md",
-    "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
     "702 - Advanced HCI/iamges/Pasted image 20240729032027.png",
     "700A - Research Project/Notes/Machine Learning.md",
     "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
@@ -210,10 +225,6 @@
     "700A - Research Project/Notes/Convex Functions.md",
     "700A - Research Project/Notes/Backpropagation.md",
     "700A - Research Project/Notes/Hyperparameters.md",
-    "700A - Research Project/Notes/The Neuron.md",
-    "700A - Research Project/Notes/Types of Machine Learning.md",
-    "700A - Research Project/Notes/Polynomial Curve Fitting.md",
-    "700A - Research Project/Notes/Perceptron.md",
-    "700A - Research Project/Notes/Pattern Recognition.md"
+    "700A - Research Project/Notes/The Neuron.md"
   ]
 }
