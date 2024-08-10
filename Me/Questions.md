@@ -31,4 +31,5 @@ Is this hype just infatuation? The world in love for an impossible dream?
 
 I think yes.
 ***
-
+When talking about emergent properties -- do they still exhibit similar characteristics to the parts that make them up? If an emergent property is made of greed, will it also be greedy, among other things?
+***

@@ -45,8 +45,8 @@ Kara Technologies
 Kara Technologies (again XDXD)
 Apple
 Microsoft
-NZX (waiting)
-Beca (waiting)
+NZX (waiting - finished IQ test)
+Beca
 FDM Group
 Fisher & Paykel Appliances
 Fisher & Paykel Healthcare
@@ -80,3 +80,5 @@ Suncorp (waiting)
 UoA (waiting)
 Partly (interview)
 Trimble (waiting)
+Fidelity Life (waiting)
+Kiwibank

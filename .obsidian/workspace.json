@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "403/30 Jul Societal Considerations.md",
+                "file": "702 - Advanced HCI/Week 3/Week 3 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rejections.md",
+                "file": "702 - Advanced HCI/Week 3/Week 3 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rejections.md",
+                "file": "702 - Advanced HCI/Week 3/Week 3 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rejections.md"
+                "file": "702 - Advanced HCI/Week 3/Week 3 Notes.md"
               }
             }
           }
@@ -159,11 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42918413b2253c37",
+  "active": "8b62e4bbb495594e",
   "lastOpenFiles": [
+    "702 - Advanced HCI/Week 4/Week 4 Notes.md",
+    "Rejections.md",
+    "Me/Questions.md",
+    "image.png",
+    "761 - Advanced Agile & Lean SD/Project/Project V4_4.pdf",
+    "761 - Advanced Agile & Lean SD/Project/BDA-Style-Guide-2023.pdf",
+    "761 - Advanced Agile & Lean SD/Project/scrumprimer20.pdf",
+    "403/30 Jul Societal Considerations.md",
     "403/1 Aug GDP & Govt Spending.md",
     "403/slides/ENGGEN 403 2024 S2 010824 GDP PR FINAL.pdf",
-    "403/30 Jul Societal Considerations.md",
     "403/29 Jul Traditional CBA.md",
     "403/25 Jul Systems Level Innovation.md",
     "403/23 Jul Stakeholders at Systems Level.md",
@@ -171,19 +177,12 @@
     "403/16 Jul Growth Mindset and Grit.md",
     "700A - Research Project/Canvas Files/P4PHandbook-ECSE-2024.pdf",
     "700A - Research Project/Canvas Files/P4P_Lecture-28Feb2024.pdf",
-    "Rejections.md",
     "Me/Topics.md",
-    "Me/Questions.md",
     "761 - Advanced Agile & Lean SD/Assignments/A3.pdf",
     "702 - Advanced HCI/Week 3/Material/Ways of Knowing in HCI.pdf",
     "702 - Advanced HCI/Week 4/Material/L4-2 Fitts law.pdf",
     "702 - Advanced HCI/Week 4/Material/L4-1 Interaction Design.pdf",
-    "702 - Advanced HCI/Week 4/Week 4 Notes.md",
-    "702 - Advanced HCI/Week 4/Material/L4-3 Construction Informatics and HCI.pdf",
     "702 - Advanced HCI/Week 3/Week 3 Notes.md",
-    "702 - Advanced HCI/Week 4/Material",
-    "702 - Advanced HCI/Week 4",
-    "image.png",
     "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
     "761 - Advanced Agile & Lean SD/Week 1/Week 1 Reading.md",
     "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
