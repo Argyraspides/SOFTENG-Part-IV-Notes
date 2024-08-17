@@ -1,86 +1,88 @@
-DXC
-Capgemini
-KiwiRail
-Brunswick
-Auckland Council
-Vector
-Canonical
-Vector (again)
-Vector (part 3 :DD)
-Nova Energy
-KiwiRail (again)
-Riot Games
-TikTok
-TikTok (waiting)
-Canva
-Visa
-2degrees
-Orion Health
-Dawn Aerospace
-Vulcan (waiting)
-Westpac
-Serko Ltd (waiting)
-RocketLab
-RocketLab (again XD)
-ANZ
-Sunstone Talent
-Tonkin + Taylor
-TechnologyOne
-Vista Group
-Ericsson
-Halter
-Aeroqual
-Iknal Semmikan
-DataAnnotation
-Xero
-Invenco
-Invenco (again, lol)
-Serato
-Auckland Transport
-Navico Group
-Navico Group (again xdxd)
-Lockheed Martin
-Rio Tinto
-Kara Technologies
-Kara Technologies (again XDXD)
-Apple
-Microsoft
-NZX (waiting - finished IQ test)
-Beca
-FDM Group
-Fisher & Paykel Appliances
-Fisher & Paykel Healthcare
-Babcock
-CommBank (waiting)
-Random company that sent me a Java test
-Another random company that sent me some SQL test
-Grinding Gear Games
-IMC Trading
-SiteHost
-McDonald's (not joking)
-Temprecord International
-Jade Platform (waiting)
-Lightspeed Studios
-IAG
-Tencent
-Random company on SJS (Software AI Engineer)
-Another random company on SJS (Software intern)
-Vocus (waiting)
-Tata Consultancy (waiting)
-Deloitte (waiting)
-AUT
-TRV Trading (waiting)
-Trade Me (waiting)
-Clutterbot, Inc (waiting)
-Mercury Energy (waiting)
-Pushpay (waiting)
-Booster (waiting)
-Landkind (waiting)
-Suncorp (waiting)
-UoA (waiting)
-Partly (interview)
-Trimble (waiting)
-Fidelity Life (waiting)
-Kiwibank
-Auckland Transport (waiting)
-Tekron (waiting)
+1. DXC
+2. Capgemini
+3. KiwiRail
+4. Brunswick
+5. Auckland Council
+6. Vector
+7. Canonical
+8. Vector (again)
+9. Vector (part 3 :DD)
+10. Nova Energy
+11. KiwiRail (again)
+12. Riot Games
+13. TikTok
+14. TikTok (waiting)
+15. Canva
+16. Visa
+17. 2degrees
+18. Orion Health
+19. Dawn Aerospace
+20. Vulcan (waiting)
+21. Westpac
+22. Serko Ltd (waiting)
+23. RocketLab
+24. RocketLab (again XD)
+25. ANZ
+26. Sunstone Talent
+27. Tonkin + Taylor
+28. TechnologyOne
+29. Vista Group
+30. Ericsson
+31. Halter
+32. Aeroqual
+33. Iknal Semmikan
+34. DataAnnotation
+35. Xero
+36. Invenco
+37. Invenco (again, lol)
+38. Serato
+39. Auckland Transport
+40. Navico Group
+41. Navico Group (again xdxd)
+42. Lockheed Martin
+43. Rio Tinto
+44. Kara Technologies
+45. Kara Technologies (again XDXD)
+46. Apple
+47. Microsoft
+48. NZX
+49. Beca
+50. FDM Group
+51. Fisher & Paykel Appliances
+52. Fisher & Paykel Healthcare
+53. Babcock
+54. CommBank (waiting)
+55. Random company that sent me a Java test
+56. Another random company that sent me some SQL test
+57. Grinding Gear Games
+58. IMC Trading
+59. SiteHost
+60. McDonald's (not joking)
+61. Temprecord International
+62. Jade Platform (waiting)
+63. Lightspeed Studios
+64. IAG
+65. Tencent
+66. Random company on SJS (Software AI Engineer)
+67. Another random company on SJS (Software intern)
+68. Vocus (waiting)
+69. Tata Consultancy (waiting)
+70. Deloitte (waiting)
+71. AUT
+72. TRV Trading (waiting)
+73. Trade Me (waiting)
+74. Clutterbot, Inc (waiting)
+75. Mercury Energy (waiting)
+76. Pushpay (waiting)
+77. Booster (waiting)
+78. Landkind (waiting)
+79. Suncorp (waiting)
+80. UoA (waiting)
+81. Partly (interview)
+82. Trimble (waiting)
+83. Fidelity Life (waiting)
+84. Kiwibank
+85. Auckland Transport (waiting)
+86. Tekron (waiting)
+87. RocketLab (part 3 -- waiting)
+88. RocketLab (part 4!! -- waiting)
