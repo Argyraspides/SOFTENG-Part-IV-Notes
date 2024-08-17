@@ -82,3 +82,5 @@ Partly (interview)
 Trimble (waiting)
 Fidelity Life (waiting)
 Kiwibank
+Auckland Transport (waiting)
+Tekron (waiting)

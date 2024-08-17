@@ -17,11 +17,14 @@ I don't know.
 *In an undisturbed ecosystem, there will come a time when a perfect balance is struck between predator and prey.*
 *In an undisturbed society, culture eventually stagnates.*
 
+The Hedonic Treadmill
+
+
 *When we are alive, we must eventually die.*
 
 *In a closed system, all things will stabilize.*
 
-*Is it a fact, then, that there is no such thing as progress?* 
+*Is it a fact, then, that there is no such thing as progress? That there is only change?*
 ***
 You often hear that when in love, you don't see the person as they are -- but as you want them to be. You see the ideal person, not the person that they are.
 
@@ -31,5 +34,13 @@ Is this hype just infatuation? The world in love for an impossible dream?
 
 I think yes.
 ***
-When talking about emergent properties -- do they still exhibit similar characteristics to the parts that make them up? If an emergent property is made of greed, will it also be greedy, among other things?
+Over the course of human history, we have devised tools to help us.
+
+Sometimes, these tools, while they do solve a problem, require us to forego the skills that once helped us solve that particular problem.
+
+An example recently, I am now (sometimes) using an LLM search engine that searches the web *for* me, and provides me relevant sources to answer my question on top of summarizing it. Of course, It sometimes makes mistakes -- something I am wary of -- yet still, it is very nice to skip the task of searching for information from scratch myself.
+
+The considerations I made, the thought I put into a search query in Google, refining it in my head, finding a balance between detailed and general, polishing my prose -- these are things I may never have to do again.
+
+Is it a shame that I will lose those skills?
 ***
