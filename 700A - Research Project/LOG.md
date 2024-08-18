@@ -112,3 +112,11 @@ Super annoying.
 
 -  Pre-trained model used: "yolov8m.pt" by Ultralytics (overriding all classes and forcing it to just check for e-scooters)
 	- Combined the "electric.scooter.v1i.yolov8" and "scooter.v1i.yolov8" datasets together to make one massive dataset of 10k images
+
+
+
+
+First set of runs (yolov8_small_training  yolov8_small_training2  yolov8_small_training3) all run with small model, from scratch, w/ training dataset
+
+Second set of runs: yolov8_medium_20240818_223220_training yolov8_medium_20240818_223409_training all run with mdeium model, from scratch, w/training dataset
+
