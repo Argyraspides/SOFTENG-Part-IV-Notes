@@ -19,7 +19,7 @@
 19. Dawn Aerospace
 20. Vulcan (waiting)
 21. Westpac
-22. Serko Ltd (waiting)
+22. Serko Ltd 
 23. RocketLab
 24. RocketLab (again XD)
 25. ANZ

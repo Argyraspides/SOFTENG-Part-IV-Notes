@@ -118,5 +118,16 @@ Super annoying.
 
 First set of runs (yolov8_small_training  yolov8_small_training2  yolov8_small_training3) all run with small model, from scratch, w/ training dataset
 
-Second set of runs: yolov8_medium_20240818_223220_training yolov8_medium_20240818_223409_training all run with mdeium model, from scratch, w/training dataset
+Second set of runs: yolov8_medium_20240818_223220_training yolov8_medium_20240818_223409_training all run with medium model, from scratch, w/training dataset
 
+Third set of runs: yolov8_large_20240819_232636_training all run with large model, from scratch, w/training dataset
+
+Training on model specifically for people:
+
+https://github.com/J3lly-Been/YOLOv8-HumanDetection (humans_only -- mediocre)
+https://github.com/truong11062002/yolov8_for_human_detection (humans_only_2 -- best performing)
+https://github.com/MortadhaMannai/PyDetect8-Human-Detection-Reimagined?tab=readme-ov-file (v8_n, v8_s, v8_l models)
+
+next steps -- get fuckin rocm to start working again.
+
+ Or start fine tuning the first two models.
