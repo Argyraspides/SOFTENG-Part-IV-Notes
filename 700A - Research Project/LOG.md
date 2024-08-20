@@ -116,6 +116,8 @@ Super annoying.
 
 
 
+
+# NEW AGE:
 First set of runs (yolov8_small_training  yolov8_small_training2  yolov8_small_training3) all run with small model, from scratch, w/ training dataset
 
 Second set of runs: yolov8_medium_20240818_223220_training yolov8_medium_20240818_223409_training all run with medium model, from scratch, w/training dataset
@@ -124,10 +126,76 @@ Third set of runs: yolov8_large_20240819_232636_training all run with large mode
 
 Training on model specifically for people:
 
-https://github.com/J3lly-Been/YOLOv8-HumanDetection (humans_only -- mediocre)
-https://github.com/truong11062002/yolov8_for_human_detection (humans_only_2 -- best performing)
-https://github.com/MortadhaMannai/PyDetect8-Human-Detection-Reimagined?tab=readme-ov-file (v8_n, v8_s, v8_l models)
+*** 
+https://github.com/J3lly-Been/YOLOv8-HumanDetection (humans_only.pt -- mediocre)
+***
+https://github.com/truong11062002/yolov8_for_human_detection (humans_only_2.pt -- 2nd best performing)
+***
+https://github.com/nikfilonenko/HumanDetection_YOLOv8 (humans_only_3.pt -- best performing)
+***
 
-next steps -- get fuckin rocm to start working again.
+## Model information (human detection):
 
- Or start fine tuning the first two models.
+| Attribute | humans_only.pt (mediocre) | humans_only_2.pt (2nd best) | humans_only_3.pt (best) |
+|-----------|---------------------------|-----------------------------|-----------------------|
+| Model Type | YOLO | YOLO | YOLO |
+| Task | detect | detect | detect |
+| Total Parameters | 3,011,043 | 11,135,987 | 25,856,899 |
+| Trainable Parameters | 0 | 0 | 0 |
+| Total Layers | 225 | 225 | 295 |
+| Trainable Layers | 217 | 217 | 287 |
+| Input Shape | 640 | 640 | 640 |
+| Output Shape (num classes) | 1 | 1 | 1 |
+| Model Size | 11.49 MB | 42.48 MB | 98.64 MB |
+| Conv2d Layers | 64 | 64 | 84 |
+| Conv Layers | 57 | 57 | 77 |
+| BatchNorm2d Layers | 57 | 57 | 77 |
+| ModuleList Layers | 10 | 10 | 10 |
+| Bottleneck Layers | 10 | 10 | 20 |
+| C2f Layers | 8 | 8 | 8 |
+| Sequential Layers | 7 | 7 | 7 |
+| Concat Layers | 4 | 4 | 4 |
+| Upsample Layers | 2 | 2 | 2 |
+| DetectionModel Layers | 1 | 1 | 1 |
+| SiLU Layers | 1 | 1 | 1 |
+| SPPF Layers | 1 | 1 | 1 |
+| MaxPool2d Layers | 1 | 1 | 1 |
+| Detect Layers | 1 | 1 | 1 |
+| DFL Layers | 1 | 1 | 1 |
+
+## Model Information (Ultralytics YOLOv8)
+
+| Attribute | YOLOv8n | YOLOv8s | YOLOv8m | YOLOv8l |
+|-----------|---------|---------|---------|---------|
+| Model Type | YOLO | YOLO | YOLO | YOLO |
+| Task | detect | detect | detect | detect |
+| Total Parameters | 3,157,200 | 11,166,560 | 25,902,640 | 43,691,520 |
+| Trainable Parameters | 0 | 0 | 0 | 0 |
+| Total Layers | 225 | 225 | 295 | 365 |
+| Trainable Layers | 217 | 217 | 287 | 357 |
+| Input Shape | 640 | 640 | 640 | 640 |
+| Output Shape (num classes) | 80 | 80 | 80 | 80 |
+| Model Size | 12.04 MB | 42.60 MB | 98.81 MB | 166.67 MB |
+| Conv2d Layers | 64 | 64 | 84 | 104 |
+| Conv Layers | 57 | 57 | 77 | 97 |
+| BatchNorm2d Layers | 57 | 57 | 77 | 97 |
+| ModuleList Layers | 10 | 10 | 10 | 10 |
+| Bottleneck Layers | 10 | 10 | 20 | 30 |
+| C2f Layers | 8 | 8 | 8 | 8 |
+| Sequential Layers | 7 | 7 | 7 | 7 |
+| Concat Layers | 4 | 4 | 4 | 4 |
+| Upsample Layers | 2 | 2 | 2 | 2 |
+| DetectionModel Layers | 1 | 1 | 1 | 1 |
+| SiLU Layers | 1 | 1 | 1 | 1 |
+| SPPF Layers | 1 | 1 | 1 | 1 |
+| MaxPool2d Layers | 1 | 1 | 1 | 1 |
+| Detect Layers | 1 | 1 | 1 | 1 |
+| DFL Layers | 1 | 1 | 1 | 1 |
+
+next steps:
+
+- Start fine tuning the nano, small, and medium models (humans_only, humans_only_2, humans_only_3 respectively)
+	- Fine tune them based on varying frozen layers, various epoch count
+
+- Find two models NOT for humans, e.g., vehicles n shit to validate your human model claim. Make sure one of the models is empty and not trained on anything as a control
+	-  Fine tune them based on varying frozen layers, various epoch count (MAKE SURE THEY ARE THE SAME AS ABOVE)
