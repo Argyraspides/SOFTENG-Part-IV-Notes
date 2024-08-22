@@ -137,6 +137,8 @@ https://github.com/zappy586/InsectDet (insect_detection.pt)
 ***
 https://github.com/josephattalla/Basketball-Shot-Detection (bball_detection.pt)
 ***
+https://github.com/HasancanCakicioglu/VehicleDetectCounting-PyQt5_GUI-Yolov8 (vehicle_detection.pt)
+*** 
 
 ## Model information (human detection):
 
@@ -233,7 +235,7 @@ next steps:
 - ~~Fine tune models with random weights as a baseline to compare to.~~
 	-~~Fine tune them based on varying frozen layers, various epoch count (MAKE SURE THEY ARE THE SAME AS ABOVE)~~
 
-- finally, fine-tune two models NOT for humans, e.g., vehicles n shit to validate your human model claim.
+- finally, fine-tune two models NOT for humans, and one that is general (yolov8 from ultralytics, ~~insects~~, and vehicles.
 	-  Fine tune them based on varying frozen layers, various epoch count (MAKE SURE THEY ARE THE SAME AS ABOVE)
 
 Epoch parameters & frozen layers:

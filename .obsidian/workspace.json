@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700A - Research Project/LOG.md",
+                "file": "702 - Advanced HCI/Week 4/Week 4 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700A - Research Project/LOG.md",
+                "file": "702 - Advanced HCI/Week 4/Week 4 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "700A - Research Project/LOG.md",
+                "file": "702 - Advanced HCI/Week 4/Week 4 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "700A - Research Project/LOG.md"
+                "file": "702 - Advanced HCI/Week 4/Week 4 Notes.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "418abc3073de3aac",
+  "active": "96c9c611345bccb3",
   "lastOpenFiles": [
-    "761 - Advanced Agile & Lean SD/Project/CLT-API Endpoint Specification-050824-055016.pdf",
+    "702 - Advanced HCI/Week 5/Material/Literature Reviews in HCI_ A Review of Reviews.pdf",
+    "702 - Advanced HCI/Week 5/Material",
+    "702 - Advanced HCI/Week 5",
+    "702 - Advanced HCI/Week 4/Material/L4-1 Interaction Design.pdf",
+    "702 - Advanced HCI/Week 4/Week 4 Notes.md",
     "700A - Research Project/LOG.md",
+    "702 - Advanced HCI/Week 4/Material/interactionDesignTranscript.txt",
+    "761 - Advanced Agile & Lean SD/Project/CLT-API Endpoint Specification-050824-055016.pdf",
     "761 - Advanced Agile & Lean SD/Project/CLT-API Endpoint Specification-050824-055016.pdf.crdownload",
     "700A - Research Project/plan.md",
     "Rejections.md",
@@ -158,17 +164,12 @@
     "403/Weeks 4 & 5/Team Project/ENGGEN 403 Team Project Rubric 2024.pdf",
     "403/Weeks 4 & 5/Team Project/Personal/brainstorm.md",
     "770 - Capstone Project/Course Book(s)/coursebook-v2.0.pdf",
-    "403/Weeks 4 & 5/Team Project/Sources/Major-Events_36th-Americas-Cup-Impact-Evaluation-FINAL-report-30-June-2021.pdf",
-    "770 - Capstone Project/Course Book(s)/Capstone_PCB_24.pdf",
-    "770 - Capstone Project/Course Book(s)/Additional Components.pdf",
     "Me/Questions.md",
     "Me/Thoughts.md",
     "Me/Topics.md",
     "image.png",
-    "403/Weeks 4 & 5/Team Project/Sources/Major-Events_36th-americas-cup-economic-assessment-evaluation.pdf",
     "403/16 Jul Growth Mindset and Grit.md",
     "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
-    "702 - Advanced HCI/Week 4/Week 4 Notes.md",
     "702 - Advanced HCI/Week 3/Week 3 Notes.md",
     "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
     "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
