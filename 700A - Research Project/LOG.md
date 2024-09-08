@@ -117,7 +117,8 @@ Super annoying.
 
 
 
-# NEW AGE:
+# Starting from scratch:
+
 First set of runs (yolov8_small_training  yolov8_small_training2  yolov8_small_training3) all run with small model, from scratch, w/ training dataset
 
 Second set of runs: yolov8_medium_20240818_223220_training yolov8_medium_20240818_223409_training all run with medium model, from scratch, w/training dataset
@@ -169,34 +170,32 @@ https://github.com/HasancanCakicioglu/VehicleDetectCounting-PyQt5_GUI-Yolov8 (ve
 | Detect Layers              | 1                         | 1                           | 1                       |
 | DFL Layers                 | 1                         | 1                           | 1                       |
 ## Model Information (Others)
-| Attribute                  | insect_detection.pt | vechicle_detection.pt |
-| -------------------------- | ------------------- | --------------------- |
-| Model Type                 | YOLO                | YOLO                  |
-| Task                       | detect              | detect                |
-| Total Parameters           | 11,141,405          | 11,136,374            |
-| Trainable Parameters       | 0                   | 0                     |
-| Total Layers               | 225                 | 225                   |
-| Trainable Layers           | 217                 | 217                   |
-| Input Shape                | 640                 | 800                   |
-| Output Shape (num classes) | 15                  | 2                     |
-| Model Size                 | 42.50 MB            | 42.48 MB              |
-| Conv2d Layers              | 64                  | 64                    |
-| Conv Layers                | 57                  | 57                    |
-| BatchNorm2d Layers         | 57                  | 57                    |
-| ModuleList Layers          | 10                  | 10                    |
-| Bottleneck Layers          | 10                  | 10                    |
-| C2f Layers                 | 8                   | 8                     |
-| Sequential Layers          | 7                   | 7                     |
-| Concat Layers              | 4                   | 4                     |
-| Upsample Layers            | 2                   | 2                     |
-| DetectionModel Layers      | 1                   | 1                     |
-| SiLU Layers                | 1                   | 1                     |
-| SPPF Layers                | 1                   | 1                     |
-| MaxPool2d Layers           | 1                   | 1                     |
-| Detect Layers              | 1                   | 1                     |
-| DFL Layers                 | 1                   | 1                     |
-## Model Information (Basketball & Hoop Detection)
-
+| Attribute                  | insect_detection.pt | vechicle_detection.pt | insect_detection_1.pt |
+| -------------------------- | ------------------- | --------------------- | --------------------- |
+| Model Type                 | YOLO                | YOLO                  | YOLO                  |
+| Task                       | detect              | detect                | detect                |
+| Total Parameters           | 11,141,405          | 11,136,374            | 3,011,433             |
+| Trainable Parameters       | 0                   | 0                     | 0                     |
+| Total Layers               | 225                 | 225                   | 225                   |
+| Trainable Layers           | 217                 | 217                   | 217                   |
+| Input Shape                | 640                 | 800                   | 672                   |
+| Output Shape (num classes) | 15                  | 2                     | 3                     |
+| Model Size                 | 42.50 MB            | 42.48 MB              | 11.49 MB              |
+| Conv2d Layers              | 64                  | 64                    | 64                    |
+| Conv Layers                | 57                  | 57                    | 57                    |
+| BatchNorm2d Layers         | 57                  | 57                    | 57                    |
+| ModuleList Layers          | 10                  | 10                    | 10                    |
+| Bottleneck Layers          | 10                  | 10                    | 10                    |
+| C2f Layers                 | 8                   | 8                     | 8                     |
+| Sequential Layers          | 7                   | 7                     | 7                     |
+| Concat Layers              | 4                   | 4                     | 4                     |
+| Upsample Layers            | 2                   | 2                     | 2                     |
+| DetectionModel Layers      | 1                   | 1                     | 1                     |
+| SiLU Layers                | 1                   | 1                     | 1                     |
+| SPPF Layers                | 1                   | 1                     | 1                     |
+| MaxPool2d Layers           | 1                   | 1                     | 1                     |
+| Detect Layers              | 1                   | 1                     | 1                     |
+| DFL Layers                 | 1                   | 1                     | 1                     |
 
 ## Model Information (Ultralytics YOLOv8)
 
@@ -226,8 +225,8 @@ https://github.com/HasancanCakicioglu/VehicleDetectCounting-PyQt5_GUI-Yolov8 (ve
 | MaxPool2d Layers           | 1         | 1          | 1          | 1          |
 | Detect Layers              | 1         | 1          | 1          | 1          |
 | DFL Layers                 | 1         | 1          | 1          | 1          |
-
-next steps:
+https://github.com/robmarkcole/kaggle-ships-in-satellite-imagery-with-YOLOv8
+^ for the nano and medium models
 
 - ~~Start fine tuning the nano, small, and medium models (humans_only, humans_only_2, humans_only_3 respectively)~~
 	- ~~Fine tune them based on varying frozen layers, various epoch count~~
@@ -235,15 +234,137 @@ next steps:
 - ~~Fine tune models with random weights as a baseline to compare to.~~
 	-~~Fine tune them based on varying frozen layers, various epoch count (MAKE SURE THEY ARE THE SAME AS ABOVE)~~
 
-- finally, fine-tune two models NOT for humans, and one that is general (yolov8 from ultralytics, ~~insects~~, and vehicles.
-	-  Fine tune them based on varying frozen layers, various epoch count (MAKE SURE THEY ARE THE SAME AS ABOVE)
+~~- finally, fine-tune two models NOT for humans, and one that is general (yolov8 from ultralytics, insects, and vehicles.
+	-  Fine tune them based on varying frozen layers, various epoch count (MAKE SURE THEY ARE THE SAME AS ABOVE)~~
 
-Epoch parameters & frozen layers:
+- Do some evaluations on all model categories:
+	- See if the models originally trained to detect humans only performs better than the other ones. If so, then this suggests that indeed, there is something about human features that aids in the detection of e-scooter riders.
+		- Since the general model is also trained on humans, this should perform fairly well, too
+		- The models fined tuned on e-scooters were originally trained on: 
+			- General objects (YoloV8 pre-trained models, includes vehicles, humans, umbrellas, etc)
+			- Humans
+			- Insects
+			- Vehicles
+			- Nothing (random initial weights)
+			- E-scooters (trained from scratch)
+	- If the results are something like Humans >= E-scooters > General Objects >  > (Vehicles, Insects) > Nothing then our conclusion may be sound?
 
-```python
-parser.add_argument("--epoch_counts", nargs='+', type=int, default=[1,3,5,10], help="List of epoch counts to train")
-parser.add_argument("--freeze_layers_options", nargs='+', type=int, default=[3, 5, 10, 15], help="List of layer counts to freeze from the end of the model")
 
-```
+Next steps:
+- Set up SAM+YOLO combo. Train it on the supercomputer lololololoolol
 
-Combinations of epochs and frozen layers are (1,3), (1,5), (1,10) ... (10,15) (16 total)
+
+# FINAL PUSH:
+
+# Enhanced Comprehensive Research Plan for E-scooter Detection
+
+## 1. Experimental Design Refinement
+
+### 1.1 Model Selection
+- Keep your current selection (Human, Random, Satellite, General)
+- Add more model types:
+  - Vehicle detection model (cars, motorcycles)
+  - Pedestrian-specific model
+  - Multi-object urban scene model
+
+### 1.2 Hyperparameter Tuning
+- Expand your epoch range: 1, 3, 5, 10, 20, 50
+- Frozen layer combinations: 0 (full fine-tuning), 1, 3, 5, 10, 15, all-but-last
+- Learning rate: Test multiple learning rates (e.g., 1e-3, 1e-4, 1e-5)
+- Batch size: Experiment with different batch sizes
+
+## 2. Data Enhancement
+
+### 2.1 Dataset Expansion
+- Increase dataset size if possible
+- Ensure balanced representation of different scenarios (day/night, crowded/uncrowded, partial occlusions)
+
+### 2.2 Data Augmentation
+- Implement various augmentation techniques:
+  - Geometric: rotation, scaling, flipping
+  - Color: brightness, contrast, hue adjustment
+  - Noise: Gaussian noise, blur
+
+### 2.3 Dataset Analysis
+- Analyze class distribution
+- Examine image quality and diversity
+
+## 3. Performance Metrics
+
+### 3.1 Accuracy Metrics
+- Mean Average Precision (mAP)
+- Precision-Recall curves
+- F1 score
+- Intersection over Union (IoU)
+
+### 3.2 Speed and Efficiency Metrics
+- Inference time
+- FLOPs (Floating Point Operations)
+- Model size
+
+### 3.3 Specialized Metrics
+- Performance on partially occluded e-scooters
+- Performance in low-light conditions
+- False positive rate on similar objects (e.g., bicycles, motorcycles)
+
+## 4. Analysis Techniques
+
+### 4.1 Statistical Analysis
+- Conduct ANOVA to compare model performances
+- Calculate confidence intervals for key metrics
+- Perform significance testing between model pairs
+
+### 4.2 Visualization
+- Create heatmaps of model performance across hyperparameters
+- Plot learning curves (training vs. validation performance)
+- Visualize model predictions on test images
+
+### 4.3 Error Analysis
+- Categorize and quantify types of errors (e.g., misclassifications, localization errors)
+- Analyze performance on edge cases
+
+## 5. Comparative Studies
+
+### 5.1 Baseline Comparison
+- Compare all fine-tuned models against a non-fine-tuned YOLOv8
+
+### 5.2 Architecture Comparison
+- Compare YOLOv8 results with other architectures (e.g., Faster R-CNN, SSD)
+
+### 5.3 Literature Comparison
+- Compare your results with published e-scooter detection studies
+
+## 6. Advanced Techniques
+
+### 6.1 Ensemble Methods
+- Create ensemble models combining top-performing individual models
+- Experiment with different ensemble strategies (e.g., voting, weighted average)
+
+### 6.2 Transfer Learning Analysis
+- Analyze which pre-trained features are most beneficial for e-scooter detection
+
+### 6.3 Attention Mechanism
+- Implement and evaluate attention mechanisms in your top-performing models
+
+## 7. Real-world Applicability
+
+### 7.1 Computational Efficiency
+- Analyze trade-offs between model accuracy and computational requirements
+
+### 7.2 Deployment Considerations
+- Discuss potential challenges in deploying these models in real-world scenarios
+
+### 7.3 Ethical Implications
+- Address privacy concerns and potential biases in e-scooter detection systems
+
+## 8. Documentation and Reproducibility
+
+### 8.1 Codebase
+- Organize and document your code thoroughly
+- Create a public GitHub repository with clear instructions
+
+### 8.2 Experiment Tracking
+- Use a tool like MLflow or Weights & Biases to track all experiments
+
+### 8.3 Results Database
+- Create a comprehensive database of all experimental results for easy querying and analysis

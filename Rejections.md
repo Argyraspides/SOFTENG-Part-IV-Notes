@@ -51,7 +51,7 @@
 51. Fisher & Paykel Appliances
 52. Fisher & Paykel Healthcare
 53. Babcock
-54. CommBank (waiting)
+54. CommBank
 55. Random company that sent me a Java test
 56. Another random company that sent me some SQL test
 57. Grinding Gear Games
@@ -76,13 +76,17 @@
 76. Pushpay (waiting)
 77. Booster (waiting)
 78. Landkind (waiting)
-79. Suncorp (waiting)
+79. Suncorp
 80. UoA (waiting)
-81. Partly (interview)
+81. Partly (interview, part 2)
 82. Trimble (waiting)
 83. Fidelity Life (waiting)
 84. Kiwibank
 85. Auckland Transport (waiting)
 86. Tekron (waiting)
-87. RocketLab (part 3 -- waiting)
-88. RocketLab (part 4!! -- waiting)
+87. RocketLab
+88. RocketLab
+89. Syos Aerospase (waiting)
+90. SEEK
+91. Crown Equipment Ltd 
+92. Private Advertiser

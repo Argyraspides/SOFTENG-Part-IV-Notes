@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "702 - Advanced HCI/Week 4/Week 4 Notes.md",
+                "file": "700A - Research Project/LOG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "702 - Advanced HCI/Week 4/Week 4 Notes.md",
+                "file": "700A - Research Project/LOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "702 - Advanced HCI/Week 4/Week 4 Notes.md",
+                "file": "700A - Research Project/LOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "702 - Advanced HCI/Week 4/Week 4 Notes.md"
+                "file": "700A - Research Project/LOG.md"
               }
             }
           }
@@ -146,33 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96c9c611345bccb3",
+  "active": "418abc3073de3aac",
   "lastOpenFiles": [
-    "702 - Advanced HCI/Week 5/Material/Literature Reviews in HCI_ A Review of Reviews.pdf",
-    "702 - Advanced HCI/Week 5/Material",
-    "702 - Advanced HCI/Week 5",
-    "702 - Advanced HCI/Week 4/Material/L4-1 Interaction Design.pdf",
-    "702 - Advanced HCI/Week 4/Week 4 Notes.md",
-    "700A - Research Project/LOG.md",
-    "702 - Advanced HCI/Week 4/Material/interactionDesignTranscript.txt",
-    "761 - Advanced Agile & Lean SD/Project/CLT-API Endpoint Specification-050824-055016.pdf",
-    "761 - Advanced Agile & Lean SD/Project/CLT-API Endpoint Specification-050824-055016.pdf.crdownload",
-    "700A - Research Project/plan.md",
+    "700A - Research Project/project_vjos612-3/README.md",
+    "image.png",
     "Rejections.md",
-    "403/Weeks 4 & 5/Team Project/ENGGEN 403 Team Project Brief 2024.pdf",
-    "403/Weeks 4 & 5/Team Project/ENGGEN 403 Team Project Deliverables 2024.pdf",
-    "403/Weeks 4 & 5/Team Project/ENGGEN 403 Team Project Rubric 2024.pdf",
-    "403/Weeks 4 & 5/Team Project/Personal/brainstorm.md",
-    "770 - Capstone Project/Course Book(s)/coursebook-v2.0.pdf",
+    "700A - Research Project/LOG.md",
+    "700A - Research Project/Canvas Files/P4PHandbook-ECSE-2024.pdf",
+    "700A - Research Project/Canvas Files/P4P_Lecture-28Feb2024.pdf",
+    "700A - Research Project/project_vjos612-3/Project Phase 1 Vinayak Joshi.pdf",
+    "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
+    "700A - Research Project/Documents/Exemplar 1 (Literature Review)/Kevin_Wu.pdf",
+    "700A - Research Project/Documents/Exemplar 1 (Literature Review)/literature_report_zwu238_1_1.pdf",
+    "700A - Research Project/Documents/700A Literature Review.pdf",
+    "702 - Advanced HCI/The Project Plan.pdf",
+    "702 - Advanced HCI/HiveFive_ Immersion Preserving Attention Guidance In Virtual Reality.pdf",
+    "702 - Advanced HCI/Using immersive virtual reality for the assessment of intercultural conflict mediation.pdf",
+    "702 - Advanced HCI/The Impact of Emotional Virtual Characters on Emotional State and Player Experience in VR Horror Games.pdf",
+    "702 - Advanced HCI/Project Topic Brief.md",
+    "700A - Research Project/plan.md",
+    "702 - Advanced HCI/Week 5/Literature Review Notes Assignment Brief.md",
+    "702 - Advanced HCI/Week 4/Week 4 Notes.md",
     "Me/Questions.md",
     "Me/Thoughts.md",
+    "403/Weeks 4 & 5/Team Project/Personal/brainstorm.md",
     "Me/Topics.md",
-    "image.png",
     "403/16 Jul Growth Mindset and Grit.md",
     "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
     "702 - Advanced HCI/Week 3/Week 3 Notes.md",
     "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
-    "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
     "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155657.png",
     "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155745.png",
     "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155902.png",
@@ -190,9 +192,6 @@
     "403/22 Jul Challenges and Systems Thinking.md",
     "761 - Advanced Agile & Lean SD/Week 1/Week 1 Reading.md",
     "thoughts.md",
-    "700A - Research Project/Notes/Machine Learning.md",
-    "700A - Research Project/Notes/Neural Networks.md",
-    "700A - Research Project/Notes/Model Evaluation.md",
-    "700A - Research Project/Notes/Decision Boundaries & The Problem of Generalization.md"
+    "700A - Research Project/Notes/Machine Learning.md"
   ]
 }

@@ -294,3 +294,7 @@ I apologize for the oversight. Upon another careful review, I've identified seve
     - More details were provided about the new gym, including an adjustable swimming pool and multi-purpose courts with LED lighting for different sports configurations
 
 These additional points provide further context and specific details from the lecture materials that I hadn't mentioned in my previous responses. They cover a wide range of topics from AI capabilities to specific examples in construction informatics and HCI.
+
+
+# Personal
+***
