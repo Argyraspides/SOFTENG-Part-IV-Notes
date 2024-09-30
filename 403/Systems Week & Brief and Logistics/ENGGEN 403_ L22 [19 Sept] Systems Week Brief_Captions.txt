@@ -1,0 +1,1000 @@
+All right. Welcome, everyone. Uh.
+
+Welcome, everyone. So today is the day that you have been, uh, waiting for or dreaded.
+
+I don't know, uh, quite where it's positioned in your consciousness, but, um,
+
+we are going to, uh, go over the brief for next week's week nine system week.
+
+Okay. And so, uh, let's jump into that. Oh, we got a quick half, sweet ass.
+
+Uh, so, uh, this is what we're going to do, obviously. Uh, we're just going to introduce it.
+
+We're going to give a little more background to it. Uh, we're going to talk about the brief.
+
+Okay. So the brief is, is essentially, you know, the instructions for what you're going to undertake.
+
+And then tomorrow, the written brief, uh, will be published.
+
+Uh, and that actually comes out in a couple of different documents, one of which is called the deliverable.
+
+And the deliverable document is essentially the specification for what you're going to do and how it's going to be formatted, stuff like that.
+
+And a separate document called The Challenge actually outlines.
+
+Uh, here's here's what you need to consider. Here's the, uh, way in which you want to structure it, things like that.
+
+Okay. So two documents will come out tomorrow. By midday.
+
+We'll talk a bit more about that. Uh, questions to help with the analysis.
+
+Sort of some things you want to think about. Uh, don't forget the tools.
+
+We'll get into that. Points to consider logistics.
+
+How does this work next week? Uh, room hours, uh, time commitment, all that sort of stuff.
+
+And then, uh, supporting materials. Okay, so this is the challenge for this this year.
+
+So I'm just going to read through this. I you can read it as well.
+
+The challenge for Systems Week 2024 is to develop a detailed business case that addresses the high food costs faced by Otara, New Zealand consumers.
+
+Your team will select any two segments problem spaces okay.
+
+And we'll show you what those are of the food supply chain in New Zealand and craft one problem statement for each of these.
+
+So you're going to have two separate problem statements, one for each what we call segment which we'll get into.
+
+You must consider the societal costs and benefits as well as economic cost and benefits.
+
+Your final recommended innovation should include an extensive discussion of how it,
+
+or they address the overall problem of high food prices in New Zealand,
+
+as well as consider how to make the system more resilient and less susceptible to weather,
+
+health emergencies, transportation bottlenecks and other disruptions.
+
+Okay, so in very simple terms, it's no surprise that, um, food costs in New Zealand have reached kind of a just,
+
+um, you know, scary, uh, um, level of escalation over the last century, uh, through and since the Covid period.
+
+So that's the systems problem for this year. Okay.
+
+And I also speak with Rob yesterday, and, uh, he said that, you know, students need to understand that when we present a systems problem,
+
+essentially what we're saying is how could you move Antarctica to the northern hemisphere?
+
+Okay. So when we put a systems problem out, it is something just like we've talked about all semester that is complex.
+
+It's wicked. And so there is no simple answer to this.
+
+And so, uh, this is not something that you're like, oh, just do these three things.
+
+And the food cost in New Zealand will be sorted. So it is something that we expect that you're going to grapple with,
+
+that you're going to have to work through all different aspects of uh, and that's why we chose it.
+
+Okay. We always try and choose something that's relevant. And so obviously this is relevant to every single person in this room.
+
+You know, this is something we're constantly struggling with complaining about, uh, dealing with uh, sharing with our mates that sort of thing.
+
+Okay. So that is the challenge for this year.
+
+So why are we doing this and what are some of the, uh, underlying, uh, issues that contributed to us choosing this problem?
+
+Okay, so the data shows that the average household was spending, uh, just under $300 a week on food.
+
+I can tell you, I, I live on my own, and I'm spending, like, more than that.
+
+Uh, it's up 28.1% since 2019.
+
+So essentially, in the last five years. Okay, uh, from 22 to 23, just a subset of this period, uh, a food basket of common foods.
+
+So that's that's a set of, um, foods that most people consume that, uh, they tracked from an economics standpoint.
+
+Uh, up 56% just in one year period.
+
+During during this overall period, food prices dropped marginally just in, uh,
+
+they actually dropped about three months ago and then have ticked back up just a little bit over the last couple of months.
+
+Okay. But those drops are the first since 2018.
+
+So very, very. A minor drop and the first one in a very long time.
+
+The current prices are the highest since 1961, and obviously that's in in real terms.
+
+And so the amount that we're all spending on food is the highest it's been in New Zealand since 1961.
+
+And this is, uh, not surprisingly, disproportionately impacting elderly and children.
+
+Uh, only 5% of 2 to 14 year olds were meeting their nutritional needs.
+
+And this is all based on stats in New Zealand, as well as some other economic analysis and forecasts by a guy called Woodruff.
+
+Okay, so, uh, everyone, of course, will see the headlines around this will be familiar with,
+
+um, all of the, uh, um, talk and, uh, um, discord and uncertainty around this.
+
+Uh, so these are just a few of those headlines, uh, that we've seen recently.
+
+Uh, this is this is a very let's see.
+
+So this is, uh, food prices rose, uh, half a percent in August 2023, uh, seasonally adjusted point four.
+
+So just in one month, uh, last year, they were up, uh, half a percent.
+
+And then, uh, this is very recent household still in the grip of high food costs.
+
+So this is something that is not going away for a while.
+
+People are talking about, well, post-Covid there needed to be some settling out.
+
+In fact, this might kind of settle down again. Uh, then people talked about after some of the weather events of last year that those were
+
+wreaking havoc and those were having a huge impact and that we might see that settle out.
+
+But in fact, we haven't seen that there have been only very marginal, um, blips of those costs going down.
+
+And in fact, now five years out, uh, these costs are dramatically higher than they were,
+
+uh, not only in as an item, but as a percentage of someone's household income.
+
+So obviously, costs of living in New Zealand has gone up in many categories.
+
+Uh, but this is one of the most significant. Okay.
+
+And so if we actually look at this chart, uh, this is from prepared by Stats in Zealand.
+
+And uh, interestingly, this is actually uh overlaid with some of uh foodstuffs things as well.
+
+But if we look at the uh, percent of monthly food inflation over a period of 2022 to 2024.
+
+So this is literally by month. So we're looking at monthly increases, uh, in the front of this graph, something over 7% a month.
+
+Okay. And then escalating somewhere up to 12%.
+
+And also settled back out now and are almost even.
+
+But this is the kind of month on month increases we saw for food over a two year period.
+
+Okay. Uh, this just kind of emphasises some of that.
+
+And so the question that we're asking you is can anything be done about this?
+
+How might this be improved manager or reduced. And that's the essence of the systems problem for this year.
+
+Uh, because there's lots and lots of aspects to this, lots and lots of inputs to this.
+
+And some people say, oh, wow, this is just like part of life in New Zealand and there's nothing we're going to do about it.
+
+Uh, other people say, oh, it's the um, it's the so-called, um, duopoly, the, uh, food retailers,
+
+it's, uh, Woolworths and, um, New World or, uh, foodstuffs and that, uh, that's the problem.
+
+We should just, like, tax those guys. We should just like, uh, make them reduce their profits.
+
+And that will solve the whole problem. In fact, there's lots and lots of aspects to this.
+
+And and so your challenge is to look at this entire process and think about how it might be improved, managed or reduced.
+
+And what we're going to actually ask you to focus in on is, um, just two of those aspects which we'll go through in just a moment.
+
+Okay. So what we want you to think about, and this is really important because we saw some excellent work in the team project.
+
+Uh, but we also saw what one of the comments from our own team was.
+
+Lots of systems. Um, not as much thinking as there could have been.
+
+Okay, so remember when we called the systems thinking and, uh, people in general did quite a good job of going through the cases,
+
+uh, going through the process, going through the steps, uh, which is a key piece of what we're doing.
+
+But the most important piece at all, which we'll come back to at the end of this, is the thinking,
+
+and it's to actually structure your group in such a way that you can manage the processes.
+
+Okay. And that's that's a piece of it. You need to crunch those things.
+
+You need to be able to, um, do the editing, all that sort of stuff.
+
+Um, but also don't forget to stop and access, you know, you have a very large group of people, 30 to 35 people.
+
+And, and you can access their thinking, okay.
+
+And get people thinking synergistically, get people thinking as, uh, sub teams or as some specialist, uh, groups to actually consider the problem.
+
+And so that's, that's the key part of what we're doing.
+
+Okay. And so that one of the things we want to consider here is how can the societal needs be balanced.
+
+Balance that should be with shareholders, producer expectations, New Zealand's role in the primary sector.
+
+Because of course that will not be a secret to anyone that in New Zealand we are a significant country of agriculture.
+
+Okay. And the so-called primary industries are a key part of New Zealand's economy.
+
+And so we can't solve this problem at the expense of farmers or growers.
+
+We can't solve this problem at the expense of people who are working in those environments,
+
+or who are working somewhere in the the chain that goes from the producer to our own supermarket.
+
+Okay. So those and we will have talked throughout the semester about things like GDP and and
+
+so are agriculture and food production are a huge contributor to New Zealand's economy.
+
+And so we have this high food cost price. And we have to be able to try to solve that without actually creating other problems by uh,
+
+um, this dis incentivising or negatively impacting other people within the process.
+
+Okay. Uh, so those are all the things that your team has to try to balance.
+
+So also, what are the impacts and risks of climate, transportation, labour and logistics?
+
+So, uh, the uh, production of, uh, distribution of and delivery and purchase of food is a very, very complex, uh, supply chain.
+
+Or they also what we refer to this as a value chain. And remember when we talk about innovation, innovation is about creating value.
+
+So all of these people within the process are creating some chunk of value.
+
+How can we actually look at the value that's created at all of those levels,
+
+and see if we can impact the overall in terms of food costs that we're ending up with at the supermarket.
+
+Okay. Um, does this mean still time periods?
+
+Okay. So, uh, so, uh, people always ask well, over what period of time?
+
+Okay. Because when we think about something like food costs, obviously what we're looking for is we go to war.
+
+So I was actually reading a thing, uh, very short, um, tangent.
+
+And that is, I was reading a thing, uh, in, uh,
+
+one of the newspapers this morning and it said people refuse to call countdown Woolworths that to Kiwis.
+
+Um, that supermarket will always be called countdown.
+
+No matter what it says on the sign. Okay. And so what we really want to do is when we go to countdown, that supermarket with the green sign.
+
+No matter what it says, we want to be able to buy something for less when we do our shop.
+
+Okay. We want to do that next week. But in fact, the innovations to come up with are going to take a while to execute.
+
+And so the original time period that we want you to look at in terms of the urgency of, uh, impacting food costs is five years.
+
+And the way we came up with that is the current government has about two years left, uh, within the cycle of, of their own.
+
+Um, uh, um, what do they call that? The, um, coalition government.
+
+Yeah. Okay.
+
+So there's two years left, and then there will be another election, and we could either have three more years of the same or similar government,
+
+or we could have a different government, but there's basically five years left in terms of of those election cycles.
+
+And so whatever actions that you come up with will need to be executed and regulated and, um, legislated within that time period.
+
+So that's why it starts with five years. Okay.
+
+That the medium term is ten years.
+
+And what we want to look at there is how could we actually do some things in terms of policy
+
+resiliency that would actually help us to stabilise food prices to a longer period of time.
+
+And so that's why we said this 5 to 10 period. So that's what what you'll be looking at in terms of your systems project.
+
+Okay. Who are you doing this for? And so remember, what we've talked about is your team for systems is essentially a consultancy.
+
+Okay. You have been hired by the government to do this.
+
+And the rough cost, if you look at 30 to 35 people at just like regular hourly rates, like you say,
+
+you were working at a place like Becca or Deloitte or McKinsey because all these people turns out,
+
+charge quite a bit of money for your time, and that would be anywhere found.
+
+What level you're at 2 to $500 an hour.
+
+Okay, even for the likes of you folks.
+
+Okay. So you wouldn't, uh, be making that much, okay.
+
+But they they actually charge you out a lot more than they're paying you, because that's how they make money.
+
+And, you know, the people who are further up the food chain can drive like Gucci, BMW and have nice houses in Takapuna and all that sort of stuff.
+
+So, uh, that turns out to be a very large number.
+
+So if it you could assume that the government would be paying something on the
+
+order of $1 million for a week's worth of your team to come up with this problem.
+
+So basically $1 million to, uh, answer this question for the government, come up with recommendations.
+
+Uh, so what new innovations can be developed to tackle the high cost of rooting out to our ceiling over the next ten years?
+
+Okay, that's your challenge and that's what you're doing it for.
+
+Now, keep in mind that your challenge is to make a recommendation to these ministers for
+
+innovations to improve escalating food prices by focusing on two of the four segments.
+
+We'll show that in just a moment. Uh, for the food supply or the value chain, supply chain or value chain,
+
+recognising there are many stakeholders outside of the jurisdiction of the government.
+
+Okay. Lots of people related to, uh, the cost of food are not under government control.
+
+So the government cannot just say, oh, hey yo farmers, you actually are going to make half that amount of money next year, okay?
+
+They could put in certain laws, they could put in taxes, they could put in provisions that over time they had to shift their crops, things like that.
+
+But they're not directly under the control of the government.
+
+So you have to think about what the role of the government in this process.
+
+But that's who your client is. Okay. We keep mentioning these four segments.
+
+And so I wanted to expand a bit on this.
+
+And so if you think about the segments that uh, go into delivering food at the retail level at the, at the yum countdown level.
+
+So the starting point is production is actually, uh, farmers producing food or,
+
+uh, raising cattle or, um, raising sheep in the sheep station, all of those bits.
+
+Uh, and that's a significant part of what we pay at, at, uh, you know, Skinner people used to say like Cash Hill.
+
+But, you know, we scan stuff these days. Okay. Then there's the processing.
+
+How do you actually, uh, take the, um, the cattle and turn it into, uh, mince?
+
+How do you actually, um, uh, take the kiwifruit from orchards in Tauranga and, uh, take them through the supply chain?
+
+Uh, how do you actually take, uh,
+
+the plant based material to produce some of the plant based foods that we now have available in the supermarket as well?
+
+Uh, so this is true whether we're talking about a meat based or a plant based diet.
+
+Uh, so so then we move to the distribution and logistics.
+
+We have to actually shift this stuff around the country. We have to be able to, uh, store it, warehouse it, all of those sorts of bits,
+
+and then finally to bring it to the level of us actually buying it in, uh, Foursquare or wherever, wherever we shop.
+
+Okay. So, uh, of course, on the entire course and in fact, the course is leading up to it are around innovation.
+
+And so at this point, you should be pretty good at coming up with innovations.
+
+Okay. That's that's fundamentally what this is about. And so what we've listed here are some possible.
+
+But this is a very much a subset. Some possible areas that you might consider for innovation in each of these segments.
+
+Now you're way smarter than we are because our goal is to actually give you the tools to, um, know the processes of innovation.
+
+But in terms of the ideas that you come up with, you're likely to come up with way better ones than this,
+
+just handful that the teaching team has developed. So these are very much examples.
+
+So you don't want to say, oh hey, that's what they're looking for.
+
+So let's pick one of those and roll with that. Now we're not looking for anything.
+
+We're looking for things that represent innovations and improvements.
+
+So that's what you want to be considering in whichever two segments you choose ten.
+
+So the way this works is your teams could. Going to choose two of these segments because in fact, our thought was for a week.
+
+To choose all of these is pretty overwhelming. So choose two that you're going to focus on.
+
+You'll still want to understand what's going on in the other two segments.
+
+But choose two that you're going to focus on and innovate around.
+
+So you might pick. Uh, production and retail.
+
+Uh, or whichever one you want. They don't have to be next to each other.
+
+It can be any two within, uh, the four segments that make up the value chain or supply chain.
+
+Okay. One thing. So, uh, you will hear constantly.
+
+And, um, Rob always reminds us that, um, he said our students don't read newspapers.
+
+Okay. And I know some of you actually do read newspapers or you read online newspapers.
+
+Um, but whenever you do look at, um, news stories, there's often a lot of talk about, uh, what's called the supermarket duopoly,
+
+the fact that in New Zealand we have very concentrated, uh, um, retail or delivery of the last bit of food.
+
+Okay.
+
+And so this is actually directly from the brief, uh, should we recognise the current food retailer system in New Zealand, dominated by a few players?
+
+Okay. Foodstuffs and Woolworths, these two giant organisations that control, uh, the final bit of the way we get food in New Zealand.
+
+Any changes to the system are likely to be complex in terms of, uh,
+
+of regulation and legal structures, perhaps with significant challenges to feasibility.
+
+Because remember, when we talk about feasibility, it's can you actually do it?
+
+And so the feasibility we talk about it often, especially in 3 or 3 in terms of the technology or the science.
+
+Okay. Can you actually make something happen.
+
+But also remember included in feasibility is uh, the regulation is the, um, legal aspects is the, uh, current market structure.
+
+So there could be a whole lot of things. Uh, because let's say your answer was, oh, hey, we just, um, make, uh,
+
+Woolworths and Foodstuffs, um, cut the prices in half and allow lots of other people to sell.
+
+Okay. That could be extremely unfeasible.
+
+So, uh, be careful. If you look at innovating in this segment, no doubt there is innovation to be undertaken here,
+
+but we're just giving you a heads up that the innovation in the retail sector is not straightforward.
+
+And it's, um, likely to be pretty high risk.
+
+We'll just continue on here. So therefore solutions,
+
+improvements or other novel approaches to this problem space would likely need to be very well thought out and heavily supported.
+
+So don't just like randomly say, oh hey, we're going to do this. Uh, thus innovate in this area may well be a high risk endeavour,
+
+meaning you might be able to pull it off and have impact or you might not be able to.
+
+And those are the team leaders who are at the, uh, McKinsey team leader session on Monday.
+
+One of the things that, um, Eric,
+
+one of the consultants talked about is that you want to come up with a solution that actually has a high chance of getting done,
+
+because that's the key,
+
+and that there's actually trade offs between solutions that are likely to get executed and ones that might be more elegant that just sit on the shelf.
+
+So that's what we're looking for is something that has a level of feasibility that it can get executed.
+
+Uh, teams, I'm going to let you just read the rest of it there.
+
+So but it's just kind of a heads up if you choose the retail one.
+
+Be sure that you look deeply enough at, uh, what's really required to make it happen.
+
+Okay. So this is just kind of an overview of the scope for the project.
+
+So, uh, as we've just talked about,
+
+New Zealand government and private economists have highlighted that we have historically high and rapidly escalating food costs.
+
+Various studies and initiatives have been conducted or are being considered, and we're going to give you heaps of resources.
+
+There's been various studies undertaken by the government. Uh, there's been things that are cited by, uh, the OECD, uh, all sorts of resources.
+
+Okay. So that's kind of the context that you're going into when you take on this project.
+
+Okay. Our food costs and associated impact. So what's the what's the outcome of that food costs and associated impact.
+
+Uh, on cost of living is that crisis levels?
+
+Know this is uh, I talk to huge numbers of you, uh, that are like, uh, dude, as soon as I graduate, I'm out of here to Australia.
+
+New Zealand is just getting unsustainable. Okay. Uh, one of our panellists, I, uh, spoke to you last week.
+
+Uh, that was, um, the thing on Tuesday. It's like. Yeah, all my mates are in Australia.
+
+I'm the only one still here. Okay, so that's the kinds of impacts that we're actually seeing, in part due to food costs.
+
+Uh, food costs are impacting our competitiveness as a country.
+
+Uh, they're impacting our health and wellbeing and quality of life.
+
+And so, obviously, if you're spending heaps on food, you have less to go out and spend in terms of hanging out with your mates,
+
+in terms of doing travel, in terms of spending time with your family, all sorts of things.
+
+And so that's, that's, uh, the, the impacts that, uh, New Zealand is grappling with and why this,
+
+uh, problem is so important that the government is undertaking this analysis.
+
+So, uh, again, just a list of some. Possibilities for new innovations, um, digital technologies, different ways of doing things.
+
+All of those are things you might consider. But this is in no way considered to be a comprehensive list.
+
+Just a few ideas. Okay.
+
+Often, uh, weirdly to me.
+
+And of course, we do this all semester.
+
+Okay. So I get up here and I talk about, yo, there's this systems thinking thing, and it has causal loops, and it has, uh, it has iceberg models.
+
+It has all this stuff. And then sometimes the students will actually get the brief and they totally ignore all this stuff.
+
+They're like, oh, hey, we got to do, like, the case and we've got to like, chill out the forums and we got to like fill out the Excel spreadsheets.
+
+Okay? The the reason we have taught you these things is to be able to understand the problem.
+
+Okay. And and remember, you have quite a lot of resource 30 to 35 people.
+
+So when you get, uh, into the problem and you begin to consider this take for people on your team, and of course I do get you have not memorised this.
+
+Okay. And so you take those four people, you be like, oh, you know, that causal loops thing,
+
+remember that was like in the week to like don't know what that was all about.
+
+But like Peter was mentioning that Amanda keeps talking about stakeholders.
+
+I don't know if there's something in that. So take those people and throw them at that to actually go understand that, okay, go, go nerd out on it.
+
+Figure out what does that all mean? How does it actually work when you're undertaking a problem and then they do that bit?
+
+It mean everyone in your group has to be an expert on every single one of these tools,
+
+but use the tools because they will help you get to better solutions.
+
+Okay, so once you actually get into the brief and from the, uh, system standpoint,
+
+figure out how you're going to use these tools, uh, you don't need to use all of them.
+
+People like, okay, well, we do that one, then we do that one.
+
+No, just be aware of these as something that's actually going to help you do a better job on,
+
+uh, the project, on understanding the problem and then coming up with solutions.
+
+Okay. So just key point is, uh, don't forget to use some of the things that we've talked about in terms of, of coming up with better systems thinking.
+
+This is actually, uh, the, um, framework that was, uh, presented to the team leaders, uh, by a McKinsey this consultancy on Monday.
+
+And key key thing here is this is one process that you might use to undertake a systems problem.
+
+Okay. There are others. Or you might actually choose to use parts of this and then do your own thing.
+
+But the really key thing is that black box on the front.
+
+And that is to define the problem.
+
+Because that's that's really the key, is to be able to think about how do you start this off and how do you define the problem.
+
+And uh, for those of you who remember, uh, Juliet Gerard's, uh, talked one of the points that she made,
+
+remember, she's the, uh, was the former prime minister's chief science adviser.
+
+She said one of the things that engineers and scientists are very good at is defining the problem.
+
+Okay. And so that's where you're able to leverage your own discipline, uh, preparation and thinking along with systems, thinking that we've,
+
+uh, taught you to be able to define the problem and remember that you're going to have to actually define two problems,
+
+because we're asking you to undertake two independent problems is to, uh,
+
+get a really clear definition of those so that you can take on the next steps of this process.
+
+Okay. So that's really the key is to first understand the problem or problems,
+
+and then to work through whatever process that you choose to use to come up with solutions.
+
+All right. So let's talk about the five cases or the four cases.
+
+So the first case we're going to be doing is the strategic case. And the strategic case.
+
+You all did this in the team project. It was done fairly well.
+
+But the key is remember you need two problem statements and you're gonna have one for each one of those segments.
+
+So when we think about. The problem statements.
+
+You need to consider them in terms of cost and or resiliency.
+
+Okay. So we think about both short term and long term and what's happening there.
+
+And since you're going to have two problem statements you're going to need to wait them.
+
+Are they of equal importance or not. If not why not.
+
+Which one did you wait more. And then how does that impact the rest of your report?
+
+Again, go back to really understanding that problem.
+
+Use your root cause analysis. We've talked about five whys and problem for ease back in 3 or 3.
+
+Peter just referred to all of the tools we currently have for systems thinking and going through.
+
+Really understand what your problem or problems are.
+
+And then there's going to be many stakeholders to consider. So how can you improve for one type of stakeholder without sacrificing the other?
+
+Remember you're balancing the societal needs versus all of the needs within the chain itself.
+
+Okay. It's not just what the government wants.
+
+It's not just what the people want. You need to find the balance. You need to understand there's conflict, conflicting requirements.
+
+So you're going to have to justify your requirements. That's something very important.
+
+It's not just what you think, but how did you get that information.
+
+What are those key requirements? How do you develop your key success factors and how are you going to iterate against them?
+
+Remember that the key success factors come from those necessary requirements, and that you need to address any conflicting requirements within there.
+
+So that is the bulk of the strategic case. There's a bunch of iteration that's going to happen in the strategic case.
+
+And furthermore, when you move on to the economic case, remember the economic case is using your strategic case to understand your problems.
+
+Now when we talk about the economic case, the economic case is all about your options and getting to your shortlist.
+
+So the first thing you're probably going to do is once you have your problem statements,
+
+or even as you're still developing your problem statements, you may have a subtheme Ideating ideas.
+
+You're going to have an array of options or array of outputs.
+
+Not all of those are going to make your long list okay.
+
+Your long list is a breadth of constrained options. Which ones actually sound feasible right off the bat?
+
+We definitely see teams come up with options that are just completely off in outer space.
+
+I've mentioned this before and 3 or 3, but we've definitely had teams start 3 or 3 with using a Thanos snap to get somewhere.
+
+We do see even crazier ideas. Originally on the whiteboard for 403.
+
+Get rid of the super crazy ones. Make sure they're constrained.
+
+We're going to be able to assess them.
+
+Then we talked about two types of assessments we compare to our critical or key success factors in our problem statements.
+
+We compare to DFC. So desirability feasibility viability.
+
+Peter already spoke a bit about feasibility. That's sort of the big one there.
+
+So is it actually solving our problem.
+
+Does it have the capacity to solve our problem if it's only going to solve the problem for a really small segment of the population,
+
+maybe that's not an option, is it?
+
+Can we do it technologically? Regulatory. Realistically.
+
+Is it balanced? Can we implement it? Can it be done in the timeframe we're expecting?
+
+Those are all things that fall on to feasibility.
+
+Now the key here, when we're doing the economic case and we're narrowing down to our shortlist, we're getting rid of options.
+
+Those options don't disappear. They were lost for reason.
+
+They didn't meet one of these criterias. That needs to be explained why.
+
+It doesn't have to be paragraphs, but probably a sentence.
+
+You might group some options together and go, no, these are gone.
+
+You might see options and go, actually, we're going to recycle them and package them together to meet needs.
+
+Key with KSF and DFA. You can do this in series so you can do Csrf than DFA.
+
+You could do DFB, then Csrf, or you can do them all together.
+
+That's up to your team to manage and decide what they think and how they want to do it.
+
+Once you get to the end of your economic case, you should have your shortlist.
+
+So that's going to be your do nothing and two, three, maybe even four other options.
+
+You're going to look at or four other packages of options. And that's where we get into our financial case.
+
+For our financial case we're looking at a high level social CBA.
+
+So consider the high level cost. You're going to be talking about orders of millions.
+
+Okay. Granularity, rough costs of design, professional services, construction, land acquisition.
+
+We need rough costs there. Think about confidence level of those number you're getting.
+
+Are they 5% 50% 100% confidence.
+
+Where do you fall that's going to impact your CBA.
+
+Then think about your benefits. So what are the main benefits to society?
+
+Can those benefits be quantified? If they can be quantified, can they be monetised and can they be funded?
+
+Those are all things that go into the financial case.
+
+And then what are our intangible social impacts, the ones that we could only deal with qualitatively?
+
+Can we discuss the narrative negatively and effect on the four capitals and the indicators from the Lsat, from the financial case?
+
+You will then arrive at your preferred way forward.
+
+So the option that you're going to take forward and from that you're going to develop your management case.
+
+So your management case is going to talk about your expected outcomes and measure of success.
+
+So what are your clear and measurable goals. How do you know you're going to implement this.
+
+What type of phase is are you going to go through. What can you do short term within a year or two.
+
+Short term within five years. Medium term within ten.
+
+How are you going to be within budget within the timeline and then the quality of actually meeting that.
+
+Think about high level timeline. So years or multiple years you're not going to probably go month to month.
+
+That's a little bit harder to do. That one is go to even deeper and think about the level of detail your audience is going to need.
+
+We don't need day by day. And think about how is whatever you implement going to be funded?
+
+Does it fit within an existing budget? Are we going to be taking things from other budgeting sources or from the budget elsewhere?
+
+If so, what are the ramifications of removing funding from something else?
+
+Do we need to take on new debt, and how are we going to pay that off?
+
+All of this needs to be discussed within our management case. So some points to consider.
+
+These are just points. You don't need to include them. Is the public actually going to support your plan?
+
+Where do you need the. Or do you need to prioritise more vulnerable populations?
+
+And how are you going to address the needs of different groups. Because they're going to be quite different.
+
+How do commitments to things like climate change, education, infrastructure balance with the food price and the cost of living?
+
+With respect to that? How do all those things fit together in a problem and within your solution?
+
+Will policies cause populations to change their lifestyles, styles and habits?
+
+Where does your plan sit together with the UN sustainability goals?
+
+There are plenty of the UN's SDGs that tie into this.
+
+So think about social equity, poverty, housing, employment and what will your plan look like in the short term versus medium term?
+
+So again this is called systems thinking. Peter, do you wanna jump in here?
+
+Uh okay. And so this just emphasises. Oh that's perfect.
+
+Let's see. Okay. Here we go. Uh, this just emphasises the point that I made, uh, the slides before Amanda jumped on there.
+
+So, uh, and, uh, when Rob spoke, those of you who were here listen to the recording.
+
+Uh, Rob talked about. And Rob started this, uh, what are we, 16 years now?
+
+Uh, and he talked about what he calls the crunchy bits.
+
+Okay, this is Rob. Uh, that's where he kind of talks in our meetings as well.
+
+So the crunchy bits are this thinking. Okay.
+
+And so, uh, we want you to understand the processes.
+
+We spent a lot of time going over those things.
+
+But to really think about this crunchy bit and figure out how you're going to allow, uh, time and, um, the right sort of, uh, folks within your,
+
+uh, within your team structure to do the thinking and, uh, some very, you know, we talked about, uh, the variation in the team projects.
+
+Uh, some team, uh, projects were excellent in terms of the thinking, okay.
+
+And scored extremely well and came up with things that were really very outside the box.
+
+And so, uh, if you remember, uh, the challenge was around keeping the America's Cup or other things here in New Zealand.
+
+And one of the ones that I remember that, um, was, was quite outside the box is to actually partner up with Australia.
+
+Okay. That basically New Zealand, because of its size, had inherent limitations.
+
+And the example was the uh, Women's World Cup where, where we did partner.
+
+So that was actually something that that team had researched and thought about.
+
+And that was just one example of many, many things that, uh, were where the thinking came in and were pretty outside the box.
+
+So be sure you do that. Okay. Uh, we're gonna give you heaps of articles, reports, references, stuff like that.
+
+It's all on canvas. Uh, some of that we're going to show you at the end of today, but most of it won't be visible till tomorrow with the briefs.
+
+Uh, you you'll do other research. Okay. But this is not primarily a research project.
+
+It's a thinking project. So you're going to look at all the materials, you're going to do some research on your own,
+
+and you're going to think about, okay, what could we actually do to solve this problem or to impact this problem?
+
+Because almost certainly there's not a full on solution.
+
+There are just things that can be done to impact it.
+
+And and so your focus is going to be on analysis and synthesis to be able to come up with a recommendation.
+
+Okay. So that's just kind of again a reminder that that's where the focus of the project is.
+
+So as a team leaders found out most of the team knows every team is going to get a room booked on campus for three hours each day.
+
+You're going to make use of all the different communication tools you used for the team project.
+
+So that's all on you. On Tuesdays, every team will be meeting with the staff in a zoom check in mentoring session.
+
+Q&A. All team members should be at that meeting.
+
+Okay, team leaders, you're responsible for creating and managing the schedules and making sure everybody has access to links.
+
+And then for every individual team member, make sure you're active on teams communication and your management platforms.
+
+If we think about what's going on. Your project is due next Friday at 5 p.m.
+
+If you want to submit early, go right ahead. Again, you're kept at a size limit for your report.
+
+Your deliverable is going to be a report that is a maximum of 20 pages long, with an appendix up to 20 pages.
+
+You're also going to have a 3 to 4 minute video, and we'll have a team photo as well.
+
+Your page limit does not include the cover sheet and the requirements of the cover sheet.
+
+It does not include the table of contents and does not include the references.
+
+Everything else so pretty much for the report deliverable is included in your page count.
+
+So. Teams often want to see what a video is.
+
+So this is an example from last year. And one member of your hang on we get the bit the lines sort of.
+
+So one member is actually going to do this video as if presenting your recommendations to these ministers okay.
+
+And it's just one person.
+
+There's no slides because this is the kind of format this would take place if you're actually dealing with ministers in Parliament.
+
+Okay. So the honourable Minister of Health and esteemed members of the ministry.
+
+I was under the oversight team lead for 20 consulting here at the University of Auckland.
+
+Today, I presented a proposal for improving New Zealand's health care system for all.
+
+New Zealand's health care system, despite numerous efforts over the past three decades, remains under significant strain.
+
+The introduction of fuzzy water into I Could Fly Away in 2022, and the subsequent to bypass the interim New Zealand Health Plan,
+
+backed by an $11 billion budget aimed to centralise and improve the system.
+
+However, the reactive nature of our decisions and funding, coupled with inefficiencies highlighted by an obesity and other partner nations,
+
+means a decrease in wait times and increasing accessibility is yet to be observed.
+
+Plus, we still reckon with resource shortages and workload challenges.
+
+On top of this, vulnerable communities continue to experience inequity within our fragmented system.
+
+I'll proposal offers a strategic plan to tackle these health challenges over the next 10 to 15 years.
+
+We've pinpointed four questions. The demand for healthcare professionals is growing faster than the supply.
+
+Our facilities are overwhelmed, leading to longer patient wait times.
+
+Our vulnerable groups in New Zealand has significant, healthy obstacles indicating our access barriers.
+
+And lastly, communication breakdowns in our healthcare system lead to inefficient inefficiencies
+
+and a result of mis allocated resources and patient care discrepancies.
+
+Relying on overseas healthcare professionals is not a long term solution.
+
+New Zealand must invest in the healthcare infrastructure.
+
+Innovative medical training and retention programmes to attract local and international talent.
+
+Our goal is clear, equitable, timely medical care for all.
+
+This will ensure a brighter future for every New Zealander.
+
+Now we suggest a proactive approach that emphasises education to mitigate the healthcare system pressures.
+
+This aims to attract more individuals to healthcare, particularly nurses, offering enticing professional development opportunities.
+
+A key aspect of our suggestion is enhancing accessibility and awareness around disabled and vulnerable communities.
+
+We're not just focussed on the care, but also ensuring everyone is informed and access the services they need.
+
+We do this by improving the government health website.
+
+A step towards this is enhancing digital services and accessible accessibility and help keep our come to life seamlessly.
+
+The New Zealand Government's healthy vision emphasising nurse professional development,
+
+extending the healthy active learning programs in all schools and community centres,
+
+and refining the government's health website to better serve and inform our communities, especially those disadvantaged groups.
+
+Our goals are ambitious, yet they're achievable.
+
+We aim to reduce the average employment wait time from over four months to listening to them within just 15 years.
+
+On top of this, after ten years, the measured turnover rate of nursing graduates will reduce to 50% from the current 57 two years after graduation.
+
+In terms of the website, a 20% increase in the website of a site within three years of implementation.
+
+Funding this text in the package requires 600 million over 15 years.
+
+When you start with 150 million from the Wellbeing Budget 2023, with the remaining source from the 24 billion vote health fund allocation.
+
+This avoids any need for borrowing funds. So d20 consulting presents a transformative solutions Alto's healthcare challenges.
+
+We're amplifying health, education and skills. We're enhancing the healthy active learning programme, and we're bolstering nurse training.
+
+Our plan includes a culture, culturally sensitive health care website and awareness campaigns with only a $600 million budget.
+
+We're primed for consultations and a rapid rollout, aiming for a streamlined, fair healthcare system for every New Zealander.
+
+Thank you for your time and we look forward to working with you in the future.
+
+Okay. Pop it up there.
+
+Okay. So, uh, as I mentioned before, uh, the brief will be, uh, posted on canvas from midday tomorrow.
+
+There will be a canvas announcement, just like on most Fridays. On Fridays.
+
+Really? Uh, and so, uh, what we propose is that over the weekend, you read the brief,
+
+everyone on your team reads the brief review of the associated materials.
+
+Leadership teams can organise communication structure and logistics.
+
+Uh, which I'll actually be sending an email tomorrow to the team leaders.
+
+Uh, but you can't full on start this over the weekend.
+
+Okay. Team leaders can get organised. They can structure this, uh, they can figure out how they want to, uh, have the team go after it.
+
+Uh, but the work actually doesn't begin until sometime from 8:00 on Monday.
+
+Okay. And, uh, also keep in mind that there are students who are working on part for projects, have other assignments.
+
+So, um, they need to actually read the brief, but, uh, you might not want to, like, hit people with a whole lot over the weekend.
+
+Okay. And of course, uh, have have a great experience.
+
+Um, good luck with it. Uh, have some fun with it as well. You would have heard the panellists talk about their own experience on Tuesday.
+
+And so, um, you know, be sure that you do have some fun with it as well.
+
+And then we probably have time for just a quick question or two.
+
+Okay. And if you don't if you do have questions that we don't answer them today, reach out.
+
+We'll make sure we get them answered. But anyone have questions. All right.
+
+If you take a look at today's canvas page, we do actually have exemplars posted for the reports.
+
+So you can see that now. Um, and then was there a question.
+
+About like and what would you say again, what should be the what should be the like rough distribution of work for each section.
+
+So what's the distribution. Okay, so, uh, you're welcome to head out.
+
+Uh, the question was just what should be the rough distribution of work per section?
+
+I don't know if we actually have a great breakdown. We find that most teams probably are really starting to think about options and option assessment.
+
+Towards the end of Tuesday. Um, so really, those first two days are really understanding the problem and figuring that out.
+
+Um, yeah. Okay.
+
+Yeah. Give us some feedback about problem statements.
+
+Did you expand on that?
+
+Like for example, within the context of the American. Oh, you want overflow?
+

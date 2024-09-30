@@ -237,22 +237,6 @@ https://github.com/robmarkcole/kaggle-ships-in-satellite-imagery-with-YOLOv8
 ~~- finally, fine-tune two models NOT for humans, and one that is general (yolov8 from ultralytics, insects, and vehicles.
 	-  Fine tune them based on varying frozen layers, various epoch count (MAKE SURE THEY ARE THE SAME AS ABOVE)~~
 
-- Do some evaluations on all model categories:
-	- See if the models originally trained to detect humans only performs better than the other ones. If so, then this suggests that indeed, there is something about human features that aids in the detection of e-scooter riders.
-		- Since the general model is also trained on humans, this should perform fairly well, too
-		- The models fined tuned on e-scooters were originally trained on: 
-			- General objects (YoloV8 pre-trained models, includes vehicles, humans, umbrellas, etc)
-			- Humans
-			- Insects
-			- Vehicles
-			- Nothing (random initial weights)
-			- E-scooters (trained from scratch)
-	- If the results are something like Humans >= E-scooters > General Objects >  > (Vehicles, Insects) > Nothing then our conclusion may be sound?
-
-
-Next steps:
-- Set up SAM+YOLO combo. Train it on the supercomputer lololololoolol
-
 
 # FINAL PUSH:
 

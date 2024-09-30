@@ -80,7 +80,7 @@
 80. UoA (waiting)
 81. Partly (interview, part 2)
 82. Trimble (waiting)
-83. Fidelity Life (waiting)
+83. Fidelity Life
 84. Kiwibank
 85. Auckland Transport (waiting)
 86. Tekron (waiting)
@@ -90,3 +90,17 @@
 90. SEEK
 91. Crown Equipment Ltd 
 92. Private Advertiser
+93. Cogo (waiting)
+94. Z Energy (waiting)
+95. PartsTrader (waiting)
+96. Manawatū (Levno) (waiting)
+97. Quotable Value Limited (waiting)
+98. Air NZ
+99. Endace (waiting)
+100. Endace (waiting)
+101. Windcave (waiting)
+102. Aeroqual (again heehee, waiting)
+103. Aderant (waiting)
+
+
+
