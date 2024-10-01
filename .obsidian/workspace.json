@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "069c967155108ce1",
+        "id": "5662ebcb62c22a81",
         "type": "tabs",
         "children": [
           {
-            "id": "2f01db1d0fbc919e",
+            "id": "d465e6e6b536d626",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions.md",
+                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions.md",
+                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions.md",
+                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions.md"
+                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions 2.md"
               }
             }
           }
@@ -146,25 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f01db1d0fbc919e",
+  "active": "d465e6e6b536d626",
   "lastOpenFiles": [
-    "700A - Research Project/Documents/700A Literature Review.pdf",
+    "700A - Research Project/New Literature Review/Unconfirmed 283126.crdownload",
     "700A - Research Project/New Literature Review/Perplexity Article Suggestions.md",
-    "700A - Research Project/New Literature Review",
+    "700A - Research Project/New Literature Review/Perplexity Article Suggestions 2.md",
+    "700A - Research Project/New Literature Review/Unconfirmed 465317.crdownload",
+    "700A - Research Project/New Literature Review/2.1 Articles/Real_Time_Object_Recognition_Based_on_YOLO_Model.pdf",
+    "700A - Research Project/New Literature Review/2.1 Articles/e44c3edd7da97ca9468aee56dd27cfe6f6ab.pdf",
+    "700A - Research Project/New Literature Review/2.1 Articles/Privacy-Preserving_and_Models_Intrusion_Detection_Federated_Deep_Learning_Challenges_Schemas_and_Future_Trajectories.pdf",
+    "700A - Research Project/New Literature Review/2.1 Articles/plants-12-01431.pdf",
+    "700A - Research Project/New Literature Review/2.1 Articles/Deep_Learning_Framework_for_Facial_Emotion_Recognition_using_CNN_Architectures.pdf",
+    "700A - Research Project/New Literature Review/2.1 Articles/2211.05120v1.pdf",
+    "700A - Research Project/New Literature Review/2.1 Articles",
     "Rejections.md",
-    "700A - Research Project/Canvas Files/P4PHandbook-ECSE-2024.pdf",
+    "723 - Embedded Systems Design/Embedded System.md",
+    "723 - Embedded Systems Design/Finite State Machine.md",
+    "723 - Embedded Systems Design/FPGA.md",
+    "761 - Advanced Agile & Lean SD/Assignments/A1.pdf",
+    "700A - Research Project/Documents/700A Literature Review.pdf",
     "700A - Research Project/images/image.png",
     "Me/Topics.md",
     "Me/Thoughts.md",
     "Me/Questions.md",
-    "700A - Research Project/Canvas Files/P4P_Lecture-28Feb2024.pdf",
-    "702 - Advanced HCI/softeng702_S2_2018.pdf",
-    "700A - Research Project/Documents/Exemplar_Research_Report.pdf",
-    "403/Systems Week & Brief and Logistics/Systems Brief 2024_Challenge .pdf",
-    "403/Systems Week & Brief and Logistics/Systems Brief 2024_Deliverables.pdf",
-    "403/Systems Week & Brief and Logistics/Systems Brief 2024_Rubric.pdf",
-    "403/Systems Week & Brief and Logistics/ENGGEN 403_ L22 [19 Sept] Systems Week Brief_Captions.txt",
-    "403/Systems Week & Brief and Logistics/ENGGEN 403_ L22 [19 Sept] Systems Week Brief_Captions_English (United Kingdom).txt",
     "700A - Research Project/LOG.md",
     "700A - Research Project/LLM Outputs/Untitled.md",
     "700A - Research Project/LLM Outputs/llm output 2.md",
@@ -189,10 +193,6 @@
     "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
     "702 - Advanced HCI/Week 5/Literature Review Notes Assignment Brief.md",
     "403/Weeks 4 & 5/Team Project/Personal/brainstorm.md",
-    "403/16 Jul Growth Mindset and Grit.md",
-    "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
-    "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
-    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155657.png",
-    "403/30 Jul Societal Considerations.md"
+    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155657.png"
   ]
 }

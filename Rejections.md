@@ -100,7 +100,7 @@
 100. Endace (waiting)
 101. Windcave (waiting)
 102. Aeroqual (again heehee, waiting)
-103. Aderant (waiting)
+103. Aderant
 
 
 
