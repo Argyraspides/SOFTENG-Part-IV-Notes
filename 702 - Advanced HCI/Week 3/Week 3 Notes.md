@@ -41,7 +41,7 @@ E.g.
 
 4: Final question: How do the colors of the 'After' UI design affect task completion times for general internet users compared to the 'Before UI' design?
 
-#### On Hypotheses:
+#### On Hypotheses
 
 ##### The Null Hypothesis (denoted $H_0$):
 - In the context of A/B testing or testing in general (figuring out if one UI is better than another, or whether XYZ has an effect on users or whatever the fuck it is,) the null hypothesis is just that "there is no effect" or "there is no difference." or that there is no relationship between tested variables. E.g., for the example question above on "How do the colors of the 'After' UI design affect task completion times for general internet users compared to the 'Before UI' design?," the null hypothesis would be "There is no difference between UI A or UI B on its affect of user task completion times."
@@ -52,8 +52,6 @@ E.g.
 
 - The opposite of the null hypothesis. States that there IS a relationship between variables. 
 - States that any observed effects of variables on one another are "real" (i.e. NOT due to random chance)
-
-
 
 ### Experimental Design
 #### Within Subject

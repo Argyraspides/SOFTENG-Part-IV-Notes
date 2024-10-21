@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5662ebcb62c22a81",
+        "id": "6c6c11f897b9560e",
         "type": "tabs",
         "children": [
           {
-            "id": "d465e6e6b536d626",
+            "id": "29d3abf9dca482b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions 2.md",
-                "mode": "source",
+                "file": "702 - Advanced HCI/Week 4/Week 4 Notes.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Week 4 Notes"
+            }
+          },
+          {
+            "id": "20e8c20ada3746e3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "702 - Advanced HCI/Week 3/Material/Week3Reading.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Week3Reading"
             }
           }
         ]
@@ -39,7 +53,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +64,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": ".png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +80,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 374.5
   },
   "right": {
     "id": "f911b7f98015773d",
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions 2.md",
+                "file": "723 - Embedded Systems Design/Embedded System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Embedded System"
             }
           },
           {
@@ -102,10 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions 2.md",
+                "file": "723 - Embedded Systems Design/Embedded System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Embedded System"
             }
           },
           {
@@ -116,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,15 +151,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "700A - Research Project/New Literature Review/Perplexity Article Suggestions 2.md"
-              }
+                "file": "723 - Embedded Systems Design/Embedded System.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Embedded System"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 313.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,53 +174,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d465e6e6b536d626",
+  "active": "29d3abf9dca482b3",
   "lastOpenFiles": [
-    "700A - Research Project/New Literature Review/Unconfirmed 283126.crdownload",
-    "700A - Research Project/New Literature Review/Perplexity Article Suggestions.md",
-    "700A - Research Project/New Literature Review/Perplexity Article Suggestions 2.md",
-    "700A - Research Project/New Literature Review/Unconfirmed 465317.crdownload",
-    "700A - Research Project/New Literature Review/2.1 Articles/Real_Time_Object_Recognition_Based_on_YOLO_Model.pdf",
-    "700A - Research Project/New Literature Review/2.1 Articles/e44c3edd7da97ca9468aee56dd27cfe6f6ab.pdf",
-    "700A - Research Project/New Literature Review/2.1 Articles/Privacy-Preserving_and_Models_Intrusion_Detection_Federated_Deep_Learning_Challenges_Schemas_and_Future_Trajectories.pdf",
-    "700A - Research Project/New Literature Review/2.1 Articles/plants-12-01431.pdf",
-    "700A - Research Project/New Literature Review/2.1 Articles/Deep_Learning_Framework_for_Facial_Emotion_Recognition_using_CNN_Architectures.pdf",
-    "700A - Research Project/New Literature Review/2.1 Articles/2211.05120v1.pdf",
-    "700A - Research Project/New Literature Review/2.1 Articles",
+    "702 - Advanced HCI/Week 3/Week 3 Notes.md",
+    "702 - Advanced HCI/Week 3/Material/L3 - Experiment Design and Quantitative Analysis.pdf",
+    "702 - Advanced HCI/Week 3/Material/Week3Reading.pdf",
+    "702 - Advanced HCI/Exam Prep -- Master Notes.md",
+    "702 - Advanced HCI/Week 2/Week 2 Reading Notes.md",
+    "702 - Advanced HCI/Week 2/Material/L2 - multimodal interfaces and interactions.pdf",
+    "702 - Advanced HCI/Week 1/Chapter 1 Notes.md",
+    "702 - Advanced HCI/Week 2/Material/lecture2Transcript.txt",
+    "702 - Advanced HCI/Week 1/Material/Week1Reading.pdf",
+    "702 - Advanced HCI/Week 1/Material/L1 - Introduction to Advanced HCI.pdf",
+    "702 - Advanced HCI/Week 1/Material/Lecture1Transcript.txt",
+    "702 - Advanced HCI/PDFs/Exploring the role of virtual reality in military decision training.pdf",
+    "702 - Advanced HCI/Misc Canvas Files/Project Topic Brief.md",
+    "702 - Advanced HCI/Misc Canvas Files",
+    "702 - Advanced HCI/PDFs/HiveFive_ Immersion Preserving Attention Guidance In Virtual Reality.pdf",
+    "702 - Advanced HCI/Misc Canvas Files/Literature Review Notes (Draft 2).md",
+    "723 - Embedded Systems Design/Cyber-Physical Systems.md",
+    "702 - Advanced HCI/Week 4/Week 4 Notes.md",
+    "702 - Advanced HCI/iamges/Pasted image 20240729032027.png",
+    "702 - Advanced HCI/iamges/Pasted image 20240729031856.png",
+    "702 - Advanced HCI/iamges/Pasted image 20240729031333.png",
+    "702 - Advanced HCI/iamges/Pasted image 20240729025546.png",
+    "702 - Advanced HCI/iamges/Pasted image 20240729025505.png",
+    "702 - Advanced HCI/iamges/Pasted image 20240729023537.png",
+    "702 - Advanced HCI/iamges/Pasted image 20240729015318.png",
+    "702 - Advanced HCI/iamges/Pasted image 20240729014205.png",
+    "702 - Advanced HCI/iamges/Pasted image 20240729011609.png",
     "Rejections.md",
-    "723 - Embedded Systems Design/Embedded System.md",
-    "723 - Embedded Systems Design/Finite State Machine.md",
-    "723 - Embedded Systems Design/FPGA.md",
-    "761 - Advanced Agile & Lean SD/Assignments/A1.pdf",
-    "700A - Research Project/Documents/700A Literature Review.pdf",
-    "700A - Research Project/images/image.png",
-    "Me/Topics.md",
     "Me/Thoughts.md",
+    "Me/Topics.md",
     "Me/Questions.md",
     "700A - Research Project/LOG.md",
-    "700A - Research Project/LLM Outputs/Untitled.md",
-    "700A - Research Project/LLM Outputs/llm output 2.md",
-    "700A - Research Project/images/performance_by_model_mAP50-95(B).png",
-    "700A - Research Project/images/performance_by_model_recall(B).png",
-    "700A - Research Project/images/performance_distribution_mAP50-95(B).png",
-    "700A - Research Project/images/Pasted image 20240915024551.png",
-    "700A - Research Project/images/Pasted image 20240915024215.png",
-    "700A - Research Project/images/pairwise_comparisons.png",
-    "700A - Research Project/images/performance_by_model_precision(B).png",
-    "700A - Research Project/LLM Outputs/implications of human imbalance on model performance.md",
-    "700A - Research Project/plan.md",
-    "702 - Advanced HCI/Week 3/Week 3 Notes.md",
-    "702 - Advanced HCI/Week 4/Week 4 Notes.md",
-    "702 - Advanced HCI/Ethics/Ethics learning modules info.md",
-    "702 - Advanced HCI/Literature Review Notes (Draft 2).md",
-    "702 - Advanced HCI/Project Topic Brief.md",
-    "702 - Advanced HCI/Week 6/Material/IDIA_CulturalIntegrityScorecard.md",
-    "702 - Advanced HCI/Week 6/Material/IDA_CulturalIntegrityScorecard.md",
-    "702 - Advanced HCI/Week 6/Material/IDIA_CulturalIntegrityScorecard.PNG",
-    "700A - Research Project/project_vjos612-3/README.md",
+    "403/22 Jul Challenges and Systems Thinking.md",
     "700A - Research Project/Model Performances/Roboflow 3.0/2024-06-14 3;57pm.md",
-    "702 - Advanced HCI/Week 5/Literature Review Notes Assignment Brief.md",
-    "403/Weeks 4 & 5/Team Project/Personal/brainstorm.md",
-    "700A - Research Project/Model Performances/Roboflow 3.0/images/Pasted image 20240617155657.png"
+    "723 - Embedded Systems Design/Embedded System.md",
+    "700A - Research Project/Notes/Gradient Descent & Minimization.md",
+    "700A - Research Project/LLM Outputs/llm output 2.md",
+    "700A - Research Project/Notes/Neural Networks.md",
+    "700A - Research Project/Notes/Pattern Recognition.md",
+    "700A - Research Project/Notes/Polynomial Curve Fitting.md",
+    "700A - Research Project/Notes/Regression.md",
+    "700A - Research Project/Notes/Regularization.md",
+    "723 - Embedded Systems Design/SoC.md",
+    "700A - Research Project/Notes/The Neuron.md",
+    "723 - Embedded Systems Design/images/Pasted image 20240228232040.png"
   ]
 }

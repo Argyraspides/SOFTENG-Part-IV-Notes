@@ -44,3 +44,12 @@ The considerations I made, the thought I put into a search query in Google, refi
 
 Is it a shame that I will lose those skills?
 ***
+I notice a pattern in things that become easier -- automated, even.
+
+The careful strokes of a fountain pen on paper, the writer writing with intent and forming loops, lines, and connections from letter to letter brings a whole new involvement into writing. The keyboard? Efficient, but decimates the experience.
+
+Can we get down our thoughts faster? Yes. Are they as quality? Who knows, but it is certain an element of writing itself is lost.
+
+Does someone want fast food prepared by a machine? Krabby-O-Mondays? Does someone want their words formed by a computer? "More and more people are using fountain pens nowadays to get that personal touch back"
+
+Really?

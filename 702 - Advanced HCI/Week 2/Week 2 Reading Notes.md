@@ -11,7 +11,7 @@ If it wasn't obvious enough, a multimodal system also gives the user a **choice*
 From all of this, then, a multimodal interface makes the interaction between computer and man more **robust**.
 
 #### Fusion & Fission in Multimodal Systems
-Fusion is the process of combining multiple streams of data into one for interpretation. In a multimodal system, this might mean something like combining both visual and audio data streams to interpret, for example, speech.
+Fusion is the process of combining multiple streams of data into one for interpretation. In a multimodal system, this might mean something like combining both visual and audio data streams to interpret, for example, speech (tracking the movement of the mouth and lips while simultaneously recording audio of someone speaking).
 
 Once this data is processed, fission then occurs to convey the computed information back to the user in multiple streams of data. This prevents information overload by distributing information across different channels or modailities for the user to interpret.
 
@@ -23,18 +23,18 @@ An excerpt from *Multimodal Fusion, Fission and Virtual Reality Simulation for a
 
 ***Multimodal fission, on the other hand, is the process of physically acting or reacting to the data just provided. Following the fusion process, the fission will split the semantic result into action/s to be sent to the actuators. While the result of the fusion process provides the action to be implemented, the fission process splits the action into smaller details sent to the actuators to carry out the action or event for implementation."***
 
-The above just means that fusion is the process of "composing" and "correlating" data from "multiple sensors" (so the data isn't necessarily combined in the sense that it is merged together, but rather that all inputs are taken into account relative to one another.)
+The above just means that fusion is the process of "composing" and "correlating" data from "multiple sensors" (so the data isn't necessarily combined in the sense that it is merged together, but rather that all inputs are taken into account, both by themselves and in relation to one another, to make a decision on what to ultimately output).
 
-After fusion takes place and something is computed (e.g. once visual and audio information is "fused" and interpreted,) fission will take place where, depending on the result of the fusion, spit back out information where the user can then take action. 
+After fusion takes place and something is computed (e.g. once visual and audio information is "fused" and interpreted,) fission will take place where, depending on the result of the fusion, spit back out information.
 
-An example of this might be a smart robot that cleans up the room for a user. The user might tell the robot "Hey, clean up the mess of Legos over there" while pointing at the pile of Legos. The robot will combine both the audio (what the user said) and video (where the user pointed) to interpret the message, and then the robot will perform "fission" based on this action by carrying out multiple instructions. The robot may first say "Got it, cleaning up the Legos," before moving to the cleanup site and begin putting stuff away. In some way, fission should convey to the user what is going on (as per the diagram abov.e) In the robots case, this is the act of physically going to the cleanup site and putting stuff away.
+An example of this might be a smart robot that cleans up the room for a user. The user might tell the robot "Hey, clean up the mess of Legos over there" while pointing at the pile of Legos. The robot will combine both the audio (what the user said) and video (where the user pointed) to interpret the message, and then the robot will perform "fission" based on this action by carrying out multiple instructions. The robot may first say "Got it, cleaning up the Legos," before moving to the cleanup site and begin putting stuff away. In some way, fission should convey to the user what is going on (as per the diagram above) In the robots case, this is the act of physically going to the cleanup site and putting stuff away.
 
 #### Modality One: The Human Body
 Remember that modality just means a "mode" of input or communication. One of these, of course, is vision. In the case of HCI, one way a computer can interact with us is through computer vision (where a computer interprets data of the world around it through visual means.) As an example, when developing video games, it might be useful to create character models and animations through examining human bodily motion. One way to achieve this is through marker-based tracking:
 
 ![[Pasted image 20240729014205.png]]
 
-A bunch of small devices that knew their locations relative to one another (or sometimes markers are simply brightly colored balls on a black backdrop to make them easy to detect in video software where afterwards, the positions of the balls can be triangulated based on multiple camera angles and then easily loaded into some sort of 3D model.) Indeed, this is an example of human computer interaction. Making a character model from "scratch" with a dual-modality system (say, computer and keyboard) would take far, far longer to do. This special suit allows us to interface with a computer to transfer information about human bodily pose much faster. The problems with this approach should be quite obvious -- it requires a special suit, and sometimes sophisticated equipment. 
+A bunch of small devices that knew their locations relative to one another (or sometimes markers are simply brightly colored balls on a black backdrop to make them easy to detect in video software where afterwards, the positions of the balls can be triangulated based on multiple camera angles and then easily loaded into some sort of 3D model.) Indeed, this is an example of human computer interaction. Making a character model from "scratch" with a dual-modality system (say, computer and keyboard) would take far, far longer to do. This special suit allows us to interface with a computer to transfer information about human bodily pose much faster. The drawbacks with this approach should be quite obvious -- it requires a special suit, and sometimes sophisticated equipment. 
 
 Markerless tracking is also used, which is essentially just a neural network model specifically trained on datasets to segment different parts of the human body so that an outline of the pose the individual is making can be made:
 
@@ -43,10 +43,10 @@ Markerless tracking is also used, which is essentially just a neural network mod
 ##### The Three Issues in Motion Analysis:
 
 There are so many issues/problems to be encountered in motion analysis so idk why the lecturer just referenced these three out of some random ass paper as if they are the only ones to be aware of but here it goes:
-
+ cc
 ***"There are three important issues in articulated motion analysis: representation (joint angles or motion of all the sub-parts), computational paradigms (deterministic or probabilistic), and computation reduction."***
 
-1. **"Joint angles or the motion of all the subparts"/"representation"** just refers to the complexity that arises when we want to be super accurate about the motion of subparts of a system. In the case of pose detection, it might be easy to get some outline for how a person is standing (e.g. how their legs are positioned, how straight their back is, etc) but it is quite a bit more difficult to, for example, accurately guage the exact angle of their wrist, or by how much it is rotated. Same goes for how twisted their ankles are, or by how much their toes are curling.
+1. **"Joint angles or the motion of all the subparts"/"representation"** just refers to the complexity that arises when we want to be super accurate about the motion of subparts of a system. In the case of pose detection, it might be easy to get some outline for how a person is standing (e.g. how their legs are positioned, how straight their back is, etc) but it is quite a bit more difficult to, for example, accurately guage the exact angle of their wristcc, or by how much it is rotated. Same goes for how twisted their ankles are, or by how much their toes are curling.
 2. **"Computational Paradigms"** refers to the choice one has to make between deterministic and probabilistic models to predict motion in the future. In the case of predicting the motion of a pendulum, deterministic might be the way to go, but for a human dancer -- probabalistic is the way to go (or perhaps even a mix of both depending on the specific circumstance.)
 3. **"Computational Reduction"** refers to the choice one has to make on how to represent the data or the choice on what algorithms and whatnot to use to make the computation of motion analysis more efficient. The pose of a human being is captured in 3D, but perhaps it is possible to flatten this to a 2D representation to perform calculations without any loss of accuracy whilst also making the process of computation faster. Or perhaps theres some random ass algorithm that works better for some specific use case.
 
@@ -127,7 +127,6 @@ Analyzing someone's emotions through speech requires a good grasp of intonation,
 
 We can also measure physiological factors such as heart rate, skin temperature, brain activity, etc. We could also combine everything we talked about so far! 
 
-
 ### Fusion in more detail:
 Fusion is combining multiple data streams into one -- but it doesn't just have to be the raw data (e.g. audio and visual signals.) It could also be combining data at the *feature* level (that is, any features that have been extracted from the raw data, e.g. "facial" features that an AI model (or anything else, really, it doesn't necessarily have to be an AI model) might be using to detect faces,) or even at the *decision* level (the final result of the computation of features, e.g. in the case of an AI model detecting a face, this might be the location of the detected face in the image or something)
 
@@ -144,7 +143,7 @@ There are some challenges with fusing data, some of which should be obvious:
 - Handling different data formats and granularities/resolutions
 	- Video is mp4 and audio is mp3. How do we get some sort of common representation if we're gonna fuse it?
 - Dealing with redundant or conflicting information
-	- Maybe an extreme example but imagine a vantriloquist, lol. Your model or whatever is gonna be like wtf I hear talking but this dude ain't moving his lips what do I do???
+	- Maybe an outlandish example but imagine a vantriloquist, lol. Your model or whatever is gonna be like wtf I hear talking but this dude ain't moving his lips what do I do???
 
 
 ## CASE and CARE Models
