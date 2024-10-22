@@ -48,15 +48,15 @@ Is this the best approach, though? For example, why not try and *reject* the sta
 
 You might say "Well, that will only tell me if there *is* a difference, not *by how much* though".
 
-This is the point I'm trying to make -- your first job is not to prove a definite, quanititative difference, but that *there is a difference in the first place*. After that, *then* you can start talking about "by how much". Now normally, within the same study, you might be able to do both at the same time, but you'd first have to prove a difference before proving by how much.
+This is the point I'm trying to make — your first job is not to prove a definite, quanititative difference, but that *there is a difference in the first place*. After that, *then* you can start talking about "by how much". Now normally, within the same study, you might be able to do both at the same time, but you'd first have to prove a difference before proving by how much.
 
 Okay then, so why not prove the statement "There is a difference in effect times between Panadol and Faster-Than-Panadol"? Why are we doing the opposite of this statement?
 
-As it turns out, it is far, *far* easier to "disprove" something rather than "prove" it to be true. Think about it -- you only need one example to "prove" something is incorrect, but you'd need a million to even start "proving" it correct. If I observe something, and come up with a hypothesis on why that observation was the way it was, I'd need extraordinary evidence to "prove" it. You, on the other hand, only need to find one counter-example to "disprove" my hypothesis.
+As it turns out, it is far, *far* easier to "disprove" something rather than "prove" it to be true. Think about it — you only need one example to "prove" something is incorrect, but you'd need a million to even start "proving" it correct. If I observe something, and come up with a hypothesis on why that observation was the way it was, I'd need extraordinary evidence to "prove" it. You, on the other hand, only need to find one counter-example to "disprove" my hypothesis.
 
 So, "proving" the statement "There is no difference between effect times of Panadol and Faster-Than-Panadol" as false (rejecting it) turns out to be far easier (and actually less error-prone) than trying to directly "prove" "There is a difference in effect times between Panadol and Faster-Than-Panadol".
 
-Why did I put prove, disprove, and proving in quotes? It is impossible to ever completely prove something. We cannot establish absolute truth in science, we can only provide very strong evidence and then say "Well, this explanation is very consistent, reliable, aligns with our observations and/or experiments, and has lots of evidence to back it up -- and so we will accept it for now until new evidence comes along which might help us out even more, or maybe disprove the explanation".
+Why did I put prove, disprove, and proving in quotes? It is impossible to ever completely prove something. We cannot establish absolute truth in science, we can only provide very strong evidence and then say "Well, this explanation is very consistent, reliable, aligns with our observations and/or experiments, and has lots of evidence to back it up — and so we will accept it for now until new evidence comes along which might help us out even more, or maybe disprove the explanation".
 
 So then, since we know that Panadol works, and this is an established fact, we want to place the burden of proof on the person making the claim that their Faster-Than-Panadol drug is faster.
 
@@ -67,7 +67,7 @@ From the perspective of the person who made Faster-Than-Panadol, they have to co
 
 If the person fails to disprove the statement, that doesn't necessarily mean there isn't a difference, but that there isn't enough *evidence* to conclude there is a difference.
 
-We call this hypothesis -- the one we are trying to prove wrong, the "null hypothesis", denoted as $\large H_0$. You usually assign the null hypothesis as the status-quo or widely held fact, and it is usually the thing you are trying to prove as false.
+We call this hypothesis — the one we are trying to prove wrong, the "null hypothesis", denoted as $\large H_0$. You usually assign the null hypothesis as the status-quo or widely held fact, and it is usually the thing you are trying to prove as false.
 
 ## The Alternative Hypothesis (denoted $H_1$ or $H_a$)
 
@@ -105,7 +105,7 @@ Pretty simple. Once you determine which one is better, you use that UI from now 
 
 **Sampling bias**: You have to make sure that your sample isn't biased. It is important you do random assignment. For example, if you choose to show UI A to one specific group in some region, and then UI B to another specific group in another region, you're introducing a potential bias in your results. It may be the case that the people in region A have a much better economical situation and hence are more likely to buy something regardless of the UI design they're presented with. To mitigate such biases, you assign people at complete random.
 
-**Insufficient sample size**: Remember that in statistics, its often infeasible to perform analysis on the entire population. So instead you only perform an analysis on a sample. You have to make sure that the sample size is big enough to be representative of the entire population. If only 400 people visit your site, and hence 200 people are presented UI A and UI B, this might not be enough data to make a statistical claim on everyone who uses the internet (those are the people who are able to access your site -- those who can browse the web). You can definitely make a statistical claim with a small sample size, but you must acknowledge that it is a limitation in the interpretation of your conclusion and that it may be insufficient evidence. The bigger your sample size, the more confident you can be that the differences you observe aren't simply due to random chance.
+**Insufficient sample size**: Remember that in statistics, its often infeasible to perform analysis on the entire population. So instead you only perform an analysis on a sample. You have to make sure that the sample size is big enough to be representative of the entire population. If only 400 people visit your site, and hence 200 people are presented UI A and UI B, this might not be enough data to make a statistical claim on everyone who uses the internet (those are the people who are able to access your site — those who can browse the web). You can definitely make a statistical claim with a small sample size, but you must acknowledge that it is a limitation in the interpretation of your conclusion and that it may be insufficient evidence. The bigger your sample size, the more confident you can be that the differences you observe aren't simply due to random chance.
 - E.g., if you flip a coin 100 times, its possible that you are very lucky and you get heads 70 times and tails 30 times. Does this mean the coin is rigged? Maybe it is, but it could also be random chance (you can't really know which one from flipping the coin alone). If you do it 100, 1,000, 10,000 times, you'll notice that the results (if the coin is in fact not rigged) begin to converge to 50/50.
 
 After you perform your A/B test, and ensured that you have eliminated sampling bias and have a sufficient sample size, then you can start getting into some statistical analysis in an attempt to prove that any differences you observed betwen A and B are "real" and not simply due to random chance. This process is detailed in the section below.
@@ -144,7 +144,7 @@ Let's say that the difference between the means of two groups is massive. Does t
 
 ![[Pasted image 20241022164326.png | 500]]
 
-The difference between the means of all three groups are the exact same, but if I were to show you all three graphs -- you'd come to a different conclusion on whether or not there was a statistically significant difference. The first graph has very little spread -- variability -- within the groups. That means that the groups hardly overlap. So, if you were to take a sample from any of these groups, it is very, *very* unlikely that it could've come from either one.
+The difference between the means of all three groups are the exact same, but if I were to show you all three graphs — you'd come to a different conclusion on whether or not there was a statistically significant difference. The first graph has very little spread — variability — within the groups. That means that the groups hardly overlap. So, if you were to take a sample from any of these groups, it is very, *very* unlikely that it could've come from either one.
 
 Contrast that with the last graph, and you can see that even though the difference between the means is the exact same as the first, if you took a random sample from either one, it is far more likely that the sample you got could've come from either red or blue. In this case, perhaps the differences between the groups aren't statistically significant.
 
@@ -249,7 +249,7 @@ You might say say all of them, because you can always tweak the numbers however 
 
 Here, we've changed 1 to 0 and 5 to 6. The average is still 3. 
 
-But now ask yourself -- if you were given the average of '3' with five numbers, and you had to choose numbers that make up the average, how many free choices do you have? Only four choices! No matter which four numbers you initially choose, the fifth number isn't free -- its value is predetermined.
+But now ask yourself — if you were given the average of '3' with five numbers, and you had to choose numbers that make up the average, how many free choices do you have? Only four choices! No matter which four numbers you initially choose, the fifth number isn't free — its value is predetermined.
 
 If you chose the first four numbers as "0", then you have no choice but to make the fifth number 15. There is no other number that would give you an average of three.
 
@@ -260,6 +260,10 @@ The equation for an independent dataset is $d_f = n_1 - 1 + n_2 = 1$ where $d_f$
 The equation for related or pared data is simply $d_f = n - 1$ where $n$ is the size of the dataset.
 
 ## ANOVA
+
+***Keep in mind for later (you don't need to understand this right now): One-Way and Two-Way ANOVA are generally only used for between-subject experiments***
+
+***And keep this in mind for now (and always — you have to understand this right now): the independent variables in ANOVA always have to be categorical/discrete. They cannot be continuous. The dependent variable, however, definitely can be continuous***
 
 ANOVA is "Analysis of Variance,"and compares the variance of data. It's another way to compare the means between groups of data. While the t-test can help us compare the statistical significance of the difference in mean between two groups, ANOVA can do it for more than two groups.
 
@@ -301,15 +305,51 @@ If either the t-value or F-value is greater than the critical value at a chosen 
 
 ### One-Way ANOVA
 
+One-way ANOVA is the simplest one. A one-way ANOVA means we are seeing if there is any statistically significant difference between *three or more* groups, where there is *one* independent variable. That is, we are only concerned with how one variable (the independent one) would affect another (the dependent variable).
+
+An example of something that would be appropriate for one-way ANOVA would be seeing whether or not there is a difference in reaction times for performing some task after drinking three kinds of beverages: water, orange juice, or coffee. Our independent variable would be the type of drink, and our dependent variable the reaction time. Since we are also testing three or more groups, we would use a one-way ANOVA.
+
+If we were only comparing between two drinks, we would just use a t-test.
 
 ### Two-Way ANOVA
 
+Two-Way ANOVA is basically just One-Way ANOVA but with the addition of one more independent variable. Taking the example from earlier, maybe you want to see if there is a difference in reaction times for performing a specific task after drinking one of three different beverages (water, orange juice, and coffee), during the morning or night time.
 
+We have suddenly introduced a new variable  the time of day. We can use a two-way ANOVA to see whether or not the choice of beverage had an effect, time had an effect, or if there was some interaction between the two (maybe both beverage and time in combination had some sort of effect, e.g., perhaps we discover that coffee is more effective during the morning).
+
+It's important to note that while the only difference on paper is the addition of an extra independent variable, two-way ANOVA is still quite different. Two-way ANOVA, again, will also:
+
+- Tell us if either independent variable by itself has an effect
+- Tell us if the independent variables have an effect *together* through interaction with one another
+
+Under the hood mathematically, two-way ANOVA also works differently, but you don't need to worry about that for this course.
 ### Factorial ANOVA
 
+Factorial ANOVA you can think of as just a generalisation of one or two-way ANOVA, where we consider $\large n$ number of independent variables. Maybe you want to consider the effect of temperature, humidity, elevation, and average $O_2$ concentration the blood oxygen levels of the human body. You now have four independent variables, so you'd use factorial ANOVA. Remember that since independent variables have to be categorical/discrete, if you were to choose these as independent variables, then you can't have them be continuous values. It would have to be something like:
 
-### Split-Plot ANOVA
-
+- Temperature (low, medium, or high)
+- Elevation (below sea level, at sea level, above sea level or high above sea level)
+- Humidity (>20%, 20-40%, 40-60%, 60-80%, or 80-100%)
+- Average $O_2$ concentration (>20%, 20-40%, 40-60%, 60-80%, or 80-100%)
 
 ### Repeated Measures ANOVA
+
+Repeated Measures ANOVA is used when you collect multiple measurements from the same participants over time or across different conditions (within-subjects design). Unlike between-subjects designs where each participant experiences only one condition, within-subjects designs have participants experience all conditions of the experiment.
+
+Common applications include:
+
+- Measuring changes over time (e.g., tracking patient recovery at 1 month, 3 months, and 6 months)
+- Testing performance under different conditions (e.g., same participants completing tasks under no caffeine, low caffeine, and high caffeine conditions)
+- Evaluating learning effects (e.g., measuring student performance at multiple points during a semester)
+
+Repeated Measures ANOVA can be:
+
+- Simple (one within-subjects independent variable)
+- Factorial (multiple within-subjects independent variable)
+- Mixed (combination of within-subjects and between-subjects independent variables)
+
+This design is particularly useful when you want to control for individual variability and when it's practical and ethical to test the same participants multiple times.
+### Split-Plot ANOVA
+
+Cbf. Looks like they don't go into it. If they ask me to do a split-plot ANOVA in the exam, UoA will be no more.
 
