@@ -410,26 +410,159 @@ Therefore these areas of the screen are the fastest to reach no matter what (oth
 
 # On Interaction Design
 
-- What is different from softeng and interaction design?
+In computer science, we are concerned with the theory of computation and how to solve fundamental problems. Discrete mathematics, data structures, algorithms, algorithmic proofs, automatas, time and space complexity, and all the rest of it -- these are the hallmarks of computer science.
 
-- Autonomy
-- Aesthetics
-- Anticipation
-- Color
-- Consistency & Inconsistency (internally and externally)
-- Defaults
-- Discoverability
-- Efficiency of the user
-- explorable interfaces
-- human interface objects
-- latency reduction 
-- learnability
-- use of metaphor
+Software engineering is the applications of what computer science has provided to solve real world problems, concerned with the questions of how to design robust systems, how to architect certain types of software, what design patterns are appropriate for given situations, and all the rest of it.
+
+So then what is interaction design?
+
+While the computer scientist is concerned with theory, the software engineer how to apply theory to real life, the interaction designer is concerned with how humans will interact with software. This is a completely new question.
+
+A computer scientist might ask "How does a computer determine when to do an action?"
+A software engineer would then ask "How would we represent a button?"
+The interaction designer asks "How will someone know this is a button?"
+
+This is the difference.
+
+## Autonomy
+
+We want to guide the user, but we also don't want to hold their hands. There needs to be a balance of autonomy and guidance in a user interface.
+
+## Aesthetics
+
+Nice looking interfaces can make someone joyous or feel good about using a piece of software. Beautiful things are after all attractive. But one must never sacrifice usability for the sake of aesthetics. What good is your software if all you can do is look at it?
+
+
+## Anticipation
+
+A good piece of software will be able to anticipate what the user is going to do. Perhaps a crude example of this is predictive typing:
+
+![[Pasted image 20241024020017.png | 400]]
+
+But perhaps a better example is a form filling out details that it already knows about you. For example, if you sign up to a website and buy something off the website, when you go to fill in your information, it shouldn't be asking you for your email again. That stuff should already be filled out by the software automatically.
+
+## Color
+
+Color is a great tool for providing cues (e.g., green means yes and red means no), grouping related items, and boosting aesthetic pleasure (e.g., a good color pallate), but one also needs to be wary of accessibility.
+
+This doesn't mean one should ditch the power of colors simply because some people won't be able to utilise them such as colorblind folks (and if we extend that logic to blind people -- well lets just not design any UI at all then). But one should be *wary* of it. Usually this is done by offering secondary cues (usually some text indicating what something is).
+
+## Consistency and Inconsistency
+
+A piece of software should be both consistent within itself and consistent with the rest of the world.
+
+When talking about consistent within itself, this simply means that any related things should appear the same. For example, if we are talking about an operating system (which is a piece of software), the windowing system should have the same three options (minimize, maximize, close) no matter what it is showing (that is, all window bars should look the same -- because they're the same thing!)
+
+Likewise, if there are two *different* things in a piece of software -- they **shouldn't** look the same! For example, lets look at the "find" and "find and replace" UI in Obsidian:
+
+![[Pasted image 20241024020825.png]]
+
+![[Pasted image 20241024020838.png]]
+
+Notice the pattern? They look similar -- so you immediately know they must have some sort of commonality. At the same time, they're different so you know they must serve a different purpose. And thats exactly what is going on. 
+
+Now lets say that this "Find and replace" UI was found in another part of Obsidian -- maybe finding and replacing text in a PDF file rather than Markdown notes. The UI should look exactly the same as above!! It shouldn't look different otherwise you're signalling to the user that its different somehow (even though it may not actually be). Appearance is always tied to functionality in the mind of the user.
+
+Now, when we talk about consistency we also mean outside of the app. Taking the same example as "find and replace" as above, the layout is quite standard and similar to a lot of text editor applications. Here is an example from the Linux default text editor:
+
+![[Pasted image 20241024021201.png | 600]]
+
+Or the Google Docs one:
+
+![[Pasted image 20241024021248.png | 500]]
+
+## Defaults
+
+There are many times when answers to certain questions, or certain fields are rarely changed but still needed information, and so it would be useful for there to be a default answer or setting. 
+
+In the case that the user wants to change these defaults, there should be a very easy way to clear them so that they can put in the information themselves.
+
+At the same time, it should be very clear exactly WHAT this "reset to defaults" button or whatever is actually going to do. Is it going to clear everything? Or just a few things? Is it going to undo the stuff that you wrote down even though there's no defaults for the fields you wrote down?
+
+Much like the "Anticipation" section, defaults should be intelligent in nature. If you're filling out a University form for overseas travel as a professor (as was the example given by the lecturer), why the heck should it be asking you for your name? If you're logged into your University account it should default to having that information filled out for you.
+
+## Discoverability
+
+In the pursuit of making our user interfaces as clean and clutter-free as possible we sometimes hide too much functionality. Let us take the simple example of some art software, like Krita:
+
+![[Pasted image 20241024022644.png]]
+
+Is the user interface complicated? Sure! There's tons of buttons everywhere and heaps of stuff to click on. We don't want this software to look minimalistic and elegant. That's not the point. From the point of view of an artist, the brush, pencil, selection, line, text, pointer, color picker, and the tens of other things must be accessible at ALL. TIMES.
+
+In fact, hiding these in menus or something in an effort to make the interface more clean only adds to the complexity. Now the artist will have to not only search for what they want, they'll have to constantly navigate menus or whatever else in order to get something that they constantly need.
+
+What the user cannot find, in effect, does not exist. Even if it actually exists in your software, if the user cannot find it, it might as well not.
+
+Of course, this doesn't mean we should have buttons taking up the whole screen. Like all things, there must be a balance. It is important to always do statistical analysis of UI designs (covered in week 3).
+
+## Efficiency of the User
+
+The efficiency of the user is the ultimate test of how effective your UI design is. If the user is able to do what they want to do very fast, there's not much more they nor you can ask for.
+
+Oftentimes theres a tradeoff in developer time to lower costs of creating a UI while passing some of the burden onto the user. We have to remember that a team of only ten or so developer has the power to make software used by millions of people. Saving 10 hours of development of time to not add a helpful UI feature means that millions of other people might waste a few seconds per day navigating around this -- meaning years and years of wasted time every day.
+
+Lets say one million people use your software daily and you make some UI design decision that wastes just ONE second of a users time everytime they use that feature, and lets say they use that feature once per day.
+
+That's 1 million seconds wasted per day.
+
+That's 1 year of time wasted per month.
+
+For what? To save 10 hours of development time? And this is assuming just 1 second of wasted time, and people only use the feature once per day. More likely it will be a few seconds and the feature used multiple times a day.
+
+We always prioritise the efficiency of the user and not the development group.
+
+On a side note, error messages should actually be helpful instead of giving some arbitrary looking error code or useless stack trace that the user cannot interpret.
+
+## Explorable Interfaces
+
+Your UI should be explorable. As simple as that. You should actually be able to see where you're going (maybe an arrow to indicate the next page) and where you currently are (maybe highlighted tabs)
+
+For example:
+
+![[Pasted image 20241024023755.png | 900]]
+
+You can see that "Home" is underlined, as is "All". The "Sent Items" is highlighted, and the mail icon has both a bright orange tab beside it and is outlined in the same color. You know exactly where you are, where you can go, and what you can do with this UI. It is explorable.
+
+## Human Interface Objects
+
+I have an idea of what this means but idk man i cbf writing it #todo
+
+## Latency reduction 
+
+This should be obvious bruh. Things should be snappy and fast. If they aren't, the user should be informed about it e.g., a progress bar or a loading icon. Depending on how long it takes you might use a animated mouse cursor, a straight up loading bar, or like a slideshow or something as well to keep the user entertained.
+
+If there is a delay between an action and a visual indication of loading, the user might try to perform the action which may have negative effects on the software. For example, if you have a "Buy" button, you might want to disable it *immediately* after the user clicks on it to prevent them from buying twice. There shouldn't be any delay
+
+## Learnability
+
+????
+
+## Use of Metaphors
 	- example of newspaper site making it look like newspaper but theres still links which arent what newspapers do?
-- Protect users work
-- Readability
-- Simplicity
-- State
 
-There is a theme of sacrificing usability and saving time for "cut costs make more money billions of dollars brrrr"
+## Protect users work
+
+Always have an autosave feature or something, or at the very least never delete the users work without their knowledge AND consent. Lecture gave an example of some dumbass feature where a form you fill out would be cleared if you didn't fill it out in some specified amount of time. Oh and the time wasn't even displayed to you, so you'd have to bring out your own timer. Absolute dumbassery. Don't do that. 
+
+
+## Readability
+
+Good font size, nice contrast between background and text, good colors.
+
+Buttons, menus, sliders, etc should only have key words (e.g., a sign up button should just be "Sign Up" instead of "Click Here to Sign Up Now!!!")
+
+Never sacrifice readability for beauty or prettiness. They don't go hand in hand. 
+
+## Simplicity
+
+Mentioned before, don't cut corners and try and simplify something that is actually complex (see the artist UI example above).
+
+You must balance the ease of installing your software with actually using it. If its hard af to install, doesn't matter how incredible the actual software is -- nobody will be able to install it to use it in the first place.
+
+## State
+
+Since most of the internet nowadays is stateless, its important that you ensure that all user state that is computed on the front end is encrypted and stored securely. This should also be made clear to the user.
+
+An example of this is document state in a lot of online text editors. While your actual document is saved in the cloud normally (e.g., with Google Docs or Word Online), stuff like your immediate document history, clipboard history (which includes images), are all managed locally. 
+
 # Construction Informatics
