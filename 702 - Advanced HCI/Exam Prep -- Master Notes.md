@@ -58,15 +58,92 @@ There is no such thing as perfection. No matter what design you make, there will
 
 The only good line in the entirety of the slides is "In HCI, we want something 100% easy to use. The security guys want something 100% secure. Yet, the more secure something is, the harder it is to use". When 2FA became a thing, it was slightly less convenient to log in to sites now, but the tradeoff for an insurmountable increase in security was seen as worth it to the eyes of companies who mandated 2FA such as GitHub.
 
-# Week 2
 
-## Multimodal systems
 
-- about them
-- fusion and fission
-- example of human body modality
-- issues of motion analysis
-- gesture modalities
-- gaze modality
-- other modalities (perceptual, attentive, enactive, affective)
-- CASE and CARE model
+# Revision:
+
+1. Research Methodology & Epistemology (Most Frequently Tested):
+
+- Appears in all exams with significant weight (20+ marks each time)
+- Key aspects tested:
+    - Epistemological paradigms (postpositivist vs constructivist)
+    - Research design and validity
+    - Research questions and hypotheses
+    - Methodology selection and justification
+    - Creswell's framework (especially Table 1.1 terms)
+
+2. User Study Design & Evaluation:
+
+- Consistently appears across years:
+    - 2018: Laptop trackpad evaluation
+    - 2019: Construct validity in user studies
+    - 2020: Project-specific experiments
+    - 2021: Empirical quantitative evaluation
+- Focus areas:
+    - Study design principles
+    - Validity considerations
+    - Metrics selection
+    - Data collection methods
+    - Evaluation approaches
+
+3. Research Ethics & Participant Rights:
+
+- Regular appearance in exams:
+    - 2018: Research incidents and participant information sheets
+    - 2019: Informed consent and Facebook case studies
+    - 2020: User autonomy
+- Key themes:
+    - Informed consent
+    - Participant rights
+    - Ethical standards
+    - Value-sensitive design
+    - Research integrity
+
+4. Data Collection & Analysis Methods:
+
+- Consistent focus across years:
+    - Qualitative vs quantitative methods
+    - Metrics selection (mean vs median)
+    - Data analysis approaches
+    - Research rigor
+    - Affinity analysis
+- Emphasis on:
+    - Appropriate method selection
+    - Data quality
+    - Analysis techniques
+    - Result interpretation
+
+5. Emerging Technologies & Paradigms:
+
+- Regular testing of new technologies:
+    - Eye tracking (2018, 2019)
+    - Gesture interaction (2020)
+    - Human-Centric Software Engineering (2021)
+- Focus areas:
+    - Technical challenges
+    - Implementation considerations
+    - User interaction design
+    - Future implications
+
+6. Literature Review & Quality Assessment:
+
+- Increased emphasis in recent years:
+    - 2018: Notable scientific advances
+    - 2021: Literature quality evaluation
+- Key aspects:
+    - Quality criteria
+    - Critical evaluation
+    - Research contribution assessment
+    - Literature synthesis
+
+7. Practical Application & Project Implementation:
+
+- Consistent requirement across all exams:
+    - Device ecosystems
+    - User requirements
+    - Interaction design
+    - Beta testing
+    - Implementation challenges
+
+2024 sample exam: Interface Evaluation and Affinity Analysis.  
+Other 2024 topics: Fitts' Law ,Multimodal Interfaces, and Guest lectures: DMHI?

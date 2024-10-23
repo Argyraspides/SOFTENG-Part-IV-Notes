@@ -298,3 +298,138 @@ These additional points provide further context and specific details from the le
 
 # Personal
 ***
+# Performance Metrics
+
+
+## Fitts' Law
+
+Fitts' Law is an empirical law which describes the time it takes for someone to "reach for" something based on how far away it is, and how big it is.
+
+For example, take a look at the image below
+
+![[Screenshot from 2024-10-23 18-04-56.png | 750]]
+
+
+How long do you think it'd take someone to move their mouse cursor to the Google search bar? Or maybe the blue "Sign In" button in the top right corner? The "Google Search" button below the search bar?
+
+Fitts' Law has a formula to tell us how long it will take:
+
+$$\LARGE t = a + b\cdot log_2(\frac{2D}{w})$$
+Where:
+
+- $\large t$ is the time it takes to reach the target
+- $\large a$ you may think of as a "baseline" reaction time of human beings. More specifically $\large a$ denotes the start and stop time delay for beginning the movement and ending the movement.
+- $\large b$ you may think of as an inverse of how long it takes us to process information, e.g., how long it takes for you to recognise where the mouse pointer currently, where you're headed, etc. The faster you are at processing information, the time it takes you to recognise whether or not you're at the goal decreases and hence you reach the target faster.
+	- Both $\large a$ and $\large b$ completely depend and hence change based on individual, device, pointer type, etc. Usually we take some sort of statistical average for a population if we want to conduct some study on, say, the effectiveness of one user interface vs another.
+- $\large D$ is the distance to the target
+- $\large w$ is the width of the target.
+
+In the example above, given the current position of the mouse, it'd take longer to reach the "Sign In" button than the Google search bar. The're both roughly the same distance (sign in is a bit further), but the width of the sign in button is also much, much smaller, so the $\large log_2(\frac{2D}{W})$ term would increase.
+
+Let's have a look at that term, actually:
+
+$$\LARGE log_2(\frac{2D}{w})$$ 
+This part of the equation is what is known as the "index of difficulty", or "ID". This part of the equation is the most interesting, as it is completely independent of the person/device in question. It tells us that fundamentally, the time taken scales with distance and width, no matter who is using the device.
+
+Intuitively this makes sense. The further away something is, the longer it will take to reach (the fraction in the log function increases). The smaller something is, the harder it is to precisely hover over it, and so it will also take longer to reach (the fraction in the log function also increases).
+
+Fitts' Law doesn't just apply to user interfaces and time to reach buttons. It applies to all sorts of stuff, such as:
+
+- The time it takes for you to reach out your hand to catch an incoming ball
+- The time it takes for you to click on a button with your finger on a touch device
+- The time it takes to grab your coffee mug from your desk
+- The time needed to put a key in a lock
+
+Generally speaking, all these movements have the same component:
+
+- When you're further away, you come towards the object very fast
+- As you get closer and closer, you begin to slow down to precisely hover/track the object
+	- This is precisely what the $\large log$ function is telling us
+
+Keep in mind that for user interfaces (where we are normally trying to find out the time it takes to get to a UI component), even though the equation itself has $\large w$ as the width of the component, we would just replace it with whatever dimension of the rectangle is smallest. In the case of a circle, it would just be the diameter. For any other weird shape, it would again just be the smallest dimension of the rectangle that Fitts it.
+
+### Designs Influenced by Fitts' Law
+
+- The pie menu (you can get to every option at the same time)
+
+![[Pasted image 20241023212020.png]]
+
+- Short dropdown lists (takes minimal time to choose what you want if its short)
+
+- Putting related targets close together (e.g., sign up button with the email & password input box)
+	- In the specific case of the sign up box, the hope is that your mouse would be over the password box and you can click sign up with just a tiny move of the mouse (since the action sequence  been click on password box --> type in your password --> click sign up button)
+
+![[Pasted image 20241023212126.png]]
+
+- Right click pop-up menu (like the one on your desktop)
+
+![[Pasted image 20241023205906.png]]
+
+
+- larger targets (usually by putting icon inside button)
+
+![[Pasted image 20241023212406.png]]
+
+### Limitations of Fitts' Law
+
+Fitts' Law makes the assumption that the path to the target is a straight line (or more precisely, that it is *reachable* in a straight line). If you have to circumnavigate some sort of obstacle on your way to the target, Fitts' Law breaks down.
+
+It also breaks down for tasks with a very very low index of difficulty (tasks that are near trivial to reach, e.g., something that is always near your mouse no matter what might take a constant time to reach).
+
+Fitts' Law also breaks down when the movement to a target is non-linear in *any* capacity. E.g., cascading menus:
+
+![[Pasted image 20241023184841.png]]
+
+Since the target is hidden along the way, there will be pauses, which breaks Fitts' Law (in other words, Fitts' Law doesn't work with non-continuous movements as well).
+
+Fitts' Law also doesn't apply if something requires both hands #todo give example?
+
+Flexor and extensor movements are different from each other in the human body (i.e., the neural control mechanisms are different for, say, opening and closing your hands, or pushing something vs pulling it), meaning Fitts' law can't model them both.
+
+## Prime Pixel
+
+This is a concept that was sort of derived from Fitts' Law. Ask yourself the following question: What place on a screen is fastest to get to?
+
+The one right underneath your cursor.
+
+The prime pixel is literally just the location of the pixel that your cursor is currently on. In the formal definition of the prime pixel, it will also be the starting point for your next action. For example, when you right click on your desktop:
+
+![[Pasted image 20241023205906.png]]
+
+You see this little menu pop up. And where does the menu appear? Right under your cursor. Of course, the place you want to get to is going to require you to move your cursor a bit, but the point is that we are minimising the distance that the user will have to travel in order to get to the place that they want to go.
+
+## Magic Pixels
+
+Magic pixels refer to the four corners of your screen. Remember that Fitts' law (and really common sense as well) tell us that the futher away something is, the longer it takes to reach it. Now normally, when we are reaching for a target, we will initially accelerate very quickly towards the target, and then slow down as we are approaching it. Why? Because we don't want to overshoot the target.
+
+What if we could just eliminate this slowing down part? Why not move at very high, constant speed?
+
+Well we certainly can if there was no risk of overshooting the target. Turns out, you can flick your mouse to all four corners of your screen without having to worry about overshooting them. Magic!
+
+Therefore these areas of the screen are the fastest to reach no matter what (other than the prime pixel of course). A very useful spot to put stuff that somebody might use very often, as they can get to them very quickly.
+
+# On Interaction Design
+
+- What is different from softeng and interaction design?
+
+- Autonomy
+- Aesthetics
+- Anticipation
+- Color
+- Consistency & Inconsistency (internally and externally)
+- Defaults
+- Discoverability
+- Efficiency of the user
+- explorable interfaces
+- human interface objects
+- latency reduction 
+- learnability
+- use of metaphor
+	- example of newspaper site making it look like newspaper but theres still links which arent what newspapers do?
+- Protect users work
+- Readability
+- Simplicity
+- State
+
+There is a theme of sacrificing usability and saving time for "cut costs make more money billions of dollars brrrr"
+# Construction Informatics

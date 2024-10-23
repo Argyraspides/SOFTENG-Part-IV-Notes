@@ -259,9 +259,11 @@ The equation for an independent dataset is $d_f = n_1 - 1 + n_2 = 1$ where $d_f$
 
 The equation for related or pared data is simply $d_f = n - 1$ where $n$ is the size of the dataset.
 
+The reason DOF is related to the sample size is the simple fact that the sample is our data, and is the fundamental source of all our information (just like how 1,2,3,4,5 was the fundamental source for our conclusion of "average is 3").
+
 ## ANOVA
 
-***Keep in mind for later (you don't need to understand this right now): One-Way and Two-Way ANOVA are generally only used for between-subject experiments***
+***Keep in mind for later (you don't need to understand this right now): One-Way and Two-Way ANOVA are only used for between-subject experiments***
 
 ***And keep this in mind for now (and always — you have to understand this right now): the independent variables in ANOVA always have to be categorical/discrete. They cannot be continuous. The dependent variable, however, definitely can be continuous***
 
