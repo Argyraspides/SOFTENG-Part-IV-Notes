@@ -1,133 +1,3 @@
-## P1
-Summarize these university lecture transcripts and slides in **EXTREME** detail, emphasizing key points **and** noting any minor details to remember. They are all part of the same lecture.
-
-## R1
-This lecture covers several key topics related to Interaction Design and Human-Computer Interaction (HCI), with a specific focus on its application in the construction industry. Here's an extremely detailed summary:
-
-1. Introduction to Interaction Design:
-
-- Definition by Winograd (1997): "The design of spaces for human communication and interaction"
-- Contrasts with software engineering and computer science approaches
-- Focuses on how users interact with systems, devices, and interfaces
-
-2. Key Aspects of Interaction Design:
-
-- Supporting tasks through displays, controls, and sensory/cognitive/physical actions
-- Adapting to different devices, form factors, and usage conventions
-- Considering usability aspects: effectiveness, efficiency, safety, utility, learnability, memorability
-- Addressing user experience factors: satisfaction, enjoyment, fun, motivation, aesthetics, creativity support
-
-3. Design Principles:
-
-- Visibility, feedback, constraints, mapping, consistency, affordance
-- Use of heuristic evaluation, including Nielsen's 10 heuristics
-
-4. Detailed Principles of Interaction Design:
-
-a) Aesthetics:
-
-- Leave to skilled graphic/visual designers
-- Fashion should not trump usability
-- User test visual design thoroughly
-
-b) Anticipation:
-
-- Provide all necessary information and tools for each step
-- Example: University travel application form lacking pre-filled information
-
-c) Autonomy:
-
-- Allow users to make decisions while maintaining responsible control
-- Use status mechanisms to keep users informed
-
-d) Color:
-
-- Use secondary cues alongside color for accessibility
-- Test for color-blind users
-- Don't avoid color, but don't overwhelm with it
-
-e) Consistency:
-
-- Maintain visual consistency for similar functions
-- Strive for continuity over time
-- "Consistency with user expectations" is most important
-
-f) Defaults:
-
-- Make defaults easy to change
-- Use intelligent and responsive defaults
-- Clearly communicate the scope of reversions
-
-g) Discoverability:
-
-- Don't hide complexity unnecessarily
-- Make controls visibly accessible
-- Use visual diagrams for gestural vocabularies
-- User test for discoverability
-
-h) Efficiency of the User:
-
-- Focus on user productivity, not just computer efficiency
-- Keep users occupied
-- Consider efficiency across entire organizations
-- Provide helpful error messages
-
-i) Explorable Interfaces:
-
-- Provide well-marked paths and landmarks
-- Offer stable perceptual cues
-- Make actions reversible and always allow "Undo"
-
-j) Human Interface Objects:
-
-- Should be perceivable, manipulable, and have standard behaviors
-- Use new objects for different interactions or behaviors
-
-k) Latency Reduction:
-
-- Minimize user experience of delays
-- Keep users informed during delays
-- Optimize for speed
-
-l) Learnability:
-
-- Balance with usability
-- Avoid testing only for learnability
-
-m) Use of Metaphors:
-
-- Choose metaphors that clarify conceptual models
-- Appeal to multiple senses
-- Expand beyond literal interpretations
-- Abandon metaphors if they become limiting
-
-n) Protect Users' Work:
-
-- Ensure users never lose their work
-
-o) Readability:
-
-- Use high contrast for text
-- Employ appropriate font sizes
-- Prioritize readability over aesthetics
-- Test designs with older user populations
-
-p) Simplicity:
-
-- Balance ease of installation with ease of use
-- Avoid "Illusion of Simplicity"
-- Use Progressive Revelation for learning curves
-- Don't eliminate necessary capabilities
-
-q) State:
-
-- Track and store state information securely
-- Clearly communicate what will be stored
-
-r) Visible Navigation:
-
-- Make navigation visible and intuitive
-- Use overlays to limit screen counts
 
 5. Construction Informatics and HCI:
 
@@ -295,11 +165,7 @@ I apologize for the oversight. Upon another careful review, I've identified seve
 
 These additional points provide further context and specific details from the lecture materials that I hadn't mentioned in my previous responses. They cover a wide range of topics from AI capabilities to specific examples in construction informatics and HCI.
 
-
-# Personal
-***
 # Performance Metrics
-
 
 ## Fitts' Law
 
@@ -382,7 +248,7 @@ Fitts' Law also breaks down when the movement to a target is non-linear in *any*
 
 Since the target is hidden along the way, there will be pauses, which breaks Fitts' Law (in other words, Fitts' Law doesn't work with non-continuous movements as well).
 
-Fitts' Law also doesn't apply if something requires both hands #todo give example?
+Fitts' Law also doesn't apply if something requires both hands. The coordination patterns we use when using both hands to perform a task are far more complicated than if we are only using one. For example, imagine yourself balancing a tray in one hand. You can imagine that the target you are trying to reach is the center of mass of the tray. When you introduce two hands into the equation, all of a sudden you have to account for coordination between the hands which affects the time, and it turns out this isn't just a linear relationship (it should be intuitive enough that balancing a tray with two hands isn't necessarily twice as fast as with one hand -- in fact it might be more difficult for some people!)
 
 Flexor and extensor movements are different from each other in the human body (i.e., the neural control mechanisms are different for, say, opening and closing your hands, or pushing something vs pulling it), meaning Fitts' law can't model them both.
 
@@ -493,7 +359,7 @@ In fact, hiding these in menus or something in an effort to make the interface m
 
 What the user cannot find, in effect, does not exist. Even if it actually exists in your software, if the user cannot find it, it might as well not.
 
-Of course, this doesn't mean we should have buttons taking up the whole screen. Like all things, there must be a balance. It is important to always do statistical analysis of UI designs (covered in week 3).
+Of course, this doesn't mean we should have buttons taking up the whole screen. Like all things, there must be a balance. It is important to always do statistical analysis of UI designs (covered in week 3 notes).
 
 ## Efficiency of the User
 
@@ -525,20 +391,53 @@ You can see that "Home" is underlined, as is "All". The "Sent Items" is highligh
 
 ## Human Interface Objects
 
-I have an idea of what this means but idk man i cbf writing it #todo
+A human interface object is nothing more than something on the screen that the user can interact with. You may think of it as a "unit" of interaction.
+
+For example, take a look at the Google homepage:
+
+![[Screenshot from 2024-10-23 18-04-56.png | 750]]
+
+From a software developers point of view, this UI is made up of:
+
+- An image of the Google logo
+- A text input component (search bar)
+- Button components for sign in, images, gmail, about, store, Google Search, I'm Feeling Lucky
+
+And a few other things. These things also happen to be what the user can actually interact with, and as such they are called human interface objects. Note that human interface objects all have a standard way of being manipulated, e.g., clicking on a button or sliding a slider bar (a slider bar on two different UIs shouldn't have two different ways of being manipulated)
+
+Here is a useful definition from [this pdf](https://www.cerritos.edu/dwhitney/SitePages/CIS201/Lectures/IM-7ed-Chapter08.pdf):
+
+> "*Human interface objects are those objects that appear on a screen and that the user can manipulate or use to navigate.*
+> 
+> *The concept of “affordance” means that the developer should use objects that reflect the function that they perform.*
+> 
+> *Tool tips can assist the user as he/she looks for meaningful icons or hotspots on the screen.*
+> 
+> *HIO’s should also provide visual feedback when they are activated. This feedback can be visual, such as a change it color or background color or highlight, or audio, such as a clicking noise.*
+> 
+> *These two principles, affordance and visibility, are critical for all types of devices and user interface objects*"
 
 ## Latency reduction 
 
 This should be obvious bruh. Things should be snappy and fast. If they aren't, the user should be informed about it e.g., a progress bar or a loading icon. Depending on how long it takes you might use a animated mouse cursor, a straight up loading bar, or like a slideshow or something as well to keep the user entertained.
 
-If there is a delay between an action and a visual indication of loading, the user might try to perform the action which may have negative effects on the software. For example, if you have a "Buy" button, you might want to disable it *immediately* after the user clicks on it to prevent them from buying twice. There shouldn't be any delay
+If there is a delay between an action and a visual indication of loading, the user might try to perform the action which may have negative effects on the software. For example, if you have a "Buy" button, you might want to disable it *immediately* after the user clicks on it to prevent them from buying twice (and doing this indicates to them that something is happening). There shouldn't be any delay.
 
 ## Learnability
 
-????
+At the most basic level, learnability is how quickly someone can learn how to use your UI. How long does it take them to learn the most crucial features? More importantly, how long does it take for them to get *good* at using those features? How long are they spending sifting through documentation trying to find the answer to something that should just be intuitive?
+
+Easy learning = less need for documentation = user can spend more time doing work = user efficiency increases = less developer time required = user more satisfied as they aren't banging their head thinking about how to do something = everybody happy
 
 ## Use of Metaphors
-	- example of newspaper site making it look like newspaper but theres still links which arent what newspapers do?
+
+Metaphors can be powerful in getting the user to understand how to use a UI without spending much effort. A classic file explorer is a great example of this:
+
+![[Pasted image 20241024141300.png]]
+
+Notice how the icons are folders, even though they could be anything at all, signalling to the user that there are files within the folders (as would be the case in real life -- this is the meatphor).
+
+And the "Trash" tab on the side indicates that this is where junk files go (because the trash is where you put junk in real life). It could just as easily have been called "Null Files" or something, but trash is a great metaphor.
 
 ## Protect users work
 
@@ -563,6 +462,18 @@ You must balance the ease of installing your software with actually using it. If
 
 Since most of the internet nowadays is stateless, its important that you ensure that all user state that is computed on the front end is encrypted and stored securely. This should also be made clear to the user.
 
-An example of this is document state in a lot of online text editors. While your actual document is saved in the cloud normally (e.g., with Google Docs or Word Online), stuff like your immediate document history, clipboard history (which includes images), are all managed locally. 
+An example of this is document state in a lot of online text editors. While your actual document is saved in the cloud normally (e.g., with Google Docs or Word Online), stuff like your immediate document history, clipboard history (which includes images), are all managed locally. Cookies and session tokens are also stored locally. It is vital, for example, that if the user logs off these are discarded/stored securely.
+
+## Visible Navigation
+
+Simple. This is basically just a subset of explorability. Use tabs, buttons, navbars, arrows, whatever, to make sure that the user knows where they can go to get to where they wanna go.
+
+For example if you're at a shopping site and you want to find clothing, maybe at the top navbar you have a tab that says "Wearables", which opens up more stuff and you can close in on what you want (e.g., Wearables > Headgear, Clothing, Shoes ... > whatever else).
+
+It's also normally a good idea that you don't redirect users to a new page if you don't have to. E.g., with cascading menus on some sites:
+
+![[Pasted image 20241024142724.png | 750]]
+
+When you click on "About Us" on the UoA website, it doesn't redirect you to a new page but just brings up a floating menu. It would be very, very annoying if you were constantly redirected to new pages when you are trying to navigate and might not know every corner and crevice of the piece of software that you're using and constantly had to click the back button and essentially having to wait for an entire page reload instead of just moving your mouse away.
 
 # Construction Informatics
